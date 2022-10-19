@@ -34,6 +34,16 @@
                         if($flag == 0)
                         {
                             echo "Word: ".$word; echo "<br>";
+                            $new_post = array(
+                                'post_type'     => 'dictionary',
+                                'post_title'    => $word,
+                                'post_status'   => 'publish',
+                            );
+                        
+                            $id = wp_insert_post($new_post);
+                            if ( is_wp_error( $id ) ) {
+                                echo "System errors";
+                            } 
                         } 
                         // else {
                         //     $specialCharacter = $specialCharacter . "- " . $word . "<br>";
@@ -55,6 +65,16 @@
                                 if($flag == 0)
                                 {
                                     echo "Word: ".$word; echo "<br>";
+                                    $new_post = array(
+                                        'post_type'     => 'dictionary',
+                                        'post_title'    => $word,
+                                        'post_status'   => 'publish',
+                                    );
+                                
+                                    $id = wp_insert_post($new_post);
+                                    if ( is_wp_error( $id ) ) {
+                                        echo "System errors";
+                                    } 
                                 } 
                                 // else if($flag == 1)
                                 // {
