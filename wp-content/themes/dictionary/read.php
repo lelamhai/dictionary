@@ -15,6 +15,7 @@
         require get_template_directory() . '/data.php';
 
         $arrs = explode('@', $text);
+
         
         foreach($arrs as $arr)
         {
@@ -22,36 +23,59 @@
             if(trim($arr) != "")
             {
                 $contents = explode('*', $arr);
-                $first =  0;
-                
-                foreach($contents as $content)
+
+                if(count($contents) > 0 && count($contents) < 2)
                 {
-                    if($first == 0)
+                    $words = explode('-', $arr);
+                    $flag =  0;
+                    $specialCharacter = "";
+                    foreach($words as $word)
                     {
-                        $words = explode('/', $content);
-                        $flag = 0;
-                        foreach($words as $word)
+                        if($flag == 0)
                         {
-                            if($flag == 0)
-                            {
-                                echo "Word: ".$word; echo "<br>";
-                            } else if($flag == 1)
-                            {
-                                echo "IPA: "."/".$word."/"; echo "<br>";
-                            }
-                            $flag ++;
-                        }
-                    } 
-                    else {
-                        $new = str_replace('-', '<br>- ', trim($content));
-                        $specialCharacter = $specialCharacter . "*" . trim(ucfirst($new)) . "<br>";
+                            echo "Word: ".$word; echo "<br>";
+                        } 
+                        // else {
+                        //     $specialCharacter = $specialCharacter . "- " . $word . "<br>";
+                        // }
+                        $flag ++;
                     }
-                    $first ++;
+                    // echo $specialCharacter; echo "<br>";
+
+                } else {
+                    $first =  0;
+                    foreach($contents as $content)
+                    {
+                        if($first == 0)
+                        {
+                            $words = explode('/', $content);
+                            $flag = 0;
+                            foreach($words as $word)
+                            {
+                                if($flag == 0)
+                                {
+                                    echo "Word: ".$word; echo "<br>";
+                                } 
+                                // else if($flag == 1)
+                                // {
+                                //     echo "IPA: "."/".$word."/"; echo "<br>";
+                                // }
+                                $flag ++;
+                            }
+                        } 
+                        // else {
+                        //     $new = str_replace('-', '<br>- ', trim($content));
+                        //     $specialCharacter = $specialCharacter . "*" . trim(ucfirst($new)) . "<br>";
+                        // } 
+                        $first ++;
+                    }
+                    // echo $specialCharacter; echo "<br>";
                 }
-                echo $specialCharacter; echo "<br>";
                 echo "<br><br><br><br>";
             }
         }
+    } else {
+        echo $_GET["number"];
     }
 ?>
 
