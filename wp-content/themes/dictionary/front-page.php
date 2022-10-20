@@ -1,15 +1,25 @@
 <?php
     get_header();
 ?>
-
-    <div>
-        <div>
-            <input type="text" name="">
+<main>
+    <section class="advertisement"></section>
+    <section class="center">
+        <div class="form">
+            <div>
+                <input type="text" class="word">
+            </div>
+            <div>
+                <button id="submit">Submit</button>
+            </div>
         </div>
-        <div>
-            <button>Submit</button>
+    </section>
+    <section class="words">
+        <div class="title">Danh sách từ</div>
+        <div class="ajax-list-words">
+            
         </div>
-    </div>
+    </section>
+</main>
 
 <?php
     get_footer();
