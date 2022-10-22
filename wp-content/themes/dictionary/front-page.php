@@ -1,5 +1,15 @@
 <?php
     get_header();
+    // $args = array(  
+    //     'post_type' => 'dictionary',
+    //     'post_status' => 'publish',
+    //     'option' => 0,
+    //     'custom_search' => 'alphanumeric-value',
+    //     'posts_per_page' => -1
+    // );
+    // $query = new WP_Query( $args ); 
+    // $posts = $query->posts;
+    // var_dump($posts);
 ?>
 <main>
     <section class="advertisement"></section>
