@@ -23,7 +23,7 @@ function custom_search_start_with( $where, $query ) {
 
     $first = 'a';
 
-    $where = null;
+    // $where = null;
     switch ($option) {
         case 0:
             $where .= " AND $wpdb->posts.post_title = '$custom_search' AND $wpdb->posts.post_title LIKE '$first%'";
