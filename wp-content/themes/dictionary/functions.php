@@ -4,7 +4,7 @@ require get_template_directory() . '/include/post-types.php';
 add_action('wp_enqueue_scripts', 'regsiter_styles');
 function regsiter_styles()
 {
-    $version = "6";
+    $version = "11";
     
     wp_enqueue_style('dictionary-bootstrap', get_template_directory_uri() ."/assets/bootstrap/css/bootstrap.min.css", array(), $version);
 
@@ -20,13 +20,11 @@ function custom_search_start_with( $where, $query ) {
 
     $option = esc_sql( $query->get( 'option' ) );
     $custom_search = esc_sql( $query->get( 'custom_search' ) );
+    $character =  esc_sql( $query->get( 'character' ) );
 
-    $first = 'a';
-
-    // $where = null;
     switch ($option) {
         case 0:
-            $where .= " AND $wpdb->posts.post_title = '$custom_search' AND $wpdb->posts.post_title LIKE '$first%'";
+            $where .= " AND $wpdb->posts.post_title = '$custom_search' AND $wpdb->posts.post_title LIKE '$character%'";
           break;
         case 1:
             $where .= " AND $wpdb->posts.post_title LIKE '$custom_search%'";
@@ -41,37 +39,42 @@ function custom_search_start_with( $where, $query ) {
 add_action('wp_ajax_find_word', 'find_word_function');
 add_action('wp_ajax_nopriv_find_word', 'find_word_function');
 function find_word_function() {
-    if(!empty($_GET["word"]))
+    if(!empty($_GET["word"]) )
     {
+        $listId = json_decode($_GET["listId"]);
         $args = array(  
             'post_type' => 'dictionary',
             'post_status' => 'publish',
+            'post__not_in' => $listId,
             'option' => 0,
             'custom_search' => $_GET["word"],
-            'posts_per_page' => -1
+            'character' => $_GET["character"],
+            'posts_per_page' => 1
         );
         $query = new WP_Query( $args ); 
-        $posts = $query->posts;
+        $oldPosts = $query->posts;
 
-        if(count($posts) > 0) {
+        if(count($oldPosts) > 0) {
+            array_push($listId, $oldPosts[0]->ID);
             $args = array(  
                 'post_type' => 'dictionary',
                 'post_status' => 'publish',
-                // 'order' => 'ASC', 
+                'post__not_in' => $listId,
                 'orderby' => 'rand',
                 'option' => 1,
                 'custom_search' => 'a',
                 'posts_per_page' => 1
             );
             $query = new WP_Query( $args );
-            $posts = $query->posts;
-            var_dump($posts);
+            $NewPosts = $query->posts;
+            if(count($NewPosts) > 0)
+            {
+                array_push($listId, $NewPosts[0]->ID);
+                echo json_encode($listId);
+            }
         } else {
             echo "empty";
         }
-
-        
     }
-
     wp_die(); 
 }

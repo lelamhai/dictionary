@@ -1,22 +1,29 @@
 <?php
     get_header();
-    // $args = array(  
-    //     'post_type' => 'dictionary',
-    //     'post_status' => 'publish',
-    //     'option' => 0,
-    //     'custom_search' => 'alphanumeric-value',
-    //     'posts_per_page' => -1
-    // );
-    // $query = new WP_Query( $args ); 
-    // $posts = $query->posts;
-    // var_dump($posts);
 ?>
 <main>
     <section class="advertisement"></section>
     <section class="center">
+        <div class="rule-game">
+            <div class="option-game">Chọn luật chơi</div> 
+            <div class="group-option-game">
+                <div class="item-option-game">
+                    <input type="radio" id="html" name="fav_language" value="HTML" checked><label for="html">HTML</label><br>
+                </div>
+                <div class="item-option-game">
+                    <input type="radio" id="css" name="fav_language" value="CSS"><label for="css">CSS</label><br>
+                </div>
+                <div class="item-option-game">
+                    <input type="radio" id="js" name="fav_language" value="JS"><label for="js">JS</label><br>
+                </div>
+            </div>
+            <div class="start-game"><button>Bắt đầu</button></div>
+        </div>
         <div class="form">
+            <input type="text" id="listId" value="[]">
+            <input type="text" id="character" value="a">
             <div>
-                <input type="text" class="word">
+                <input type="text" id="word">
             </div>
             <div>
                 <button id="submit">Submit</button>
