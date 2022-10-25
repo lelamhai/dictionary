@@ -1,6 +1,17 @@
 <?php
     get_header();
 ?>
+
+<style>
+    .word-user {
+        
+    }
+
+    .word-system {
+        text-align: right;
+    }
+</style>
+
 <main>
     <section class="advertisement"></section>
     <section class="center">
@@ -32,7 +43,7 @@
     </section>
     <section class="words">
         <div class="title">Danh sách từ</div>
-        <div class="ajax-list-words">
+        <div id="ajax-list-words">
             
         </div>
     </section>

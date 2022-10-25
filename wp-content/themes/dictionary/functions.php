@@ -4,7 +4,7 @@ require get_template_directory() . '/include/post-types.php';
 add_action('wp_enqueue_scripts', 'regsiter_styles');
 function regsiter_styles()
 {
-    $version = "11";
+    $version = "20";
     
     wp_enqueue_style('dictionary-bootstrap', get_template_directory_uri() ."/assets/bootstrap/css/bootstrap.min.css", array(), $version);
 
@@ -41,6 +41,8 @@ add_action('wp_ajax_nopriv_find_word', 'find_word_function');
 function find_word_function() {
     if(!empty($_GET["word"]) )
     {
+        $json = array();
+
         $listId = json_decode($_GET["listId"]);
         $args = array(  
             'post_type' => 'dictionary',
@@ -70,11 +72,21 @@ function find_word_function() {
             if(count($NewPosts) > 0)
             {
                 array_push($listId, $NewPosts[0]->ID);
-                echo json_encode($listId);
+                $json["result"] = true;
+                $json["newWord"] = $NewPosts[0]->post_title;
+                $json["listId"] = json_encode($listId);
+            } else {
+                $json["result"] = false;
+                $json["newWord"] = null;
+                $json["listId"] = json_encode($listId);
             }
         } else {
-            echo "empty";
+            $json["result"] = false;
+            $json["newWord"] = null;
+            $json["listId"] = json_encode($listId);
         }
+        wp_send_json_success($json);
+        
     }
     wp_die(); 
 }

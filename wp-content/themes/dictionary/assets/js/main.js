@@ -1,5 +1,5 @@
 $("#submit" ).click(function() {
-   var word = $("#word").val();
+   var wordUser = $("#word").val();
    var character = $("#character").val();
    var listId = $("#listId").val();
    $.ajax({
@@ -9,7 +9,7 @@ $("#submit" ).click(function() {
         url : "./wp-admin/admin-ajax.php",
         data : {
             action: "find_word",
-            word: word,
+            word: wordUser,
             character: character,
             listId: listId
         },
@@ -17,9 +17,20 @@ $("#submit" ).click(function() {
 
         },
         success: function(response) {
-            $("#listId").val("");
-            $("#listId").val(response);
-            console.log(response);
+            var obj = jQuery.parseJSON(response);
+            if(obj.data.result)
+            {
+                $("#listId").val(obj.data.listId);
+                let htmlUser = '<div class="word-user">'+wordUser+'</div>';
+                $("#ajax-list-words").append(htmlUser);
+
+                let wordSystem = obj.data.newWord;
+                let htmlSystem = '<div class="word-system">'+wordSystem+'</div>';
+                $("#ajax-list-words").append(htmlSystem);
+
+            } else {
+                console.log(response);
+            }
         },
         error: function( jqXHR, textStatus, errorThrown ){
 
