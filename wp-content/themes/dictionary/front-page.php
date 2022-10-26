@@ -19,20 +19,18 @@
             <div class="option-game">Chọn luật chơi</div> 
             <div class="group-option-game">
                 <div class="item-option-game">
-                    <input type="radio" id="html" name="fav_language" value="HTML" checked><label for="html">HTML</label><br>
+                    <input type="radio" id="first" name="character" value="a" data-option="1" checked><label for="first">Một từ vựng bắt đầu ký tự "A"</label><br>
                 </div>
                 <div class="item-option-game">
-                    <input type="radio" id="css" name="fav_language" value="CSS"><label for="css">CSS</label><br>
-                </div>
-                <div class="item-option-game">
-                    <input type="radio" id="js" name="fav_language" value="JS"><label for="js">JS</label><br>
+                    <input type="radio" id="last" name="character" value="t" data-option="2"><label for="last">Một từ vựng kết thúc ký tự "T"</label><br>
                 </div>
             </div>
-            <div class="start-game"><button>Bắt đầu</button></div>
+            <div id="start-game"><button>Bắt đầu</button></div>
         </div>
         <div class="form">
             <input type="text" id="listId" value="[]">
             <input type="text" id="character" value="a">
+            <input type="text" id="option" value="1">
             <div>
                 <input type="text" id="word">
             </div>
