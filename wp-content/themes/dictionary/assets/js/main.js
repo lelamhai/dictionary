@@ -1,4 +1,40 @@
 $(document).ready(function(){
+    // let total = 0;
+    // let string = "";
+    // let wordLast = "";
+    // $('.top-g li').each(function(i, obj) {
+    //     let data = $(obj).data('ox3000');
+    //     if(data == 'a1')
+    //     {   
+    //         if(wordLast != $.trim($(obj).children("a").text()))
+    //         {
+    //             total ++;
+    //             string = string + 
+    //             "@"+ $(obj).children("a").text()+"\n"+ 
+    //             "-"+ $(obj).children(".pos").text()+"\n"+
+    //             "-"+ $(obj).children("div").children(".pron-uk").data("src-mp3")+"\n"+
+    //             "-"+ $(obj).children("div").children(".pron-uk").data("src-ogg")+"\n"+
+    //             "-"+ $(obj).children("div").children(".pron-us").data("src-mp3")+"\n"+
+    //             "-"+ $(obj).children("div").children(".pron-us").data("src-ogg")+"\n"
+    //             ;
+    //             wordLast = $.trim($(obj).children("a").text());
+    //         }
+            
+    //     }
+    // });
+    // console.log(string);
+    // console.log(total);
+
+
+  
+
+
+
+
+    
+
+
+
     $("#start-game" ).click(function() {
         let char = $('input[name="character"]:checked').val();
         let option = $('input[name="character"]:checked').data("option");
