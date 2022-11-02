@@ -9,53 +9,70 @@
     <button>Submit</button>
 </form>
 <?php
-    $listSound = array();
-    if(!empty($_GET["number"]))
+    
+    $default = 10;
+    if(!empty($_GET["number"]) && (int)$_GET["number"] > 0)
     {   
+        $listSound = array();
         $pathRoot = "https://www.oxfordlearnersdictionaries.com";
         $option = (int)$_GET['number'];
         require get_template_directory() . '/data.php';
         $arrs = explode('@', $text);
+        // print "<pre>";
+        // print_r($arrs);
+        // print "</pre>";
 
 
+        $end = $_GET["number"] * $default;
+        $begin = $end - $default;
 
-        foreach($arrs as $arr){
-            if(trim($arr) != "")
-            {
-                $words = explode('-', $arr);
-                $flag =  0;
-                foreach($words as $word){
-                    if($flag == 0){
-                        echo "Word: ".$word; echo "<br>";
-                    } else {
-                        $content = explode('/', $word);
-                        $count = count($content);
-                        if($count == 1)
-                        {
-                            echo $content[0]; echo "<br>";
+        $list = array_slice($arrs, $begin, $end);
+        // print "<pre>";
+        // print_r($list);
+        // print "</pre>";
+
+        if(count($list) > 0)
+        {
+            foreach($list as $arr){
+                if(trim($arr) != "")
+                {
+                    $words = explode('-', $arr);
+                    $flag =  0;
+    
+                    
+                    foreach($words as $word){
+                        if($flag == 0){
+                            echo "Word: ".$word; echo "<br>";
                         } else {
-                            // echo $word; echo "<br>"; link file sound
-                            $url = $pathRoot. $word;
-                            array_push($listSound, trim($url));
+                            $content = explode('/', $word);
+                            $count = count($content);
+                            if($count == 1)
+                            {
+                                echo $content[0]; echo "<br>";
+                            } else {
+                                // echo $word; echo "<br>"; link file sound
+                                $url = $pathRoot. $word;
+                                array_push($listSound, trim($url));
+                            }
                         }
+                        $flag ++;
                     }
-                    $flag ++;
+    
+                    echo "<br><br><br>";
                 }
-
-                echo "<br><br><br>";
             }
+            // var_dump($listSound); echo "<br><br><br>";
+            // $urls = [
+            //     'https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eat/eat__/eat__gb_1.mp3',
+            //     'https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/above/above__gb_1.mp3'
+            // ];
+
+            // var_dump($urls);echo "<br><br><br>";
+
+            multiple_download($listSound);
+        } else {
+            echo "Not data";
         }
-
-        // var_dump($listSound); echo "<br><br><br>";
-
-        // $urls = [
-        //     'https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eat/eat__/eat__gb_1.mp3',
-        //     'https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/above/above__gb_1.mp3'
-        // ];
-
-        // var_dump($urls);echo "<br><br><br>";
-        multiple_download($listSound);
-
     } else {
         echo $_GET["number"];
     }
