@@ -38,3 +38,129 @@ function custom_post_type_dictionary() {
     register_post_type('dictionary', $args);
 }
 add_action('init', 'custom_post_type_dictionary');
+
+
+add_action( 'add_meta_boxes_dictionary', 'add_metabox' );
+function add_metabox() {
+	add_meta_box(
+		'dictionary_metabox', // metabox ID
+		'Dictionary', // title
+		'dictionary_metabox_callback', // callback function
+		'dictionary', // post type or post types in array
+		'normal', // position (normal, side, advanced)
+		'default' // priority (default, low, high, core)
+	);
+}
+
+// Show layout
+function dictionary_metabox_callback( $post ) {
+	$ukMP3 = get_post_meta( $post->ID, 'uk_mp3', true );
+	$ukOGG = get_post_meta( $post->ID, 'uk_ogg', true );
+	$ukIPA = get_post_meta( $post->ID, 'uk_ipa', true );
+
+	$usMP3 = get_post_meta( $post->ID, 'us_mp3', true );
+	$usOGG = get_post_meta( $post->ID, 'us_ogg', true );
+	$usIPA = get_post_meta( $post->ID, 'us_ipa', true );
+
+	wp_nonce_field( 'dictionarynonce', '_softkeymktnonce' );
+    
+
+    $metabox    =   '<div class="wrap-dictionary">
+                        <div class="group-pronunciation">';
+    $metabox    .=          '<div class="pronunciation-label">Pronunciation UK</div>'; 
+    $metabox    .=          '<div class="pronunciation-input">
+                                <div class="pronunciation-field">
+                                    <div class="field-label">MP3</div>
+                                    <input value="'.esc_attr($ukMP3).'" name="uk_mp3">
+                                </div>
+                                <div class="pronunciation-field">
+                                    <div class="field-label">OGG</div>
+                                    <input value="'.esc_attr($ukOGG).'" name="uk_ogg">
+                                </div>
+                                <div class="pronunciation-field">
+                                    <div class="field-label">IPA</div>
+                                    <input value="'.esc_attr($ukIPA).'" name="uk_ipa">
+                                </div>
+                            </div>';       
+    $metabox    .=      '</div>
+                        <div class="group-pronunciation">';
+    $metabox    .=          '<div class="pronunciation-label">Pronunciation US</div>';
+    $metabox    .=          '<div class="pronunciation-input">
+                                <div class="pronunciation-field">
+                                    <div class="field-label">MP3</div>
+                                    <input value="'.esc_attr($usMP3).'" name="us_mp3">
+                                </div>
+                                <div class="pronunciation-field">
+                                    <div class="field-label">OGG</div>
+                                    <input value="'.esc_attr($usOGG).'" name="us_ogg">
+                                </div>
+                                <div class="pronunciation-field">
+                                    <div class="field-label">IPA</div>
+                                    <input value="'.esc_attr($usIPA).'" name="us_ipa">
+                                </div>
+                            </div>';       
+    $metabox    .=      '</div>
+                    </div>';
+	echo $metabox;
+}
+
+
+// Save data
+add_action( 'save_post_dictionary', 'softkeymkt_save_meta', 10, 2 );
+function softkeymkt_save_meta( $post_id, $post ) {
+	// nonce check
+	if ( ! isset( $_POST[ '_softkeymktnonce' ] ) || ! wp_verify_nonce( $_POST[ '_softkeymktnonce' ], 'dictionarynonce' ) ) {
+		return $post_id;
+	}
+
+	// check current user permissions
+	$post_type = get_post_type_object( $post->post_type );
+
+	if ( ! current_user_can( $post_type->cap->edit_post, $post_id ) ) {
+		return $post_id;
+	}
+	
+
+	// Do not save the data if autosave
+	if ( defined('DOING_AUTOSAVE') && DOING_AUTOSAVE ) {
+		return $post_id;
+	}
+
+	if( isset( $_POST[ 'uk_mp3' ] ) ) {
+		update_post_meta( $post_id, 'uk_mp3', sanitize_text_field( $_POST[ 'uk_mp3' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'uk_mp3' );
+	}
+
+	if( isset( $_POST[ 'uk_ogg' ] ) ) {
+		update_post_meta( $post_id, 'uk_ogg', sanitize_text_field( $_POST[ 'uk_ogg' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'uk_ogg' );
+	}
+
+	if( isset( $_POST[ 'uk_ipa' ] ) ) {
+		update_post_meta( $post_id, 'uk_ipa', sanitize_text_field( $_POST[ 'uk_ipa' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'uk_ipa' );
+	}
+
+	if( isset( $_POST[ 'us_mp3' ] ) ) {
+		update_post_meta( $post_id, 'us_mp3', sanitize_text_field( $_POST[ 'us_mp3' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'us_mp3' );
+	}
+
+	if( isset( $_POST[ 'us_ogg' ] ) ) {
+		update_post_meta( $post_id, 'us_ogg', sanitize_text_field( $_POST[ 'us_ogg' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'us_ogg' );
+	}
+
+	if( isset( $_POST[ 'us_ipa' ] ) ) {
+		update_post_meta( $post_id, 'us_ipa', sanitize_text_field( $_POST[ 'us_ipa' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'us_ipa' );
+	}
+    
+	return $post_id;
+}

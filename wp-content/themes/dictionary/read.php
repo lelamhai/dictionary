@@ -4,77 +4,87 @@
     */
     get_header();
 ?>
-<form method="get">
-    <input type="number" name="number"><br>
-    <button>Submit</button>
-</form>
 <?php
-    
     $default = 10;
-    if(!empty($_GET["number"]) && (int)$_GET["number"] > 0)
-    {   
-        $listSound = array();
-        $pathRoot = "https://www.oxfordlearnersdictionaries.com";
-        $option = (int)$_GET['number'];
-        require get_template_directory() . '/data.php';
-        $arrs = explode('@', $text);
-        // print "<pre>";
-        // print_r($arrs);
-        // print "</pre>";
 
-
-        $end = $_GET["number"] * $default;
-        $begin = $end - $default;
-
-        $list = array_slice($arrs, $begin, $end);
-        // print "<pre>";
-        // print_r($list);
-        // print "</pre>";
-
-        if(count($list) > 0)
-        {
-            foreach($list as $arr){
-                if(trim($arr) != "")
-                {
-                    $words = explode('-', $arr);
-                    $flag =  0;
+    for ($i=1; $i <= 1; $i++) {
+            $listSound = array();
+            $pathRoot = "https://www.oxfordlearnersdictionaries.com";
+            // $option = $i;
+            require get_template_directory() . '/data.php';
+            $arrs = explode('@', $text);
+            // print "<pre>";
+            // print_r($arrs);
+            // print "</pre>";
     
-                    
-                    foreach($words as $word){
-                        if($flag == 0){
-                            echo "Word: ".$word; echo "<br>";
-                        } else {
-                            $content = explode('/', $word);
-                            $count = count($content);
-                            if($count == 1)
-                            {
-                                echo $content[0]; echo "<br>";
+    
+            $end = $i * $default;
+            $begin = $end - $default;
+    
+            $list = array_slice($arrs, $begin, $end);
+            // print "<pre>";
+            // print_r($list);
+            // print "</pre>";
+    
+            if(count($list) > 0)
+            {
+                foreach($list as $arr){
+                    if(trim($arr) != "")
+                    {
+                        $words = explode('-', $arr);
+                        $flag =  0;
+        
+                        $postId = 0;
+                        foreach($words as $word){
+                            if($flag == 0){
+                                echo "Word: ".$word; echo "<br>";
+                                $new_post = array(
+                                    'post_type'     => 'dictionary',
+                                    'post_title'    => $word,
+                                    'post_status'   => 'publish',
+                                );
+                            
+                                $postId = wp_insert_post($new_post);
                             } else {
-                                // echo $word; echo "<br>"; link file sound
+                                $content = explode('/', $word);
+
                                 $url = $pathRoot. $word;
+                                echo "Name file: ".basename($url); echo "<br>";
                                 array_push($listSound, trim($url));
-                            }
-                        }
-                        $flag ++;
-                    }
+
+                                switch($flag)
+                                {
+                                    case 1;
+                                        update_field('pronunciation_uk', array('mp3'=>basename($url)), $postId);
+                                        break;
+
+                                    case 2;
+                                        update_field('pronunciation_uk', array('ogg'=>basename($url)), $postId);
+                                        break;
+
+                                    case 3;
+                                        update_field('pronunciation_us', array('mp3'=>basename($url)), $postId);
+                                        break;
+                                    case 4;
+                                        update_field('pronunciation_us', array('ogg'=>basename($url)), $postId);
+                                        break;
+                                }
+                                
+
     
-                    echo "<br><br><br>";
+                            }
+                            $flag ++;
+                        }
+        
+                        echo "<br><br><br>";
+                    }
                 }
+    
+                multiple_download($listSound);
+                sleep(60); // this should halt for 3 seconds for every loop
+            } else {
+                echo "Not data";
             }
-            // var_dump($listSound); echo "<br><br><br>";
-            // $urls = [
-            //     'https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eat/eat__/eat__gb_1.mp3',
-            //     'https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/above/above__gb_1.mp3'
-            // ];
-
-            // var_dump($urls);echo "<br><br><br>";
-
-            multiple_download($listSound);
-        } else {
-            echo "Not data";
-        }
-    } else {
-        echo $_GET["number"];
     }
 ?>
 
@@ -112,12 +122,6 @@ function multiple_download(array $urls, $save_path = 'wp-content/uploads/english
     curl_multi_close($multi_handle);
 }
 ?>
-
-
-<form method="get">
-    <input type="number" name="number"><br>
-    <button>Submit</button>
-</form>
 
 <?php
     get_footer();

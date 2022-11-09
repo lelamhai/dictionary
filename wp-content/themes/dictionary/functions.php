@@ -1,4 +1,5 @@
 <?php
+require get_template_directory() . '/include/ajax.php';
 require get_template_directory() . '/include/post-types.php';
 
 add_action('wp_enqueue_scripts', 'regsiter_styles');
@@ -54,6 +55,26 @@ function custom_search_start_with( $where, $query ) {
     // }
     return $where;
 }
+
+
+// function some_field_update(){
+
+//     if( have_rows('ipa', 161) ):
+//         while ( have_rows('ipa', 161) ) : the_row();
+//             echo get_sub_field('uk') . '<br>';
+//             if (update_sub_field('uk', 'some value', 161)){
+//                 echo 'successful';
+//             }else{
+//                 echo 'false';
+//             }
+
+//         endwhile;
+//     else :
+//         echo 'no rows found';
+//     endif;
+// }
+// add_action('init', 'some_field_update');
+
 
 add_action('wp_ajax_find_word', 'find_word_function');
 add_action('wp_ajax_nopriv_find_word', 'find_word_function');

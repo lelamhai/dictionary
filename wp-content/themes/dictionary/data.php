@@ -3,5389 +3,4491 @@
     {
             $text = "
             @a
-            -indefinite article
             -/media/english/uk_pron/a/a__/a__gb/a__gb_2.mp3
             -/media/english/uk_pron_ogg/a/a__/a__gb/a__gb_2.ogg
             -/media/english/us_pron/a/a__/a__us/a__us_2_rr.mp3
             -/media/english/us_pron_ogg/a/a__/a__us/a__us_2_rr.ogg
             @about
-            -adverb
             -/media/english/uk_pron/a/abo/about/about__gb_1.mp3
             -/media/english/uk_pron_ogg/a/abo/about/about__gb_1.ogg
             -/media/english/us_pron/a/abo/about/about__us_1.mp3
             -/media/english/us_pron_ogg/a/abo/about/about__us_1.ogg
             @above
-            -adverb
             -/media/english/uk_pron/a/abo/above/above__gb_1.mp3
             -/media/english/uk_pron_ogg/a/abo/above/above__gb_1.ogg
             -/media/english/us_pron/a/abo/above/above__us_2.mp3
             -/media/english/us_pron_ogg/a/abo/above/above__us_2.ogg
             @across
-            -adverb
             -/media/english/uk_pron/a/acr/acros/across__gb_1.mp3
             -/media/english/uk_pron_ogg/a/acr/acros/across__gb_1.ogg
             -/media/english/us_pron/a/acr/acros/across__us_1.mp3
             -/media/english/us_pron_ogg/a/acr/acros/across__us_1.ogg
             @action
-            -noun
             -/media/english/uk_pron/a/act/actio/action__gb_1.mp3
             -/media/english/uk_pron_ogg/a/act/actio/action__gb_1.ogg
             -/media/english/us_pron/a/act/actio/action__us_2.mp3
             -/media/english/us_pron_ogg/a/act/actio/action__us_2.ogg
             @activity
-            -noun
             -/media/english/uk_pron/a/act/activ/activity__gb_5.mp3
             -/media/english/uk_pron_ogg/a/act/activ/activity__gb_5.ogg
             -/media/english/us_pron/a/act/activ/activity__us_4.mp3
             -/media/english/us_pron_ogg/a/act/activ/activity__us_4.ogg
             @actor
-            -noun
             -/media/english/uk_pron/a/act/actor/actor__gb_2.mp3
             -/media/english/uk_pron_ogg/a/act/actor/actor__gb_2.ogg
             -/media/english/us_pron/a/act/actor/actor__us_2.mp3
             -/media/english/us_pron_ogg/a/act/actor/actor__us_2.ogg
             @actress
-            -noun
             -/media/english/uk_pron/a/act/actre/actress__gb_1.mp3
             -/media/english/uk_pron_ogg/a/act/actre/actress__gb_1.ogg
             -/media/english/us_pron/a/act/actre/actress__us_2.mp3
             -/media/english/us_pron_ogg/a/act/actre/actress__us_2.ogg
             @add
-            -verb
             -/media/english/uk_pron/a/add/add__/add__gb_2.mp3
             -/media/english/uk_pron_ogg/a/add/add__/add__gb_2.ogg
             -/media/english/us_pron/a/add/add__/add__us_2.mp3
             -/media/english/us_pron_ogg/a/add/add__/add__us_2.ogg
             @address
-            -noun
             -/media/english/uk_pron/a/add/addre/address__gb_3.mp3
             -/media/english/uk_pron_ogg/a/add/addre/address__gb_3.ogg
             -/media/english/us_pron/a/add/addre/address__us_2_rr.mp3
             -/media/english/us_pron_ogg/a/add/addre/address__us_2_rr.ogg
             @adult
-            -noun
             -/media/english/uk_pron/a/adu/adult/adult__gb_3.mp3
             -/media/english/uk_pron_ogg/a/adu/adult/adult__gb_3.ogg
             -/media/english/us_pron/a/adu/adult/adult__us_2_rr.mp3
             -/media/english/us_pron_ogg/a/adu/adult/adult__us_2_rr.ogg
             @advice
-            -noun
             -/media/english/uk_pron/a/adv/advic/advice__gb_1.mp3
             -/media/english/uk_pron_ogg/a/adv/advic/advice__gb_1.ogg
             -/media/english/us_pron/a/adv/advic/advice__us_1.mp3
             -/media/english/us_pron_ogg/a/adv/advic/advice__us_1.ogg
             @afraid
-            -adjective
             -/media/english/uk_pron/a/afr/afrai/afraid__gb_1.mp3
             -/media/english/uk_pron_ogg/a/afr/afrai/afraid__gb_1.ogg
             -/media/english/us_pron/a/afr/afrai/afraid__us_2.mp3
             -/media/english/us_pron_ogg/a/afr/afrai/afraid__us_2.ogg
             @after
-            -preposition
             -/media/english/uk_pron/a/aft/after/after__gb_1.mp3
             -/media/english/uk_pron_ogg/a/aft/after/after__gb_1.ogg
             -/media/english/us_pron/a/aft/after/after__us_2.mp3
             -/media/english/us_pron_ogg/a/aft/after/after__us_2.ogg
             @afternoon
-            -noun
             -/media/english/uk_pron/a/aft/after/afternoon__gb_1.mp3
             -/media/english/uk_pron_ogg/a/aft/after/afternoon__gb_1.ogg
             -/media/english/us_pron/a/aft/after/afternoon__us_2.mp3
             -/media/english/us_pron_ogg/a/aft/after/afternoon__us_2.ogg
             @again
-            -adverb
             -/media/english/uk_pron/a/aga/again/again__gb_1.mp3
             -/media/english/uk_pron_ogg/a/aga/again/again__gb_1.ogg
             -/media/english/us_pron/a/aga/again/again__us_1.mp3
             -/media/english/us_pron_ogg/a/aga/again/again__us_1.ogg
             @age
-            -noun
             -/media/english/uk_pron/a/age/age__/age__gb_1.mp3
             -/media/english/uk_pron_ogg/a/age/age__/age__gb_1.ogg
             -/media/english/us_pron/a/age/age__/age__us_1.mp3
             -/media/english/us_pron_ogg/a/age/age__/age__us_1.ogg
             @ago
-            -adverb
             -/media/english/uk_pron/a/ago/ago__/ago__gb_1.mp3
             -/media/english/uk_pron_ogg/a/ago/ago__/ago__gb_1.ogg
             -/media/english/us_pron/a/ago/ago__/ago__us_1.mp3
             -/media/english/us_pron_ogg/a/ago/ago__/ago__us_1.ogg
             @agree
-            -verb
             -/media/english/uk_pron/a/agr/agree/agree__gb_1.mp3
             -/media/english/uk_pron_ogg/a/agr/agree/agree__gb_1.ogg
             -/media/english/us_pron/a/agr/agree/agree__us_1.mp3
             -/media/english/us_pron_ogg/a/agr/agree/agree__us_1.ogg
             @air
-            -noun
             -/media/english/uk_pron/a/air/air__/air__gb_1.mp3
             -/media/english/uk_pron_ogg/a/air/air__/air__gb_1.ogg
             -/media/english/us_pron/a/air/air__/air__us_1.mp3
             -/media/english/us_pron_ogg/a/air/air__/air__us_1.ogg
             @airport
-            -noun
             -/media/english/uk_pron/a/air/airpo/airport__gb_3.mp3
             -/media/english/uk_pron_ogg/a/air/airpo/airport__gb_3.ogg
             -/media/english/us_pron/a/air/airpo/airport__us_1.mp3
             -/media/english/us_pron_ogg/a/air/airpo/airport__us_1.ogg
             @all
-            -determiner
             -/media/english/uk_pron/a/all/all__/all__gb_1.mp3
             -/media/english/uk_pron_ogg/a/all/all__/all__gb_1.ogg
             -/media/english/us_pron/a/all/all__/all__us_1.mp3
             -/media/english/us_pron_ogg/a/all/all__/all__us_1.ogg
             @also
-            -adverb
             -/media/english/uk_pron/a/als/also_/also__gb_1.mp3
             -/media/english/uk_pron_ogg/a/als/also_/also__gb_1.ogg
             -/media/english/us_pron/a/als/also_/also__us_3.mp3
             -/media/english/us_pron_ogg/a/als/also_/also__us_3.ogg
             @always
-            -adverb
             -/media/english/uk_pron/a/alw/alway/always__gb_1.mp3
             -/media/english/uk_pron_ogg/a/alw/alway/always__gb_1.ogg
             -/media/english/us_pron/a/alw/alway/always__us_1_rr.mp3
             -/media/english/us_pron_ogg/a/alw/alway/always__us_1_rr.ogg
             @amazing
-            -adjective
             -/media/english/uk_pron/a/ama/amazi/amazing__gb_1.mp3
             -/media/english/uk_pron_ogg/a/ama/amazi/amazing__gb_1.ogg
             -/media/english/us_pron/a/ama/amazi/amazing__us_2.mp3
             -/media/english/us_pron_ogg/a/ama/amazi/amazing__us_2.ogg
             @and
-            -conjunction
             -/media/english/uk_pron/a/and/and__/and__gb_1.mp3
             -/media/english/uk_pron_ogg/a/and/and__/and__gb_1.ogg
             -/media/english/us_pron/a/and/and__/and__us_1.mp3
             -/media/english/us_pron_ogg/a/and/and__/and__us_1.ogg
             @angry
-            -adjective
             -/media/english/uk_pron/a/ang/angry/angry__gb_2.mp3
             -/media/english/uk_pron_ogg/a/ang/angry/angry__gb_2.ogg
             -/media/english/us_pron/a/ang/angry/angry__us_1.mp3
             -/media/english/us_pron_ogg/a/ang/angry/angry__us_1.ogg
             @animal
-            -noun
             -/media/english/uk_pron/a/ani/anima/animal__gb_1.mp3
             -/media/english/uk_pron_ogg/a/ani/anima/animal__gb_1.ogg
             -/media/english/us_pron/a/ani/anima/animal__us_1.mp3
             -/media/english/us_pron_ogg/a/ani/anima/animal__us_1.ogg
             @another
-            -determiner
             -/media/english/uk_pron/a/ano/anoth/another__gb_1.mp3
             -/media/english/uk_pron_ogg/a/ano/anoth/another__gb_1.ogg
             -/media/english/us_pron/a/ano/anoth/another__us_2.mp3
             -/media/english/us_pron_ogg/a/ano/anoth/another__us_2.ogg
             @answer
-            -noun
             -/media/english/uk_pron/a/ans/answe/answer__gb_1.mp3
             -/media/english/uk_pron_ogg/a/ans/answe/answer__gb_1.ogg
             -/media/english/us_pron/a/ans/answe/answer__us_1.mp3
             -/media/english/us_pron_ogg/a/ans/answe/answer__us_1.ogg
             @any
-            -determiner
             -/media/english/uk_pron/a/any/any__/any__gb_1.mp3
             -/media/english/uk_pron_ogg/a/any/any__/any__gb_1.ogg
             -/media/english/us_pron/a/any/any__/any__us_1.mp3
             -/media/english/us_pron_ogg/a/any/any__/any__us_1.ogg
             @anyone
-            -pronoun
             -/media/english/uk_pron/a/any/anyon/anyone__gb_1.mp3
             -/media/english/uk_pron_ogg/a/any/anyon/anyone__gb_1.ogg
             -/media/english/us_pron/a/any/anyon/anyone__us_1_rr.mp3
             -/media/english/us_pron_ogg/a/any/anyon/anyone__us_1_rr.ogg
             @anything
-            -pronoun
             -/media/english/uk_pron/a/any/anyth/anything__gb_1.mp3
             -/media/english/uk_pron_ogg/a/any/anyth/anything__gb_1.ogg
             -/media/english/us_pron/a/any/anyth/anything__us_1.mp3
             -/media/english/us_pron_ogg/a/any/anyth/anything__us_1.ogg
             @apartment
-            -noun
             -/media/english/uk_pron/a/apa/apart/apartment__gb_1.mp3
             -/media/english/uk_pron_ogg/a/apa/apart/apartment__gb_1.ogg
             -/media/english/us_pron/a/apa/apart/apartment__us_1.mp3
             -/media/english/us_pron_ogg/a/apa/apart/apartment__us_1.ogg
             @apple
-            -noun
             -/media/english/uk_pron/a/app/apple/apple__gb_1.mp3
             -/media/english/uk_pron_ogg/a/app/apple/apple__gb_1.ogg
             -/media/english/us_pron/a/app/apple/apple__us_1.mp3
             -/media/english/us_pron_ogg/a/app/apple/apple__us_1.ogg
             @April
-            -noun
             -/media/english/uk_pron/a/apr/april/april_1_gb_2.mp3
             -/media/english/uk_pron_ogg/a/apr/april/april_1_gb_2.ogg
             -/media/english/us_pron/a/apr/april/april__us_1.mp3
             -/media/english/us_pron_ogg/a/apr/april/april__us_1.ogg
             @area
-            -noun
             -/media/english/uk_pron/a/are/area_/area__gb_3.mp3
             -/media/english/uk_pron_ogg/a/are/area_/area__gb_3.ogg
             -/media/english/us_pron/a/are/area_/area__us_2.mp3
             -/media/english/us_pron_ogg/a/are/area_/area__us_2.ogg
             @arm
-            -noun
             -/media/english/uk_pron/a/arm/arm__/arm__gb_2.mp3
             -/media/english/uk_pron_ogg/a/arm/arm__/arm__gb_2.ogg
             -/media/english/us_pron/a/arm/arm__/arm__us_1.mp3
             -/media/english/us_pron_ogg/a/arm/arm__/arm__us_1.ogg
             @around
-            -adverb
             -/media/english/uk_pron/a/aro/aroun/around__gb_1.mp3
             -/media/english/uk_pron_ogg/a/aro/aroun/around__gb_1.ogg
             -/media/english/us_pron/a/aro/aroun/around__us_2.mp3
             -/media/english/us_pron_ogg/a/aro/aroun/around__us_2.ogg
             @arrive
-            -verb
             -/media/english/uk_pron/a/arr/arriv/arrive__gb_1.mp3
             -/media/english/uk_pron_ogg/a/arr/arriv/arrive__gb_1.ogg
             -/media/english/us_pron/a/arr/arriv/arrive__us_1.mp3
             -/media/english/us_pron_ogg/a/arr/arriv/arrive__us_1.ogg
             @art
-            -noun
             -/media/english/uk_pron/a/art/art__/art__gb_3.mp3
             -/media/english/uk_pron_ogg/a/art/art__/art__gb_3.ogg
             -/media/english/us_pron/a/art/art__/art__us_1.mp3
             -/media/english/us_pron_ogg/a/art/art__/art__us_1.ogg
             @article
-            -noun
             -/media/english/uk_pron/a/art/artic/article__gb_1.mp3
             -/media/english/uk_pron_ogg/a/art/artic/article__gb_1.ogg
             -/media/english/us_pron/a/art/artic/article__us_1.mp3
             -/media/english/us_pron_ogg/a/art/artic/article__us_1.ogg
             @artist
-            -noun
             -/media/english/uk_pron/a/art/artis/artist__gb_2.mp3
             -/media/english/uk_pron_ogg/a/art/artis/artist__gb_2.ogg
             -/media/english/us_pron/a/art/artis/artist__us_1.mp3
             -/media/english/us_pron_ogg/a/art/artis/artist__us_1.ogg
             @as
-            -preposition
             -/media/english/uk_pron/a/as_/as__g/as__gb_1.mp3
             -/media/english/uk_pron_ogg/a/as_/as__g/as__gb_1.ogg
             -/media/english/us_pron/a/as_/as__u/as__us_1_rr.mp3
             -/media/english/us_pron_ogg/a/as_/as__u/as__us_1_rr.ogg
             @ask
-            -verb
             -/media/english/uk_pron/a/ask/ask__/ask__gb_1.mp3
             -/media/english/uk_pron_ogg/a/ask/ask__/ask__gb_1.ogg
             -/media/english/us_pron/a/ask/ask__/ask__us_1.mp3
             -/media/english/us_pron_ogg/a/ask/ask__/ask__us_1.ogg
             @at
-            -preposition
             -/media/english/uk_pron/a/at_/at__g/at__gb_1.mp3
             -/media/english/uk_pron_ogg/a/at_/at__g/at__gb_1.ogg
             -/media/english/us_pron/a/at_/at__u/at__us_3_rr.mp3
             -/media/english/us_pron_ogg/a/at_/at__u/at__us_3_rr.ogg
             @August
-            -noun
             -/media/english/uk_pron/a/aug/augus/august_1_gb_1.mp3
             -/media/english/uk_pron_ogg/a/aug/augus/august_1_gb_1.ogg
             -/media/english/us_pron/a/aug/augus/august__us_1.mp3
             -/media/english/us_pron_ogg/a/aug/augus/august__us_1.ogg
             @aunt
-            -noun
             -/media/english/uk_pron/a/aun/aunt_/aunt__gb_2.mp3
             -/media/english/uk_pron_ogg/a/aun/aunt_/aunt__gb_2.ogg
             -/media/english/us_pron/a/aun/aunt_/aunt__us_1_rr.mp3
             -/media/english/us_pron_ogg/a/aun/aunt_/aunt__us_1_rr.ogg
             @autumn
-            -noun
             -/media/english/uk_pron/a/aut/autum/autumn__gb_2.mp3
             -/media/english/uk_pron_ogg/a/aut/autum/autumn__gb_2.ogg
             -/media/english/us_pron/a/aut/autum/autumn__us_3.mp3
             -/media/english/us_pron_ogg/a/aut/autum/autumn__us_3.ogg
             @away
-            -adverb
             -/media/english/uk_pron/a/awa/away_/away__gb_1.mp3
             -/media/english/uk_pron_ogg/a/awa/away_/away__gb_1.ogg
             -/media/english/us_pron/a/awa/away_/away__us_1.mp3
             -/media/english/us_pron_ogg/a/awa/away_/away__us_1.ogg
             @baby
-            -noun
             -/media/english/uk_pron/b/bab/baby_/baby__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bab/baby_/baby__gb_2.ogg
             -/media/english/us_pron/b/bab/baby_/baby__us_1.mp3
             -/media/english/us_pron_ogg/b/bab/baby_/baby__us_1.ogg
             @back
-            -adverb
             -/media/english/uk_pron/b/bac/back_/back__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bac/back_/back__gb_2.ogg
             -/media/english/us_pron/b/bac/back_/back__us_1.mp3
             -/media/english/us_pron_ogg/b/bac/back_/back__us_1.ogg
             @bad
-            -adjective
             -/media/english/uk_pron/b/bad/bad__/bad__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bad/bad__/bad__gb_2.ogg
             -/media/english/us_pron/b/bad/bad__/bad__us_1.mp3
             -/media/english/us_pron_ogg/b/bad/bad__/bad__us_1.ogg
             @bag
-            -noun
             -/media/english/uk_pron/b/bag/bag__/bag__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bag/bag__/bag__gb_1.ogg
             -/media/english/us_pron/b/bag/bag__/bag__us_1.mp3
             -/media/english/us_pron_ogg/b/bag/bag__/bag__us_1.ogg
             @ball
-            -noun
             -/media/english/uk_pron/b/bal/ball_/ball__gb_3.mp3
             -/media/english/uk_pron_ogg/b/bal/ball_/ball__gb_3.ogg
             -/media/english/us_pron/b/bal/ball_/ball__us_1.mp3
             -/media/english/us_pron_ogg/b/bal/ball_/ball__us_1.ogg
             @banana
-            -noun
             -/media/english/uk_pron/b/ban/banan/banana__gb_2.mp3
             -/media/english/uk_pron_ogg/b/ban/banan/banana__gb_2.ogg
             -/media/english/us_pron/b/ban/banan/banana__us_2.mp3
             -/media/english/us_pron_ogg/b/ban/banan/banana__us_2.ogg
             @band
-            -noun
             -/media/english/uk_pron/b/ban/band_/band__gb_1.mp3
             -/media/english/uk_pron_ogg/b/ban/band_/band__gb_1.ogg
             -/media/english/us_pron/b/ban/band_/band__us_1.mp3
             -/media/english/us_pron_ogg/b/ban/band_/band__us_1.ogg
             @bank
-            -noun
             -/media/english/uk_pron/b/ban/bank_/bank__gb_2.mp3
             -/media/english/uk_pron_ogg/b/ban/bank_/bank__gb_2.ogg
             -/media/english/us_pron/b/ban/bank_/bank__us_1.mp3
             -/media/english/us_pron_ogg/b/ban/bank_/bank__us_1.ogg
             @bath
-            -noun
             -/media/english/uk_pron/b/bat/bath_/bath__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bat/bath_/bath__gb_1.ogg
             -/media/english/us_pron/b/bat/bath_/bath__us_1.mp3
             -/media/english/us_pron_ogg/b/bat/bath_/bath__us_1.ogg
             @bathroom
-            -noun
             -/media/english/uk_pron/b/bat/bathr/bathroom__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bat/bathr/bathroom__gb_1.ogg
             -/media/english/us_pron/b/bat/bathr/bathroom__us_1_rr.mp3
             -/media/english/us_pron_ogg/b/bat/bathr/bathroom__us_1_rr.ogg
             @be
-            -verb
             -/media/english/uk_pron/b/be_/be__g/be__gb_1.mp3
             -/media/english/uk_pron_ogg/b/be_/be__g/be__gb_1.ogg
             -/media/english/us_pron/b/be_/be__u/be__us_1.mp3
             -/media/english/us_pron_ogg/b/be_/be__u/be__us_1.ogg
             @beach
-            -noun
             -/media/english/uk_pron/b/bea/beach/beach__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bea/beach/beach__gb_2.ogg
             -/media/english/us_pron/b/bea/beach/beach__us_1.mp3
             -/media/english/us_pron_ogg/b/bea/beach/beach__us_1.ogg
             @beautiful
-            -adjective
             -/media/english/uk_pron/b/bea/beaut/beautiful__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bea/beaut/beautiful__gb_2.ogg
             -/media/english/us_pron/b/bea/beaut/beautiful__us_1.mp3
             -/media/english/us_pron_ogg/b/bea/beaut/beautiful__us_1.ogg
             @because
-            -conjunction
             -/media/english/uk_pron/b/bec/becau/because__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bec/becau/because__gb_2.ogg
             -/media/english/us_pron/b/bec/becau/because__us_2.mp3
             -/media/english/us_pron_ogg/b/bec/becau/because__us_2.ogg
             @become
-            -verb
             -/media/english/uk_pron/b/bec/becom/become__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bec/becom/become__gb_2.ogg
             -/media/english/us_pron/b/bec/becom/become__us_2.mp3
             -/media/english/us_pron_ogg/b/bec/becom/become__us_2.ogg
             @bed
-            -noun
             -/media/english/uk_pron/b/bed/bed__/bed__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bed/bed__/bed__gb_1.ogg
             -/media/english/us_pron/b/bed/bed__/bed__us_2.mp3
             -/media/english/us_pron_ogg/b/bed/bed__/bed__us_2.ogg
             @bedroom
-            -noun
             -/media/english/uk_pron/b/bed/bedro/bedroom__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bed/bedro/bedroom__gb_1.ogg
             -/media/english/us_pron/b/bed/bedro/bedroom__us_1_rr.mp3
             -/media/english/us_pron_ogg/b/bed/bedro/bedroom__us_1_rr.ogg
             @beer
-            -noun
             -/media/english/uk_pron/b/bee/beer_/beer__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bee/beer_/beer__gb_1.ogg
             -/media/english/us_pron/b/bee/beer_/beer__us_1.mp3
             -/media/english/us_pron_ogg/b/bee/beer_/beer__us_1.ogg
             @before
-            -preposition
             -/media/english/uk_pron/b/bef/befor/before__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bef/befor/before__gb_1.ogg
             -/media/english/us_pron/b/bef/befor/before__us_1.mp3
             -/media/english/us_pron_ogg/b/bef/befor/before__us_1.ogg
             @begin
-            -verb
             -/media/english/uk_pron/b/beg/begin/begin__gb_1.mp3
             -/media/english/uk_pron_ogg/b/beg/begin/begin__gb_1.ogg
             -/media/english/us_pron/b/beg/begin/begin__us_1.mp3
             -/media/english/us_pron_ogg/b/beg/begin/begin__us_1.ogg
             @beginning
-            -noun
             -/media/english/uk_pron/b/beg/begin/beginning__gb_1.mp3
             -/media/english/uk_pron_ogg/b/beg/begin/beginning__gb_1.ogg
             -/media/english/us_pron/b/beg/begin/beginning__us_1.mp3
             -/media/english/us_pron_ogg/b/beg/begin/beginning__us_1.ogg
             @behind
-            -adverb
             -/media/english/uk_pron/b/beh/behin/behind__gb_2.mp3
             -/media/english/uk_pron_ogg/b/beh/behin/behind__gb_2.ogg
             -/media/english/us_pron/b/beh/behin/behind__us_2.mp3
             -/media/english/us_pron_ogg/b/beh/behin/behind__us_2.ogg
             @believe
-            -verb
             -/media/english/uk_pron/b/bel/belie/believe__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bel/belie/believe__gb_2.ogg
             -/media/english/us_pron/b/bel/belie/believe__us_1.mp3
             -/media/english/us_pron_ogg/b/bel/belie/believe__us_1.ogg
             @below
-            -adverb
             -/media/english/uk_pron/b/bel/below/below__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bel/below/below__gb_1.ogg
             -/media/english/us_pron/b/bel/below/below__us_1.mp3
             -/media/english/us_pron_ogg/b/bel/below/below__us_1.ogg
             @best
-            -adjective
             -/media/english/uk_pron/b/bes/best_/best__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bes/best_/best__gb_1.ogg
             -/media/english/us_pron/b/bes/best_/best__us_1.mp3
             -/media/english/us_pron_ogg/b/bes/best_/best__us_1.ogg
             @better
-            -adjective
             -/media/english/uk_pron/b/bet/bette/better__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bet/bette/better__gb_2.ogg
             -/media/english/us_pron/b/bet/bette/better__us_4.mp3
             -/media/english/us_pron_ogg/b/bet/bette/better__us_4.ogg
             @between
-            -preposition
             -/media/english/uk_pron/b/bet/betwe/between__gb_3.mp3
             -/media/english/uk_pron_ogg/b/bet/betwe/between__gb_3.ogg
             -/media/english/us_pron/b/bet/betwe/between__us_2.mp3
             -/media/english/us_pron_ogg/b/bet/betwe/between__us_2.ogg
             @bicycle
-            -noun
             -/media/english/uk_pron/b/bic/bicyc/bicycle__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bic/bicyc/bicycle__gb_1.ogg
             -/media/english/us_pron/b/bic/bicyc/bicycle__us_1.mp3
             -/media/english/us_pron_ogg/b/bic/bicyc/bicycle__us_1.ogg
             @big
-            -adjective
             -/media/english/uk_pron/b/big/big__/big__gb_2.mp3
             -/media/english/uk_pron_ogg/b/big/big__/big__gb_2.ogg
             -/media/english/us_pron/b/big/big__/big__us_1.mp3
             -/media/english/us_pron_ogg/b/big/big__/big__us_1.ogg
             @bike
-            -noun
             -/media/english/uk_pron/b/bik/bike_/bike__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bik/bike_/bike__gb_1.ogg
             -/media/english/us_pron/b/bik/bike_/bike__us_1.mp3
             -/media/english/us_pron_ogg/b/bik/bike_/bike__us_1.ogg
             @bill
-            -noun
             -/media/english/uk_pron/b/bil/bill_/bill__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bil/bill_/bill__gb_1.ogg
             -/media/english/us_pron/b/bil/bill_/bill__us_1.mp3
             -/media/english/us_pron_ogg/b/bil/bill_/bill__us_1.ogg
             @bird
-            -noun
             -/media/english/uk_pron/b/bir/bird_/bird__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bir/bird_/bird__gb_2.ogg
             -/media/english/us_pron/b/bir/bird_/bird__us_1.mp3
             -/media/english/us_pron_ogg/b/bir/bird_/bird__us_1.ogg
             @birthday
-            -noun
             -/media/english/uk_pron/b/bir/birth/birthday__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bir/birth/birthday__gb_1.ogg
             -/media/english/us_pron/b/bir/birth/birthday__us_1.mp3
             -/media/english/us_pron_ogg/b/bir/birth/birthday__us_1.ogg
             @black
-            -adjective
             -/media/english/uk_pron/b/bla/black/black__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bla/black/black__gb_2.ogg
             -/media/english/us_pron/b/bla/black/black__us_1.mp3
             -/media/english/us_pron_ogg/b/bla/black/black__us_1.ogg
             @blog
-            -noun
             -/media/english/uk_pron/b/blo/blog_/blog__gb_1.mp3
             -/media/english/uk_pron_ogg/b/blo/blog_/blog__gb_1.ogg
             -/media/english/us_pron/b/blo/blog_/blog__us_1_rr.mp3
             -/media/english/us_pron_ogg/b/blo/blog_/blog__us_1_rr.ogg
             @blonde
-            -adjective
             -/media/english/uk_pron/b/blo/blond/blonde__gb_1.mp3
             -/media/english/uk_pron_ogg/b/blo/blond/blonde__gb_1.ogg
             -/media/english/us_pron/b/blo/blond/blonde__us_1.mp3
             -/media/english/us_pron_ogg/b/blo/blond/blonde__us_1.ogg
             @blue
-            -adjective
             -/media/english/uk_pron/b/blu/blue_/blue__gb_2.mp3
             -/media/english/uk_pron_ogg/b/blu/blue_/blue__gb_2.ogg
             -/media/english/us_pron/b/blu/blue_/blue__us_1.mp3
             -/media/english/us_pron_ogg/b/blu/blue_/blue__us_1.ogg
             @boat
-            -noun
             -/media/english/uk_pron/b/boa/boat_/boat_1_gb_1_abbr.mp3
             -/media/english/uk_pron_ogg/b/boa/boat_/boat_1_gb_1_abbr.ogg
             -/media/english/us_pron/b/boa/boat_/boat__us_1.mp3
             -/media/english/us_pron_ogg/b/boa/boat_/boat__us_1.ogg
             @body
-            -noun
             -/media/english/uk_pron/b/bod/body_/body__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bod/body_/body__gb_2.ogg
             -/media/english/us_pron/b/bod/body_/body__us_2.mp3
             -/media/english/us_pron_ogg/b/bod/body_/body__us_2.ogg
             @book
-            -noun
             -/media/english/uk_pron/b/boo/book_/book__gb_2.mp3
             -/media/english/uk_pron_ogg/b/boo/book_/book__gb_2.ogg
             -/media/english/us_pron/b/boo/book_/book__us_1.mp3
             -/media/english/us_pron_ogg/b/boo/book_/book__us_1.ogg
             @boot
-            -noun
             -/media/english/uk_pron/b/boo/boot_/boot__gb_2.mp3
             -/media/english/uk_pron_ogg/b/boo/boot_/boot__gb_2.ogg
             -/media/english/us_pron/b/boo/boot_/boot__us_1.mp3
             -/media/english/us_pron_ogg/b/boo/boot_/boot__us_1.ogg
             @bored
-            -adjective
             -/media/english/uk_pron/b/bor/bored/bored__gb_3.mp3
             -/media/english/uk_pron_ogg/b/bor/bored/bored__gb_3.ogg
             -/media/english/us_pron/b/bor/bored/bored__us_1.mp3
             -/media/english/us_pron_ogg/b/bor/bored/bored__us_1.ogg
             @boring
-            -adjective
             -/media/english/uk_pron/b/bor/borin/boring__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bor/borin/boring__gb_1.ogg
             -/media/english/us_pron/b/bor/borin/boring__us_1.mp3
             -/media/english/us_pron_ogg/b/bor/borin/boring__us_1.ogg
             @born
-            -verb
             -/media/english/uk_pron/b/bor/born_/born__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bor/born_/born__gb_1.ogg
             -/media/english/us_pron/b/bor/born_/born__us_1.mp3
             -/media/english/us_pron_ogg/b/bor/born_/born__us_1.ogg
             @both
-            -determiner
             -/media/english/uk_pron/b/bot/both_/both__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bot/both_/both__gb_1.ogg
             -/media/english/us_pron/b/bot/both_/both__us_1.mp3
             -/media/english/us_pron_ogg/b/bot/both_/both__us_1.ogg
             @bottle
-            -noun
             -/media/english/uk_pron/b/bot/bottl/bottle__gb_3.mp3
             -/media/english/uk_pron_ogg/b/bot/bottl/bottle__gb_3.ogg
             -/media/english/us_pron/b/bot/bottl/bottle__us_1.mp3
             -/media/english/us_pron_ogg/b/bot/bottl/bottle__us_1.ogg
             @box
-            -noun
             -/media/english/uk_pron/b/box/box__/box__gb_2.mp3
             -/media/english/uk_pron_ogg/b/box/box__/box__gb_2.ogg
             -/media/english/us_pron/b/box/box__/box__us_1.mp3
             -/media/english/us_pron_ogg/b/box/box__/box__us_1.ogg
             @boy
-            -noun
             -/media/english/uk_pron/b/boy/boy__/boy__gb_2.mp3
             -/media/english/uk_pron_ogg/b/boy/boy__/boy__gb_2.ogg
             -/media/english/us_pron/b/boy/boy__/boy__us_1.mp3
             -/media/english/us_pron_ogg/b/boy/boy__/boy__us_1.ogg
             @boyfriend
-            -noun
             -/media/english/uk_pron/b/boy/boyfr/boyfriend__gb_1.mp3
             -/media/english/uk_pron_ogg/b/boy/boyfr/boyfriend__gb_1.ogg
             -/media/english/us_pron/b/boy/boyfr/boyfriend__us_2.mp3
             -/media/english/us_pron_ogg/b/boy/boyfr/boyfriend__us_2.ogg
             @bread
-            -noun
             -/media/english/uk_pron/b/bre/bread/bread__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bre/bread/bread__gb_2.ogg
             -/media/english/us_pron/b/bre/bread/bread__us_1.mp3
             -/media/english/us_pron_ogg/b/bre/bread/bread__us_1.ogg
             @break
-            -noun
             -/media/english/uk_pron/b/bre/break/break__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bre/break/break__gb_1.ogg
             -/media/english/us_pron/b/bre/break/break__us_1.mp3
             -/media/english/us_pron_ogg/b/bre/break/break__us_1.ogg
             @breakfast
-            -noun
             -/media/english/uk_pron/b/bre/break/breakfast__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bre/break/breakfast__gb_1.ogg
             -/media/english/us_pron/b/bre/break/breakfast__us_1.mp3
             -/media/english/us_pron_ogg/b/bre/break/breakfast__us_1.ogg
             @bring
-            -verb
             -/media/english/uk_pron/b/bri/bring/bring__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bri/bring/bring__gb_1.ogg
             -/media/english/us_pron/b/bri/bring/bring__us_1.mp3
             -/media/english/us_pron_ogg/b/bri/bring/bring__us_1.ogg
             @brother
-            -noun
             -/media/english/uk_pron/b/bro/broth/brother__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bro/broth/brother__gb_2.ogg
             -/media/english/us_pron/b/bro/broth/brother__us_2.mp3
             -/media/english/us_pron_ogg/b/bro/broth/brother__us_2.ogg
             @brown
-            -adjective
             -/media/english/uk_pron/b/bro/brown/brown_1_gb_1.mp3
             -/media/english/uk_pron_ogg/b/bro/brown/brown_1_gb_1.ogg
             -/media/english/us_pron/b/bro/brown/brown__us_1.mp3
             -/media/english/us_pron_ogg/b/bro/brown/brown__us_1.ogg
             @build
-            -verb
             -/media/english/uk_pron/b/bui/build/build__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bui/build/build__gb_2.ogg
             -/media/english/us_pron/b/bui/build/build__us_1.mp3
             -/media/english/us_pron_ogg/b/bui/build/build__us_1.ogg
             @building
-            -noun
             -/media/english/uk_pron/b/bui/build/building__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bui/build/building__gb_1.ogg
             -/media/english/us_pron/b/bui/build/building__us_3.mp3
             -/media/english/us_pron_ogg/b/bui/build/building__us_3.ogg
             @bus
-            -noun
             -/media/english/uk_pron/b/bus/bus__/bus__gb_3.mp3
             -/media/english/uk_pron_ogg/b/bus/bus__/bus__gb_3.ogg
             -/media/english/us_pron/b/bus/bus__/bus__us_1.mp3
             -/media/english/us_pron_ogg/b/bus/bus__/bus__us_1.ogg
             @business
-            -noun
             -/media/english/uk_pron/b/bus/busin/business__gb_2.mp3
             -/media/english/uk_pron_ogg/b/bus/busin/business__gb_2.ogg
             -/media/english/us_pron/b/bus/busin/business__us_4.mp3
             -/media/english/us_pron_ogg/b/bus/busin/business__us_4.ogg
             @busy
-            -adjective
             -/media/english/uk_pron/b/bus/busy_/busy__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bus/busy_/busy__gb_1.ogg
             -/media/english/us_pron/b/bus/busy_/busy__us_2.mp3
             -/media/english/us_pron_ogg/b/bus/busy_/busy__us_2.ogg
             @but
-            -conjunction
             -/media/english/uk_pron/b/but/but__/but__gb_1.mp3
             -/media/english/uk_pron_ogg/b/but/but__/but__gb_1.ogg
             -/media/english/us_pron/b/but/but__/but__us_2_rr.mp3
             -/media/english/us_pron_ogg/b/but/but__/but__us_2_rr.ogg
             @butter
-            -noun
             -/media/english/uk_pron/b/but/butte/butter__gb_2.mp3
             -/media/english/uk_pron_ogg/b/but/butte/butter__gb_2.ogg
             -/media/english/us_pron/b/but/butte/butter__us_2.mp3
             -/media/english/us_pron_ogg/b/but/butte/butter__us_2.ogg
             @buy
-            -verb
             -/media/english/uk_pron/b/buy/buy__/buy__gb_1.mp3
             -/media/english/uk_pron_ogg/b/buy/buy__/buy__gb_1.ogg
             -/media/english/us_pron/b/buy/buy__/buy__us_1.mp3
             -/media/english/us_pron_ogg/b/buy/buy__/buy__us_1.ogg
             @by
-            -preposition
             -/media/english/uk_pron/b/by_/by__g/by__gb_1.mp3
             -/media/english/uk_pron_ogg/b/by_/by__g/by__gb_1.ogg
             -/media/english/us_pron/b/by_/by__u/by__us_1.mp3
             -/media/english/us_pron_ogg/b/by_/by__u/by__us_1.ogg
             @bye
-            -exclamation
             -/media/english/uk_pron/b/bye/bye__/bye__gb_1.mp3
             -/media/english/uk_pron_ogg/b/bye/bye__/bye__gb_1.ogg
             -/media/english/us_pron/b/bye/bye__/bye__us_1.mp3
             -/media/english/us_pron_ogg/b/bye/bye__/bye__us_1.ogg
             @cafe
-            -noun
             -/media/english/uk_pron/c/caf/cafe_/cafe__gb_3.mp3
             -/media/english/uk_pron_ogg/c/caf/cafe_/cafe__gb_3.ogg
             -/media/english/us_pron/c/caf/cafe_/cafe__us_1.mp3
             -/media/english/us_pron_ogg/c/caf/cafe_/cafe__us_1.ogg
             @cake
-            -noun
             -/media/english/uk_pron/c/cak/cake_/cake__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cak/cake_/cake__gb_2.ogg
             -/media/english/us_pron/c/cak/cake_/cake__us_1.mp3
             -/media/english/us_pron_ogg/c/cak/cake_/cake__us_1.ogg
             @call
-            -noun
             -/media/english/uk_pron/c/cal/call_/call__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cal/call_/call__gb_1.ogg
             -/media/english/us_pron/c/cal/call_/call__us_1.mp3
             -/media/english/us_pron_ogg/c/cal/call_/call__us_1.ogg
             @camera
-            -noun
             -/media/english/uk_pron/c/cam/camer/camera__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cam/camer/camera__gb_2.ogg
             -/media/english/us_pron/c/cam/camer/camera__us_1_rr.mp3
             -/media/english/us_pron_ogg/c/cam/camer/camera__us_1_rr.ogg
             @can
-            -modal verb
             -/media/english/uk_pron/c/can/can__/can__gb_1.mp3
             -/media/english/uk_pron_ogg/c/can/can__/can__gb_1.ogg
             -/media/english/us_pron/c/can/can__/can__us_1_rr.mp3
             -/media/english/us_pron_ogg/c/can/can__/can__us_1_rr.ogg
             @cannot
-            -modal verb
             -/media/english/uk_pron/c/can/canno/cannot__gb_2.mp3
             -/media/english/uk_pron_ogg/c/can/canno/cannot__gb_2.ogg
             -/media/english/us_pron/c/can/canno/cannot__us_1_rr.mp3
             -/media/english/us_pron_ogg/c/can/canno/cannot__us_1_rr.ogg
             @capital
-            -adjective
             -/media/english/uk_pron/c/cap/capit/capital__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cap/capit/capital__gb_1.ogg
             -/media/english/us_pron/c/cap/capit/capital__us_3.mp3
             -/media/english/us_pron_ogg/c/cap/capit/capital__us_3.ogg
             @car
-            -noun
             -/media/english/uk_pron/c/car/car__/car__gb_1.mp3
             -/media/english/uk_pron_ogg/c/car/car__/car__gb_1.ogg
             -/media/english/us_pron/c/car/car__/car__us_1.mp3
             -/media/english/us_pron_ogg/c/car/car__/car__us_1.ogg
             @card
-            -noun
             -/media/english/uk_pron/c/car/card_/card__gb_1.mp3
             -/media/english/uk_pron_ogg/c/car/card_/card__gb_1.ogg
             -/media/english/us_pron/c/car/card_/card__us_1.mp3
             -/media/english/us_pron_ogg/c/car/card_/card__us_1.ogg
             @career
-            -noun
             -/media/english/uk_pron/c/car/caree/career__gb_2.mp3
             -/media/english/uk_pron_ogg/c/car/caree/career__gb_2.ogg
             -/media/english/us_pron/c/car/caree/career__us_2.mp3
             -/media/english/us_pron_ogg/c/car/caree/career__us_2.ogg
             @carrot
-            -noun
             -/media/english/uk_pron/c/car/carro/carrot__gb_2.mp3
             -/media/english/uk_pron_ogg/c/car/carro/carrot__gb_2.ogg
             -/media/english/us_pron/c/car/carro/carrot__us_1.mp3
             -/media/english/us_pron_ogg/c/car/carro/carrot__us_1.ogg
             @carry
-            -verb
             -/media/english/uk_pron/c/car/carry/carry__gb_1.mp3
             -/media/english/uk_pron_ogg/c/car/carry/carry__gb_1.ogg
             -/media/english/us_pron/c/car/carry/carry__us_2.mp3
             -/media/english/us_pron_ogg/c/car/carry/carry__us_2.ogg
             @cat
-            -noun
             -/media/english/uk_pron/c/cat/cat__/cat__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cat/cat__/cat__gb_2.ogg
             -/media/english/us_pron/c/cat/cat__/cat__us_1.mp3
             -/media/english/us_pron_ogg/c/cat/cat__/cat__us_1.ogg
             @CD
-            -noun
             -/media/english/uk_pron/c/cd_/cd_1_/cd_1_gb_1_abbr.mp3
             -/media/english/uk_pron_ogg/c/cd_/cd_1_/cd_1_gb_1_abbr.ogg
             -/media/english/us_pron/c/cd_/cd__u/cd__us_1.mp3
             -/media/english/us_pron_ogg/c/cd_/cd__u/cd__us_1.ogg
             @cent
-            -noun
             -/media/english/uk_pron/c/cen/cent_/cent__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cen/cent_/cent__gb_1.ogg
             -/media/english/us_pron/c/cen/cent_/cent__us_1.mp3
             -/media/english/us_pron_ogg/c/cen/cent_/cent__us_1.ogg
             @centre
-            -noun
             -/media/english/uk_pron/c/cen/centr/centre__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cen/centr/centre__gb_1.ogg
             -/media/english/us_pron/c/cen/centr/centre__us_1.mp3
             -/media/english/us_pron_ogg/c/cen/centr/centre__us_1.ogg
             @century
-            -noun
             -/media/english/uk_pron/c/cen/centu/century__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cen/centu/century__gb_3.ogg
             -/media/english/us_pron/c/cen/centu/century__us_2.mp3
             -/media/english/us_pron_ogg/c/cen/centu/century__us_2.ogg
             @chair
-            -noun
             -/media/english/uk_pron/c/cha/chair/chair__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cha/chair/chair__gb_3.ogg
             -/media/english/us_pron/c/cha/chair/chair__us_1.mp3
             -/media/english/us_pron_ogg/c/cha/chair/chair__us_1.ogg
             @change
-            -noun
             -/media/english/uk_pron/c/cha/chang/change__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cha/chang/change__gb_2.ogg
             -/media/english/us_pron/c/cha/chang/change__us_1.mp3
             -/media/english/us_pron_ogg/c/cha/chang/change__us_1.ogg
             @chart
-            -noun
             -/media/english/uk_pron/c/cha/chart/chart__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cha/chart/chart__gb_1.ogg
             -/media/english/us_pron/c/cha/chart/chart__us_1.mp3
             -/media/english/us_pron_ogg/c/cha/chart/chart__us_1.ogg
             @cheap
-            -adjective
             -/media/english/uk_pron/c/che/cheap/cheap__gb_1.mp3
             -/media/english/uk_pron_ogg/c/che/cheap/cheap__gb_1.ogg
             -/media/english/us_pron/c/che/cheap/cheap__us_1.mp3
             -/media/english/us_pron_ogg/c/che/cheap/cheap__us_1.ogg
             @check
-            -verb
             -/media/english/uk_pron/c/che/check/check__gb_1.mp3
             -/media/english/uk_pron_ogg/c/che/check/check__gb_1.ogg
             -/media/english/us_pron/c/che/check/check__us_1.mp3
             -/media/english/us_pron_ogg/c/che/check/check__us_1.ogg
             @cheese
-            -noun
             -/media/english/uk_pron/c/che/chees/cheese__gb_3.mp3
             -/media/english/uk_pron_ogg/c/che/chees/cheese__gb_3.ogg
             -/media/english/us_pron/c/che/chees/cheese__us_1.mp3
             -/media/english/us_pron_ogg/c/che/chees/cheese__us_1.ogg
             @chicken
-            -noun
             -/media/english/uk_pron/c/chi/chick/chicken__gb_3.mp3
             -/media/english/uk_pron_ogg/c/chi/chick/chicken__gb_3.ogg
             -/media/english/us_pron/c/chi/chick/chicken__us_2.mp3
             -/media/english/us_pron_ogg/c/chi/chick/chicken__us_2.ogg
             @child
-            -noun
             -/media/english/uk_pron/c/chi/child/child__gb_2.mp3
             -/media/english/uk_pron_ogg/c/chi/child/child__gb_2.ogg
             -/media/english/us_pron/c/chi/child/child__us_1.mp3
             -/media/english/us_pron_ogg/c/chi/child/child__us_1.ogg
             @chocolate
-            -noun
             -/media/english/uk_pron/c/cho/choco/chocolate__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cho/choco/chocolate__gb_2.ogg
             -/media/english/us_pron/c/cho/choco/chocolate__us_2_rr.mp3
             -/media/english/us_pron_ogg/c/cho/choco/chocolate__us_2_rr.ogg
             @choose
-            -verb
             -/media/english/uk_pron/c/cho/choos/choose__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cho/choos/choose__gb_1.ogg
             -/media/english/us_pron/c/cho/choos/choose__us_1.mp3
             -/media/english/us_pron_ogg/c/cho/choos/choose__us_1.ogg
             @cinema
-            -noun
             -/media/english/uk_pron/c/cin/cinem/cinema__gb_4.mp3
             -/media/english/uk_pron_ogg/c/cin/cinem/cinema__gb_4.ogg
             -/media/english/us_pron/c/cin/cinem/cinema__us_3.mp3
             -/media/english/us_pron_ogg/c/cin/cinem/cinema__us_3.ogg
             @city
-            -noun
             -/media/english/uk_pron/c/cit/city_/city__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cit/city_/city__gb_2.ogg
             -/media/english/us_pron/c/cit/city_/city__us_1.mp3
             -/media/english/us_pron_ogg/c/cit/city_/city__us_1.ogg
             @class
-            -noun
             -/media/english/uk_pron/c/cla/class/class__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cla/class/class__gb_3.ogg
             -/media/english/us_pron/c/cla/class/class__us_1.mp3
             -/media/english/us_pron_ogg/c/cla/class/class__us_1.ogg
             @classroom
-            -noun
             -/media/english/uk_pron/c/cla/class/classroom__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cla/class/classroom__gb_1.ogg
             -/media/english/us_pron/c/cla/class/classroom__us_1_rr.mp3
             -/media/english/us_pron_ogg/c/cla/class/classroom__us_1_rr.ogg
             @clean
-            -adjective
             -/media/english/uk_pron/c/cle/clean/clean__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cle/clean/clean__gb_2.ogg
             -/media/english/us_pron/c/cle/clean/clean__us_1.mp3
             -/media/english/us_pron_ogg/c/cle/clean/clean__us_1.ogg
             @climb
-            -verb
             -/media/english/uk_pron/c/cli/climb/climb__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cli/climb/climb__gb_2.ogg
             -/media/english/us_pron/c/cli/climb/climb__us_1.mp3
             -/media/english/us_pron_ogg/c/cli/climb/climb__us_1.ogg
             @clock
-            -noun
             -/media/english/uk_pron/c/clo/clock/clock__gb_1.mp3
             -/media/english/uk_pron_ogg/c/clo/clock/clock__gb_1.ogg
             -/media/english/us_pron/c/clo/clock/clock__us_1.mp3
             -/media/english/us_pron_ogg/c/clo/clock/clock__us_1.ogg
             @close
-            -verb
             -/media/english/uk_pron/c/clo/close/close__gb_1.mp3
             -/media/english/uk_pron_ogg/c/clo/close/close__gb_1.ogg
             -/media/english/us_pron/c/clo/close/close__us_1.mp3
             -/media/english/us_pron_ogg/c/clo/close/close__us_1.ogg
             @clothes
-            -noun
             -/media/english/uk_pron/c/clo/cloth/clothes__gb_1.mp3
             -/media/english/uk_pron_ogg/c/clo/cloth/clothes__gb_1.ogg
             -/media/english/us_pron/c/clo/cloth/clothes__us_2_rr.mp3
             -/media/english/us_pron_ogg/c/clo/cloth/clothes__us_2_rr.ogg
             @club
-            -noun
             -/media/english/uk_pron/c/clu/club_/club__gb_1.mp3
             -/media/english/uk_pron_ogg/c/clu/club_/club__gb_1.ogg
             -/media/english/us_pron/c/clu/club_/club__us_1.mp3
             -/media/english/us_pron_ogg/c/clu/club_/club__us_1.ogg
             @coat
-            -noun
             -/media/english/uk_pron/c/coa/coat_/coat__gb_2.mp3
             -/media/english/uk_pron_ogg/c/coa/coat_/coat__gb_2.ogg
             -/media/english/us_pron/c/coa/coat_/coat__us_1.mp3
             -/media/english/us_pron_ogg/c/coa/coat_/coat__us_1.ogg
             @coffee
-            -noun
             -/media/english/uk_pron/c/cof/coffe/coffee__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cof/coffe/coffee__gb_2.ogg
             -/media/english/us_pron/c/cof/coffe/coffee__us_1_rr.mp3
             -/media/english/us_pron_ogg/c/cof/coffe/coffee__us_1_rr.ogg
             @cold
-            -adjective
             -/media/english/uk_pron/c/col/cold_/cold__gb_3.mp3
             -/media/english/uk_pron_ogg/c/col/cold_/cold__gb_3.ogg
             -/media/english/us_pron/c/col/cold_/cold__us_1.mp3
             -/media/english/us_pron_ogg/c/col/cold_/cold__us_1.ogg
             @college
-            -noun
             -/media/english/uk_pron/c/col/colle/college__gb_1.mp3
             -/media/english/uk_pron_ogg/c/col/colle/college__gb_1.ogg
             -/media/english/us_pron/c/col/colle/college__us_1.mp3
             -/media/english/us_pron_ogg/c/col/colle/college__us_1.ogg
             @colour
-            -noun
             -/media/english/uk_pron/c/col/colou/colour__gb_1.mp3
             -/media/english/uk_pron_ogg/c/col/colou/colour__gb_1.ogg
             -/media/english/us_pron/c/col/colou/colour__us_2.mp3
             -/media/english/us_pron_ogg/c/col/colou/colour__us_2.ogg
             @come
-            -verb
             -/media/english/uk_pron/c/com/come_/come__gb_1.mp3
             -/media/english/uk_pron_ogg/c/com/come_/come__gb_1.ogg
             -/media/english/us_pron/c/com/come_/come__us_1.mp3
             -/media/english/us_pron_ogg/c/com/come_/come__us_1.ogg
             @common
-            -adjective
             -/media/english/uk_pron/c/com/commo/common__gb_2.mp3
             -/media/english/uk_pron_ogg/c/com/commo/common__gb_2.ogg
             -/media/english/us_pron/c/com/commo/common__us_2.mp3
             -/media/english/us_pron_ogg/c/com/commo/common__us_2.ogg
             @company
-            -noun
             -/media/english/uk_pron/c/com/compa/company__gb_4.mp3
             -/media/english/uk_pron_ogg/c/com/compa/company__gb_4.ogg
             -/media/english/us_pron/c/com/compa/company__us_2.mp3
             -/media/english/us_pron_ogg/c/com/compa/company__us_2.ogg
             @compare
-            -verb
             -/media/english/uk_pron/c/com/compa/compare__gb_3.mp3
             -/media/english/uk_pron_ogg/c/com/compa/compare__gb_3.ogg
             -/media/english/us_pron/c/com/compa/compare__us_2.mp3
             -/media/english/us_pron_ogg/c/com/compa/compare__us_2.ogg
             @complete
-            -adjective
             -/media/english/uk_pron/c/com/compl/complete__gb_2.mp3
             -/media/english/uk_pron_ogg/c/com/compl/complete__gb_2.ogg
             -/media/english/us_pron/c/com/compl/complete__us_1.mp3
             -/media/english/us_pron_ogg/c/com/compl/complete__us_1.ogg
             @computer
-            -noun
             -/media/english/uk_pron/c/com/compu/computer__gb_2.mp3
             -/media/english/uk_pron_ogg/c/com/compu/computer__gb_2.ogg
             -/media/english/us_pron/c/com/compu/computer__us_3.mp3
             -/media/english/us_pron_ogg/c/com/compu/computer__us_3.ogg
             @concert
-            -noun
             -/media/english/uk_pron/x/xco/xconc/xconcert__gb_1.mp3
             -/media/english/uk_pron_ogg/x/xco/xconc/xconcert__gb_1.ogg
             -/media/english/us_pron/x/xco/xconc/xconcert__us_1.mp3
             -/media/english/us_pron_ogg/x/xco/xconc/xconcert__us_1.ogg
             @conversation
-            -noun
             -/media/english/uk_pron/x/xco/xconv/xconversation__gb_1.mp3
             -/media/english/uk_pron_ogg/x/xco/xconv/xconversation__gb_1.ogg
             -/media/english/us_pron/x/xco/xconv/xconversation__us_1.mp3
             -/media/english/us_pron_ogg/x/xco/xconv/xconversation__us_1.ogg
             @cook
-            -verb
             -/media/english/uk_pron/c/coo/cook_/cook__gb_3.mp3
             -/media/english/uk_pron_ogg/c/coo/cook_/cook__gb_3.ogg
             -/media/english/us_pron/c/coo/cook_/cook__us_1.mp3
             -/media/english/us_pron_ogg/c/coo/cook_/cook__us_1.ogg
             @cooking
-            -noun
             -/media/english/uk_pron/c/coo/cooki/cooking__gb_1.mp3
             -/media/english/uk_pron_ogg/c/coo/cooki/cooking__gb_1.ogg
             -/media/english/us_pron/c/coo/cooki/cooking__us_3.mp3
             -/media/english/us_pron_ogg/c/coo/cooki/cooking__us_3.ogg
             @cool
-            -adjective
             -/media/english/uk_pron/c/coo/cool_/cool__gb_2.mp3
             -/media/english/uk_pron_ogg/c/coo/cool_/cool__gb_2.ogg
             -/media/english/us_pron/c/coo/cool_/cool__us_1.mp3
             -/media/english/us_pron_ogg/c/coo/cool_/cool__us_1.ogg
             @correct
-            -adjective
             -/media/english/uk_pron/c/cor/corre/correct__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cor/corre/correct__gb_2.ogg
             -/media/english/us_pron/c/cor/corre/correct__us_1.mp3
             -/media/english/us_pron_ogg/c/cor/corre/correct__us_1.ogg
             @cost
-            -noun
             -/media/english/uk_pron/c/cos/cost_/cost__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cos/cost_/cost__gb_1.ogg
             -/media/english/us_pron/c/cos/cost_/cost__us_1.mp3
             -/media/english/us_pron_ogg/c/cos/cost_/cost__us_1.ogg
             @could
-            -modal verb
             -/media/english/uk_pron/c/cou/could/could__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cou/could/could__gb_1.ogg
             -/media/english/us_pron/c/cou/could/could__us_3_rr.mp3
             -/media/english/us_pron_ogg/c/cou/could/could__us_3_rr.ogg
             @country
-            -noun
             -/media/english/uk_pron/c/cou/count/country__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cou/count/country__gb_3.ogg
             -/media/english/us_pron/c/cou/count/country__us_2.mp3
             -/media/english/us_pron_ogg/c/cou/count/country__us_2.ogg
             @course
-            -noun
             -/media/english/uk_pron/c/cou/cours/course__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cou/cours/course__gb_2.ogg
             -/media/english/us_pron/c/cou/cours/course__us_1.mp3
             -/media/english/us_pron_ogg/c/cou/cours/course__us_1.ogg
             @cousin
-            -noun
             -/media/english/uk_pron/c/cou/cousi/cousin__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cou/cousi/cousin__gb_3.ogg
             -/media/english/us_pron/c/cou/cousi/cousin__us_1.mp3
             -/media/english/us_pron_ogg/c/cou/cousi/cousin__us_1.ogg
             @cow
-            -noun
             -/media/english/uk_pron/c/cow/cow__/cow__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cow/cow__/cow__gb_1.ogg
             -/media/english/us_pron/c/cow/cow__/cow__us_1.mp3
             -/media/english/us_pron_ogg/c/cow/cow__/cow__us_1.ogg
             @cream
-            -noun
             -/media/english/uk_pron/c/cre/cream/cream__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cre/cream/cream__gb_1.ogg
             -/media/english/us_pron/c/cre/cream/cream__us_1.mp3
             -/media/english/us_pron_ogg/c/cre/cream/cream__us_1.ogg
             @create
-            -verb
             -/media/english/uk_pron/c/cre/creat/create__gb_5.mp3
             -/media/english/uk_pron_ogg/c/cre/creat/create__gb_5.ogg
             -/media/english/us_pron/c/cre/creat/create__us_1.mp3
             -/media/english/us_pron_ogg/c/cre/creat/create__us_1.ogg
             @culture
-            -noun
             -/media/english/uk_pron/c/cul/cultu/culture__gb_2.mp3
             -/media/english/uk_pron_ogg/c/cul/cultu/culture__gb_2.ogg
             -/media/english/us_pron/c/cul/cultu/culture__us_2.mp3
             -/media/english/us_pron_ogg/c/cul/cultu/culture__us_2.ogg
             @cup
-            -noun
             -/media/english/uk_pron/c/cup/cup__/cup__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cup/cup__/cup__gb_3.ogg
             -/media/english/us_pron/c/cup/cup__/cup__us_1.mp3
             -/media/english/us_pron_ogg/c/cup/cup__/cup__us_1.ogg
             @customer
-            -noun
             -/media/english/uk_pron/c/cus/custo/customer__gb_3.mp3
             -/media/english/uk_pron_ogg/c/cus/custo/customer__gb_3.ogg
             -/media/english/us_pron/c/cus/custo/customer__us_1.mp3
             -/media/english/us_pron_ogg/c/cus/custo/customer__us_1.ogg
             @cut
-            -verb
             -/media/english/uk_pron/c/cut/cut__/cut__gb_1.mp3
             -/media/english/uk_pron_ogg/c/cut/cut__/cut__gb_1.ogg
             -/media/english/us_pron/c/cut/cut__/cut__us_1.mp3
             -/media/english/us_pron_ogg/c/cut/cut__/cut__us_1.ogg
             @dad
-            -noun
             -/media/english/uk_pron/d/dad/dad_1/dad_1_gb_1.mp3
             -/media/english/uk_pron_ogg/d/dad/dad_1/dad_1_gb_1.ogg
             -/media/english/us_pron/d/dad/dad__/dad__us_1.mp3
             -/media/english/us_pron_ogg/d/dad/dad__/dad__us_1.ogg
             @dance
-            -noun
             -/media/english/uk_pron/d/dan/dance/dance__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dan/dance/dance__gb_1.ogg
             -/media/english/us_pron/d/dan/dance/dance__us_1.mp3
             -/media/english/us_pron_ogg/d/dan/dance/dance__us_1.ogg
             @dancer
-            -noun
             -/media/english/uk_pron/d/dan/dance/dancer__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dan/dance/dancer__gb_1.ogg
             -/media/english/us_pron/d/dan/dance/dancer__us_1.mp3
             -/media/english/us_pron_ogg/d/dan/dance/dancer__us_1.ogg
             @dancing
-            -noun
             -/media/english/uk_pron/d/dan/danci/dancing__gb_3.mp3
             -/media/english/uk_pron_ogg/d/dan/danci/dancing__gb_3.ogg
             -/media/english/us_pron/d/dan/danci/dancing__us_1.mp3
             -/media/english/us_pron_ogg/d/dan/danci/dancing__us_1.ogg
             @dangerous
-            -adjective
             -/media/english/uk_pron/d/dan/dange/dangerous__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dan/dange/dangerous__gb_1.ogg
             -/media/english/us_pron/d/dan/dange/dangerous__us_1.mp3
             -/media/english/us_pron_ogg/d/dan/dange/dangerous__us_1.ogg
             @dark
-            -adjective
             -/media/english/uk_pron/d/dar/dark_/dark__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dar/dark_/dark__gb_1.ogg
             -/media/english/us_pron/d/dar/dark_/dark__us_1.mp3
             -/media/english/us_pron_ogg/d/dar/dark_/dark__us_1.ogg
             @date
-            -noun
             -/media/english/uk_pron/d/dat/date_/date__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dat/date_/date__gb_1.ogg
             -/media/english/us_pron/d/dat/date_/date__us_1.mp3
             -/media/english/us_pron_ogg/d/dat/date_/date__us_1.ogg
             @daughter
-            -noun
             -/media/english/uk_pron/d/dau/daugh/daughter__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dau/daugh/daughter__gb_2.ogg
             -/media/english/us_pron/d/dau/daugh/daughter__us_1.mp3
             -/media/english/us_pron_ogg/d/dau/daugh/daughter__us_1.ogg
             @day
-            -noun
             -/media/english/uk_pron/d/day/day__/day__gb_2.mp3
             -/media/english/uk_pron_ogg/d/day/day__/day__gb_2.ogg
             -/media/english/us_pron/d/day/day__/day__us_1.mp3
             -/media/english/us_pron_ogg/d/day/day__/day__us_1.ogg
             @dear
-            -adjective
             -/media/english/uk_pron/d/dea/dear_/dear__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dea/dear_/dear__gb_2.ogg
             -/media/english/us_pron/d/dea/dear_/dear__us_1.mp3
             -/media/english/us_pron_ogg/d/dea/dear_/dear__us_1.ogg
             @December
-            -noun
             -/media/english/uk_pron/d/dec/decem/december_1_gb_2.mp3
             -/media/english/uk_pron_ogg/d/dec/decem/december_1_gb_2.ogg
             -/media/english/us_pron/d/dec/decem/december__us_2.mp3
             -/media/english/us_pron_ogg/d/dec/decem/december__us_2.ogg
             @decide
-            -verb
             -/media/english/uk_pron/d/dec/decid/decide__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dec/decid/decide__gb_1.ogg
             -/media/english/us_pron/d/dec/decid/decide__us_2.mp3
             -/media/english/us_pron_ogg/d/dec/decid/decide__us_2.ogg
             @delicious
-            -adjective
             -/media/english/uk_pron/d/del/delic/delicious__gb_1.mp3
             -/media/english/uk_pron_ogg/d/del/delic/delicious__gb_1.ogg
             -/media/english/us_pron/d/del/delic/delicious__us_2.mp3
             -/media/english/us_pron_ogg/d/del/delic/delicious__us_2.ogg
             @describe
-            -verb
             -/media/english/uk_pron/d/des/descr/describe__gb_2.mp3
             -/media/english/uk_pron_ogg/d/des/descr/describe__gb_2.ogg
             -/media/english/us_pron/d/des/descr/describe__us_1.mp3
             -/media/english/us_pron_ogg/d/des/descr/describe__us_1.ogg
             @description
-            -noun
             -/media/english/uk_pron/d/des/descr/description__gb_2.mp3
             -/media/english/uk_pron_ogg/d/des/descr/description__gb_2.ogg
             -/media/english/us_pron/d/des/descr/description__us_1.mp3
             -/media/english/us_pron_ogg/d/des/descr/description__us_1.ogg
             @design
-            -noun
             -/media/english/uk_pron/d/des/desig/design__gb_2.mp3
             -/media/english/uk_pron_ogg/d/des/desig/design__gb_2.ogg
             -/media/english/us_pron/d/des/desig/design__us_3.mp3
             -/media/english/us_pron_ogg/d/des/desig/design__us_3.ogg
             @desk
-            -noun
             -/media/english/uk_pron/d/des/desk_/desk__gb_1.mp3
             -/media/english/uk_pron_ogg/d/des/desk_/desk__gb_1.ogg
             -/media/english/us_pron/d/des/desk_/desk__us_1.mp3
             -/media/english/us_pron_ogg/d/des/desk_/desk__us_1.ogg
             @detail
-            -noun
             -/media/english/uk_pron/d/det/detai/detail__gb_3.mp3
             -/media/english/uk_pron_ogg/d/det/detai/detail__gb_3.ogg
             -/media/english/us_pron/d/det/detai/detail__us_1.mp3
             -/media/english/us_pron_ogg/d/det/detai/detail__us_1.ogg
             @dialogue
-            -noun
             -/media/english/uk_pron/d/dia/dialo/dialogue__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dia/dialo/dialogue__gb_1.ogg
             -/media/english/us_pron/d/dia/dialo/dialogue__us_1_rr.mp3
             -/media/english/us_pron_ogg/d/dia/dialo/dialogue__us_1_rr.ogg
             @dictionary
-            -noun
             -/media/english/uk_pron/d/dic/dicti/dictionary__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dic/dicti/dictionary__gb_2.ogg
             -/media/english/us_pron/d/dic/dicti/dictionary__us_1.mp3
             -/media/english/us_pron_ogg/d/dic/dicti/dictionary__us_1.ogg
             @die
-            -verb
             -/media/english/uk_pron/d/die/die__/die__gb_1.mp3
             -/media/english/uk_pron_ogg/d/die/die__/die__gb_1.ogg
             -/media/english/us_pron/d/die/die__/die__us_1.mp3
             -/media/english/us_pron_ogg/d/die/die__/die__us_1.ogg
             @diet
-            -noun
             -/media/english/uk_pron/d/die/diet_/diet__gb_1.mp3
             -/media/english/uk_pron_ogg/d/die/diet_/diet__gb_1.ogg
             -/media/english/us_pron/d/die/diet_/diet__us_1.mp3
             -/media/english/us_pron_ogg/d/die/diet_/diet__us_1.ogg
             @difference
-            -noun
             -/media/english/uk_pron/d/dif/diffe/difference__gb_4.mp3
             -/media/english/uk_pron_ogg/d/dif/diffe/difference__gb_4.ogg
             -/media/english/us_pron/d/dif/diffe/difference__us_1.mp3
             -/media/english/us_pron_ogg/d/dif/diffe/difference__us_1.ogg
             @different
-            -adjective
             -/media/english/uk_pron/d/dif/diffe/different__gb_3.mp3
             -/media/english/uk_pron_ogg/d/dif/diffe/different__gb_3.ogg
             -/media/english/us_pron/d/dif/diffe/different__us_1.mp3
             -/media/english/us_pron_ogg/d/dif/diffe/different__us_1.ogg
             @difficult
-            -adjective
             -/media/english/uk_pron/d/dif/diffi/difficult__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dif/diffi/difficult__gb_2.ogg
             -/media/english/us_pron/d/dif/diffi/difficult__us_2_rr.mp3
             -/media/english/us_pron_ogg/d/dif/diffi/difficult__us_2_rr.ogg
             @dinner
-            -noun
             -/media/english/uk_pron/d/din/dinne/dinner__gb_3.mp3
             -/media/english/uk_pron_ogg/d/din/dinne/dinner__gb_3.ogg
             -/media/english/us_pron/d/din/dinne/dinner__us_3.mp3
             -/media/english/us_pron_ogg/d/din/dinne/dinner__us_3.ogg
             @dirty
-            -adjective
             -/media/english/uk_pron/d/dir/dirty/dirty__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dir/dirty/dirty__gb_2.ogg
             -/media/english/us_pron/d/dir/dirty/dirty__us_1.mp3
             -/media/english/us_pron_ogg/d/dir/dirty/dirty__us_1.ogg
             @discuss
-            -verb
             -/media/english/uk_pron/d/dis/discu/discuss__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dis/discu/discuss__gb_2.ogg
             -/media/english/us_pron/d/dis/discu/discuss__us_1.mp3
             -/media/english/us_pron_ogg/d/dis/discu/discuss__us_1.ogg
             @dish
-            -noun
             -/media/english/uk_pron/d/dis/dish_/dish__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dis/dish_/dish__gb_1.ogg
             -/media/english/us_pron/d/dis/dish_/dish__us_1.mp3
             -/media/english/us_pron_ogg/d/dis/dish_/dish__us_1.ogg
             @do
-            -verb
             -/media/english/uk_pron/d/do_/do__g/do__gb_3.mp3
             -/media/english/uk_pron_ogg/d/do_/do__g/do__gb_3.ogg
             -/media/english/us_pron/d/do_/do__u/do__us_3_rr.mp3
             -/media/english/us_pron_ogg/d/do_/do__u/do__us_3_rr.ogg
             @doctor
-            -noun
             -/media/english/uk_pron/d/doc/docto/doctor__gb_2.mp3
             -/media/english/uk_pron_ogg/d/doc/docto/doctor__gb_2.ogg
             -/media/english/us_pron/d/doc/docto/doctor__us_2.mp3
             -/media/english/us_pron_ogg/d/doc/docto/doctor__us_2.ogg
             @dog
-            -noun
             -/media/english/uk_pron/d/dog/dog__/dog__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dog/dog__/dog__gb_2.ogg
             -/media/english/us_pron/d/dog/dog__/dog__us_1_rr.mp3
             -/media/english/us_pron_ogg/d/dog/dog__/dog__us_1_rr.ogg
             @dollar
-            -noun
             -/media/english/uk_pron/d/dol/dolla/dollar__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dol/dolla/dollar__gb_2.ogg
             -/media/english/us_pron/d/dol/dolla/dollar__us_2.mp3
             -/media/english/us_pron_ogg/d/dol/dolla/dollar__us_2.ogg
             @door
-            -noun
             -/media/english/uk_pron/d/doo/door_/door__gb_2.mp3
             -/media/english/uk_pron_ogg/d/doo/door_/door__gb_2.ogg
             -/media/english/us_pron/d/doo/door_/door__us_1.mp3
             -/media/english/us_pron_ogg/d/doo/door_/door__us_1.ogg
             @down
-            -adverb
             -/media/english/uk_pron/d/dow/down_/down__gb_1.mp3
             -/media/english/uk_pron_ogg/d/dow/down_/down__gb_1.ogg
             -/media/english/us_pron/d/dow/down_/down__us_1.mp3
             -/media/english/us_pron_ogg/d/dow/down_/down__us_1.ogg
             @downstairs
-            -adverb
             -/media/english/uk_pron/d/dow/downs/downstairs__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dow/downs/downstairs__gb_2.ogg
             -/media/english/us_pron/d/dow/downs/downstairs__us_1.mp3
             -/media/english/us_pron_ogg/d/dow/downs/downstairs__us_1.ogg
             @draw
-            -verb
             -/media/english/uk_pron/d/dra/draw_/draw__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dra/draw_/draw__gb_2.ogg
             -/media/english/us_pron/d/dra/draw_/draw__us_1.mp3
             -/media/english/us_pron_ogg/d/dra/draw_/draw__us_1.ogg
             @dress
-            -noun
             -/media/english/uk_pron/d/dre/dress/dress__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dre/dress/dress__gb_2.ogg
             -/media/english/us_pron/d/dre/dress/dress__us_1.mp3
             -/media/english/us_pron_ogg/d/dre/dress/dress__us_1.ogg
             @drink
-            -noun
             -/media/english/uk_pron/d/dri/drink/drink__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dri/drink/drink__gb_2.ogg
             -/media/english/us_pron/d/dri/drink/drink__us_1.mp3
             -/media/english/us_pron_ogg/d/dri/drink/drink__us_1.ogg
             @drive
-            -verb
             -/media/english/uk_pron/d/dri/drive/drive__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dri/drive/drive__gb_2.ogg
             -/media/english/us_pron/d/dri/drive/drive__us_1.mp3
             -/media/english/us_pron_ogg/d/dri/drive/drive__us_1.ogg
             @driver
-            -noun
             -/media/english/uk_pron/d/dri/drive/driver__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dri/drive/driver__gb_2.ogg
             -/media/english/us_pron/d/dri/drive/driver__us_2.mp3
             -/media/english/us_pron_ogg/d/dri/drive/driver__us_2.ogg
             @during
-            -preposition
             -/media/english/uk_pron/d/dur/durin/during__gb_2.mp3
             -/media/english/uk_pron_ogg/d/dur/durin/during__gb_2.ogg
             -/media/english/us_pron/d/dur/durin/during__us_1.mp3
             -/media/english/us_pron_ogg/d/dur/durin/during__us_1.ogg
             @DVD
-            -noun
             -/media/english/uk_pron/d/dvd/dvd_1/dvd_1_gb_2_abbr.mp3
             -/media/english/uk_pron_ogg/d/dvd/dvd_1/dvd_1_gb_2_abbr.ogg
             -/media/english/us_pron/d/dvd/dvd__/dvd__us_1.mp3
             -/media/english/us_pron_ogg/d/dvd/dvd__/dvd__us_1.ogg
             @each
-            -adverb
             -/media/english/uk_pron/e/eac/each_/each__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eac/each_/each__gb_1.ogg
             -/media/english/us_pron/e/eac/each_/each__us_1.mp3
             -/media/english/us_pron_ogg/e/eac/each_/each__us_1.ogg
             @ear
-            -noun
             -/media/english/uk_pron/e/ear/ear__/ear__gb_2.mp3
             -/media/english/uk_pron_ogg/e/ear/ear__/ear__gb_2.ogg
             -/media/english/us_pron/e/ear/ear__/ear__us_1.mp3
             -/media/english/us_pron_ogg/e/ear/ear__/ear__us_1.ogg
             @early
-            -adjective
             -/media/english/uk_pron/e/ear/early/early__gb_1.mp3
             -/media/english/uk_pron_ogg/e/ear/early/early__gb_1.ogg
             -/media/english/us_pron/e/ear/early/early__us_1.mp3
             -/media/english/us_pron_ogg/e/ear/early/early__us_1.ogg
             @east
-            -adjective
             -/media/english/uk_pron/e/eas/east_/east__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eas/east_/east__gb_1.ogg
             -/media/english/us_pron/e/eas/east_/east__us_1.mp3
             -/media/english/us_pron_ogg/e/eas/east_/east__us_1.ogg
             @easy
-            -adjective
             -/media/english/uk_pron/e/eas/easy_/easy__gb_2.mp3
             -/media/english/uk_pron_ogg/e/eas/easy_/easy__gb_2.ogg
             -/media/english/us_pron/e/eas/easy_/easy__us_1.mp3
             -/media/english/us_pron_ogg/e/eas/easy_/easy__us_1.ogg
             @eat
-            -verb
             -/media/english/uk_pron/e/eat/eat__/eat__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eat/eat__/eat__gb_1.ogg
             -/media/english/us_pron/e/eat/eat__/eat__us_1.mp3
             -/media/english/us_pron_ogg/e/eat/eat__/eat__us_1.ogg
             @egg
-            -noun
             -/media/english/uk_pron/e/egg/egg__/egg__gb_3.mp3
             -/media/english/uk_pron_ogg/e/egg/egg__/egg__gb_3.ogg
             -/media/english/us_pron/e/egg/egg__/egg__us_1.mp3
             -/media/english/us_pron_ogg/e/egg/egg__/egg__us_1.ogg
             @eight
-            -number
             -/media/english/uk_pron/e/eig/eight/eight__gb_2.mp3
             -/media/english/uk_pron_ogg/e/eig/eight/eight__gb_2.ogg
             -/media/english/us_pron/e/eig/eight/eight__us_1.mp3
             -/media/english/us_pron_ogg/e/eig/eight/eight__us_1.ogg
             @eighteen
-            -number
             -/media/english/uk_pron/e/eig/eight/eighteen__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eig/eight/eighteen__gb_1.ogg
             -/media/english/us_pron/e/eig/eight/eighteen__us_1.mp3
             -/media/english/us_pron_ogg/e/eig/eight/eighteen__us_1.ogg
             @eighty
-            -number
             -/media/english/uk_pron/e/eig/eight/eighty__gb_2.mp3
             -/media/english/uk_pron_ogg/e/eig/eight/eighty__gb_2.ogg
             -/media/english/us_pron/e/eig/eight/eighty__us_1.mp3
             -/media/english/us_pron_ogg/e/eig/eight/eighty__us_1.ogg
             @elephant
-            -noun
             -/media/english/uk_pron/e/ele/eleph/elephant__gb_1.mp3
             -/media/english/uk_pron_ogg/e/ele/eleph/elephant__gb_1.ogg
             -/media/english/us_pron/e/ele/eleph/elephant__us_1.mp3
             -/media/english/us_pron_ogg/e/ele/eleph/elephant__us_1.ogg
             @eleven
-            -number
             -/media/english/uk_pron/e/ele/eleve/eleven__gb_2.mp3
             -/media/english/uk_pron_ogg/e/ele/eleve/eleven__gb_2.ogg
             -/media/english/us_pron/e/ele/eleve/eleven__us_1.mp3
             -/media/english/us_pron_ogg/e/ele/eleve/eleven__us_1.ogg
             @else
-            -adverb
             -/media/english/uk_pron/e/els/else_/else__gb_1.mp3
             -/media/english/uk_pron_ogg/e/els/else_/else__gb_1.ogg
             -/media/english/us_pron/e/els/else_/else__us_1.mp3
             -/media/english/us_pron_ogg/e/els/else_/else__us_1.ogg
             @email
-            -noun
             -/media/english/uk_pron/e/ema/email/email__gb_1.mp3
             -/media/english/uk_pron_ogg/e/ema/email/email__gb_1.ogg
             -/media/english/us_pron/e/ema/email/email__us_2.mp3
             -/media/english/us_pron_ogg/e/ema/email/email__us_2.ogg
             @end
-            -noun
             -/media/english/uk_pron/e/end/end__/end__gb_1.mp3
             -/media/english/uk_pron_ogg/e/end/end__/end__gb_1.ogg
             -/media/english/us_pron/e/end/end__/end__us_1.mp3
             -/media/english/us_pron_ogg/e/end/end__/end__us_1.ogg
             @enjoy
-            -verb
             -/media/english/uk_pron/e/enj/enjoy/enjoy__gb_3.mp3
             -/media/english/uk_pron_ogg/e/enj/enjoy/enjoy__gb_3.ogg
             -/media/english/us_pron/e/enj/enjoy/enjoy__us_1.mp3
             -/media/english/us_pron_ogg/e/enj/enjoy/enjoy__us_1.ogg
             @enough
-            -adverb
             -/media/english/uk_pron/e/eno/enoug/enough__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eno/enoug/enough__gb_1.ogg
             -/media/english/us_pron/e/eno/enoug/enough__us_1.mp3
             -/media/english/us_pron_ogg/e/eno/enoug/enough__us_1.ogg
             @euro
-            -noun
             -/media/english/uk_pron/e/eur/euro_/euro__gb_2.mp3
             -/media/english/uk_pron_ogg/e/eur/euro_/euro__gb_2.ogg
             -/media/english/us_pron/e/eur/euro_/euro__us_1_rr.mp3
             -/media/english/us_pron_ogg/e/eur/euro_/euro__us_1_rr.ogg
             @even
-            -adverb
             -/media/english/uk_pron/e/eve/even_/even__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/even_/even__gb_1.ogg
             -/media/english/us_pron/e/eve/even_/even__us_1.mp3
             -/media/english/us_pron_ogg/e/eve/even_/even__us_1.ogg
             @evening
-            -noun
             -/media/english/uk_pron/e/eve/eveni/evening__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/eveni/evening__gb_1.ogg
             -/media/english/us_pron/e/eve/eveni/evening__us_1.mp3
             -/media/english/us_pron_ogg/e/eve/eveni/evening__us_1.ogg
             @event
-            -noun
             -/media/english/uk_pron/e/eve/event/event__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/event/event__gb_1.ogg
             -/media/english/us_pron/e/eve/event/event__us_1.mp3
             -/media/english/us_pron_ogg/e/eve/event/event__us_1.ogg
             @ever
-            -adverb
             -/media/english/uk_pron/e/eve/ever_/ever__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/ever_/ever__gb_1.ogg
             -/media/english/us_pron/e/eve/ever_/ever__us_2.mp3
             -/media/english/us_pron_ogg/e/eve/ever_/ever__us_2.ogg
             @every
-            -determiner
             -/media/english/uk_pron/e/eve/every/every__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/every/every__gb_1.ogg
             -/media/english/us_pron/e/eve/every/every__us_2.mp3
             -/media/english/us_pron_ogg/e/eve/every/every__us_2.ogg
             @everybody
-            -pronoun
             -/media/english/uk_pron/e/eve/every/everybody__gb_3.mp3
             -/media/english/uk_pron_ogg/e/eve/every/everybody__gb_3.ogg
             -/media/english/us_pron/e/eve/every/everybody__us_1_rr.mp3
             -/media/english/us_pron_ogg/e/eve/every/everybody__us_1_rr.ogg
             @everyone
-            -pronoun
             -/media/english/uk_pron/e/eve/every/everyone__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/every/everyone__gb_1.ogg
             -/media/english/us_pron/e/eve/every/everyone__us_1_rr.mp3
             -/media/english/us_pron_ogg/e/eve/every/everyone__us_1_rr.ogg
             @everything
-            -pronoun
             -/media/english/uk_pron/e/eve/every/everything__gb_1.mp3
             -/media/english/uk_pron_ogg/e/eve/every/everything__gb_1.ogg
             -/media/english/us_pron/e/eve/every/everything__us_1.mp3
             -/media/english/us_pron_ogg/e/eve/every/everything__us_1.ogg
             @exam
-            -noun
             -/media/english/uk_pron/e/exa/exam_/exam__gb_1.mp3
             -/media/english/uk_pron_ogg/e/exa/exam_/exam__gb_1.ogg
             -/media/english/us_pron/e/exa/exam_/exam__us_1.mp3
             -/media/english/us_pron_ogg/e/exa/exam_/exam__us_1.ogg
             @example
-            -noun
             -/media/english/uk_pron/e/exa/examp/example__gb_1.mp3
             -/media/english/uk_pron_ogg/e/exa/examp/example__gb_1.ogg
             -/media/english/us_pron/e/exa/examp/example__us_5.mp3
             -/media/english/us_pron_ogg/e/exa/examp/example__us_5.ogg
             @excited
-            -adjective
             -/media/english/uk_pron/e/exc/excit/excited__gb_3.mp3
             -/media/english/uk_pron_ogg/e/exc/excit/excited__gb_3.ogg
             -/media/english/us_pron/e/exc/excit/excited__us_1.mp3
             -/media/english/us_pron_ogg/e/exc/excit/excited__us_1.ogg
             @exciting
-            -adjective
             -/media/english/uk_pron/e/exc/excit/exciting__gb_1.mp3
             -/media/english/uk_pron_ogg/e/exc/excit/exciting__gb_1.ogg
             -/media/english/us_pron/e/exc/excit/exciting__us_3.mp3
             -/media/english/us_pron_ogg/e/exc/excit/exciting__us_3.ogg
             @exercise
-            -noun
             -/media/english/uk_pron/e/exe/exerc/exercise__gb_1.mp3
             -/media/english/uk_pron_ogg/e/exe/exerc/exercise__gb_1.ogg
             -/media/english/us_pron/e/exe/exerc/exercise__us_1.mp3
             -/media/english/us_pron_ogg/e/exe/exerc/exercise__us_1.ogg
             @expensive
-            -adjective
             -/media/english/uk_pron/e/exp/expen/expensive__gb_3.mp3
             -/media/english/uk_pron_ogg/e/exp/expen/expensive__gb_3.ogg
             -/media/english/us_pron/e/exp/expen/expensive__us_1.mp3
             -/media/english/us_pron_ogg/e/exp/expen/expensive__us_1.ogg
             @explain
-            -verb
             -/media/english/uk_pron/e/exp/expla/explain__gb_3.mp3
             -/media/english/uk_pron_ogg/e/exp/expla/explain__gb_3.ogg
             -/media/english/us_pron/e/exp/expla/explain__us_3.mp3
             -/media/english/us_pron_ogg/e/exp/expla/explain__us_3.ogg
             @extra
-            -adjective
             -/media/english/uk_pron/e/ext/extra/extra__gb_1.mp3
             -/media/english/uk_pron_ogg/e/ext/extra/extra__gb_1.ogg
             -/media/english/us_pron/e/ext/extra/extra__us_1.mp3
             -/media/english/us_pron_ogg/e/ext/extra/extra__us_1.ogg
             @eye
-            -noun
             -/media/english/uk_pron/e/eye/eye__/eye__gb_2.mp3
             -/media/english/uk_pron_ogg/e/eye/eye__/eye__gb_2.ogg
             -/media/english/us_pron/e/eye/eye__/eye__us_1.mp3
             -/media/english/us_pron_ogg/e/eye/eye__/eye__us_1.ogg
             @face
-            -noun
             -/media/english/uk_pron/f/fac/face_/face__gb_3.mp3
             -/media/english/uk_pron_ogg/f/fac/face_/face__gb_3.ogg
             -/media/english/us_pron/f/fac/face_/face__us_1.mp3
             -/media/english/us_pron_ogg/f/fac/face_/face__us_1.ogg
             @fact
-            -noun
             -/media/english/uk_pron/f/fac/fact_/fact__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fac/fact_/fact__gb_2.ogg
             -/media/english/us_pron/f/fac/fact_/fact__us_1.mp3
             -/media/english/us_pron_ogg/f/fac/fact_/fact__us_1.ogg
             @fall
-            -verb
             -/media/english/uk_pron/f/fal/fall_/fall__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fal/fall_/fall__gb_2.ogg
             -/media/english/us_pron/f/fal/fall_/fall__us_1.mp3
             -/media/english/us_pron_ogg/f/fal/fall_/fall__us_1.ogg
             @false
-            -adjective
             -/media/english/uk_pron/f/fal/false/false__gb_3.mp3
             -/media/english/uk_pron_ogg/f/fal/false/false__gb_3.ogg
             -/media/english/us_pron/f/fal/false/false__us_1.mp3
             -/media/english/us_pron_ogg/f/fal/false/false__us_1.ogg
             @family
-            -adjective
             -/media/english/uk_pron/f/fam/famil/family__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fam/famil/family__gb_1.ogg
             -/media/english/us_pron/f/fam/famil/family__us_2_rr.mp3
             -/media/english/us_pron_ogg/f/fam/famil/family__us_2_rr.ogg
             @famous
-            -adjective
             -/media/english/uk_pron/f/fam/famou/famous__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fam/famou/famous__gb_1.ogg
             -/media/english/us_pron/f/fam/famou/famous__us_2.mp3
             -/media/english/us_pron_ogg/f/fam/famou/famous__us_2.ogg
             @fantastic
-            -adjective
             -/media/english/uk_pron/f/fan/fanta/fantastic__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fan/fanta/fantastic__gb_1.ogg
             -/media/english/us_pron/f/fan/fanta/fantastic__us_2.mp3
             -/media/english/us_pron_ogg/f/fan/fanta/fantastic__us_2.ogg
             @far
-            -adverb
             -/media/english/uk_pron/f/far/far__/far__gb_1.mp3
             -/media/english/uk_pron_ogg/f/far/far__/far__gb_1.ogg
             -/media/english/us_pron/f/far/far__/far__us_1.mp3
             -/media/english/us_pron_ogg/f/far/far__/far__us_1.ogg
             @farm
-            -noun
             -/media/english/uk_pron/f/far/farm_/farm__gb_1.mp3
             -/media/english/uk_pron_ogg/f/far/farm_/farm__gb_1.ogg
             -/media/english/us_pron/f/far/farm_/farm__us_1.mp3
             -/media/english/us_pron_ogg/f/far/farm_/farm__us_1.ogg
             @farmer
-            -noun
             -/media/english/uk_pron/f/far/farme/farmer__gb_1.mp3
             -/media/english/uk_pron_ogg/f/far/farme/farmer__gb_1.ogg
             -/media/english/us_pron/f/far/farme/farmer__us_2.mp3
             -/media/english/us_pron_ogg/f/far/farme/farmer__us_2.ogg
             @fast
-            -adjective
             -/media/english/uk_pron/f/fas/fast_/fast__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fas/fast_/fast__gb_1.ogg
             -/media/english/us_pron/f/fas/fast_/fast__us_1.mp3
             -/media/english/us_pron_ogg/f/fas/fast_/fast__us_1.ogg
             @fat
-            -adjective
             -/media/english/uk_pron/f/fat/fat__/fat__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fat/fat__/fat__gb_1.ogg
             -/media/english/us_pron/f/fat/fat__/fat__us_1.mp3
             -/media/english/us_pron_ogg/f/fat/fat__/fat__us_1.ogg
             @father
-            -noun
             -/media/english/uk_pron/f/fat/fathe/father__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fat/fathe/father__gb_2.ogg
             -/media/english/us_pron/f/fat/fathe/father__us_2.mp3
             -/media/english/us_pron_ogg/f/fat/fathe/father__us_2.ogg
             @favourite
-            -adjective
             -/media/english/uk_pron/f/fav/favou/favourite__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fav/favou/favourite__gb_1.ogg
             -/media/english/us_pron/f/fav/favou/favourite__us_2_rr.mp3
             -/media/english/us_pron_ogg/f/fav/favou/favourite__us_2_rr.ogg
             @February
-            -noun
             -/media/english/uk_pron/f/feb/febru/february__gb_1.mp3
             -/media/english/uk_pron_ogg/f/feb/febru/february__gb_1.ogg
             -/media/english/us_pron/f/feb/febru/february__us_1_rr.mp3
             -/media/english/us_pron_ogg/f/feb/febru/february__us_1_rr.ogg
             @feel
-            -verb
             -/media/english/uk_pron/f/fee/feel_/feel__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fee/feel_/feel__gb_1.ogg
             -/media/english/us_pron/f/fee/feel_/feel__us_1.mp3
             -/media/english/us_pron_ogg/f/fee/feel_/feel__us_1.ogg
             @feeling
-            -noun
             -/media/english/uk_pron/f/fee/feeli/feeling__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fee/feeli/feeling__gb_1.ogg
             -/media/english/us_pron/f/fee/feeli/feeling__us_2.mp3
             -/media/english/us_pron_ogg/f/fee/feeli/feeling__us_2.ogg
             @festival
-            -noun
             -/media/english/uk_pron/f/fes/festi/festival__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fes/festi/festival__gb_2.ogg
             -/media/english/us_pron/f/fes/festi/festival__us_2.mp3
             -/media/english/us_pron_ogg/f/fes/festi/festival__us_2.ogg
             @few
-            -adjective
             -/media/english/uk_pron/f/few/few__/few__gb_1.mp3
             -/media/english/uk_pron_ogg/f/few/few__/few__gb_1.ogg
             -/media/english/us_pron/f/few/few__/few__us_1.mp3
             -/media/english/us_pron_ogg/f/few/few__/few__us_1.ogg
             @fifteen
-            -number
             -/media/english/uk_pron/f/fif/fifte/fifteen__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fif/fifte/fifteen__gb_1.ogg
             -/media/english/us_pron/f/fif/fifte/fifteen__us_3.mp3
             -/media/english/us_pron_ogg/f/fif/fifte/fifteen__us_3.ogg
             @fifth
-            -ordinal number
             -/media/english/uk_pron/f/fif/fifth/fifth__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fif/fifth/fifth__gb_1.ogg
             -/media/english/us_pron/f/fif/fifth/fifth__us_1.mp3
             -/media/english/us_pron_ogg/f/fif/fifth/fifth__us_1.ogg
             @fifty
-            -number
             -/media/english/uk_pron/f/fif/fifty/fifty__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fif/fifty/fifty__gb_2.ogg
             -/media/english/us_pron/f/fif/fifty/fifty__us_2.mp3
             -/media/english/us_pron_ogg/f/fif/fifty/fifty__us_2.ogg
             @fill
-            -verb
             -/media/english/uk_pron/f/fil/fill_/fill__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fil/fill_/fill__gb_1.ogg
             -/media/english/us_pron/f/fil/fill_/fill__us_1.mp3
             -/media/english/us_pron_ogg/f/fil/fill_/fill__us_1.ogg
             @film
-            -noun
             -/media/english/uk_pron/f/fil/film_/film__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fil/film_/film__gb_1.ogg
             -/media/english/us_pron/f/fil/film_/film__us_1.mp3
             -/media/english/us_pron_ogg/f/fil/film_/film__us_1.ogg
             @final
-            -adjective
             -/media/english/uk_pron/f/fin/final/final__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fin/final/final__gb_1.ogg
             -/media/english/us_pron/f/fin/final/final__us_2.mp3
             -/media/english/us_pron_ogg/f/fin/final/final__us_2.ogg
             @find
-            -verb
             -/media/english/uk_pron/f/fin/find_/find__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fin/find_/find__gb_1.ogg
             -/media/english/us_pron/f/fin/find_/find__us_1.mp3
             -/media/english/us_pron_ogg/f/fin/find_/find__us_1.ogg
             @fine
-            -adjective
             -/media/english/uk_pron/f/fin/fine_/fine__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fin/fine_/fine__gb_1.ogg
             -/media/english/us_pron/f/fin/fine_/fine__us_1.mp3
             -/media/english/us_pron_ogg/f/fin/fine_/fine__us_1.ogg
             @finish
-            -verb
             -/media/english/uk_pron/f/fin/finis/finish__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fin/finis/finish__gb_1.ogg
             -/media/english/us_pron/f/fin/finis/finish__us_1.mp3
             -/media/english/us_pron_ogg/f/fin/finis/finish__us_1.ogg
             @fire
-            -noun
             -/media/english/uk_pron/f/fir/fire_/fire__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fir/fire_/fire__gb_2.ogg
             -/media/english/us_pron/f/fir/fire_/fire__us_1.mp3
             -/media/english/us_pron_ogg/f/fir/fire_/fire__us_1.ogg
             @first
-            -adverb
             -/media/english/uk_pron/f/fir/first/first__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fir/first/first__gb_1.ogg
             -/media/english/us_pron/f/fir/first/first__us_1.mp3
             -/media/english/us_pron_ogg/f/fir/first/first__us_1.ogg
             @fish
-            -noun
             -/media/english/uk_pron/f/fis/fish_/fish__gb_3.mp3
             -/media/english/uk_pron_ogg/f/fis/fish_/fish__gb_3.ogg
             -/media/english/us_pron/f/fis/fish_/fish__us_1.mp3
             -/media/english/us_pron_ogg/f/fis/fish_/fish__us_1.ogg
             @five
-            -number
             -/media/english/uk_pron/f/fiv/five_/five__gb_3.mp3
             -/media/english/uk_pron_ogg/f/fiv/five_/five__gb_3.ogg
             -/media/english/us_pron/f/fiv/five_/five__us_1.mp3
             -/media/english/us_pron_ogg/f/fiv/five_/five__us_1.ogg
             @flat
-            -noun
             -/media/english/uk_pron/f/fla/flat_/flat__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fla/flat_/flat__gb_1.ogg
             -/media/english/us_pron/f/fla/flat_/flat__us_1.mp3
             -/media/english/us_pron_ogg/f/fla/flat_/flat__us_1.ogg
             @flight
-            -noun
             -/media/english/uk_pron/f/fli/fligh/flight__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fli/fligh/flight__gb_1.ogg
             -/media/english/us_pron/f/fli/fligh/flight__us_1.mp3
             -/media/english/us_pron_ogg/f/fli/fligh/flight__us_1.ogg
             @floor
-            -noun
             -/media/english/uk_pron/f/flo/floor/floor__gb_3.mp3
             -/media/english/uk_pron_ogg/f/flo/floor/floor__gb_3.ogg
             -/media/english/us_pron/f/flo/floor/floor__us_1.mp3
             -/media/english/us_pron_ogg/f/flo/floor/floor__us_1.ogg
             @flower
-            -noun
             -/media/english/uk_pron/f/flo/flowe/flower__gb_1.mp3
             -/media/english/uk_pron_ogg/f/flo/flowe/flower__gb_1.ogg
             -/media/english/us_pron/f/flo/flowe/flower__us_1.mp3
             -/media/english/us_pron_ogg/f/flo/flowe/flower__us_1.ogg
             @fly
-            -verb
             -/media/english/uk_pron/f/fly/fly__/fly__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fly/fly__/fly__gb_1.ogg
             -/media/english/us_pron/f/fly/fly__/fly__us_1.mp3
             -/media/english/us_pron_ogg/f/fly/fly__/fly__us_1.ogg
             @follow
-            -verb
             -/media/english/uk_pron/f/fol/follo/follow__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fol/follo/follow__gb_1.ogg
             -/media/english/us_pron/f/fol/follo/follow__us_1.mp3
             -/media/english/us_pron_ogg/f/fol/follo/follow__us_1.ogg
             @food
-            -noun
             -/media/english/uk_pron/f/foo/food_/food__gb_1.mp3
             -/media/english/uk_pron_ogg/f/foo/food_/food__gb_1.ogg
             -/media/english/us_pron/f/foo/food_/food__us_1.mp3
             -/media/english/us_pron_ogg/f/foo/food_/food__us_1.ogg
             @foot
-            -noun
             -/media/english/uk_pron/f/foo/foot_/foot__gb_2.mp3
             -/media/english/uk_pron_ogg/f/foo/foot_/foot__gb_2.ogg
             -/media/english/us_pron/f/foo/foot_/foot__us_1.mp3
             -/media/english/us_pron_ogg/f/foo/foot_/foot__us_1.ogg
             @football
-            -noun
             -/media/english/uk_pron/f/foo/footb/football__gb_2.mp3
             -/media/english/uk_pron_ogg/f/foo/footb/football__gb_2.ogg
             -/media/english/us_pron/f/foo/footb/football__us_4.mp3
             -/media/english/us_pron_ogg/f/foo/footb/football__us_4.ogg
             @for
-            -preposition
             -/media/english/uk_pron/f/for/for__/for__gb_1.mp3
             -/media/english/uk_pron_ogg/f/for/for__/for__gb_1.ogg
             -/media/english/us_pron/f/for/for__/for__us_1_rr.mp3
             -/media/english/us_pron_ogg/f/for/for__/for__us_1_rr.ogg
             @forget
-            -verb
             -/media/english/uk_pron/f/for/forge/forget__gb_1.mp3
             -/media/english/uk_pron_ogg/f/for/forge/forget__gb_1.ogg
             -/media/english/us_pron/f/for/forge/forget__us_1.mp3
             -/media/english/us_pron_ogg/f/for/forge/forget__us_1.ogg
             @form
-            -noun
             -/media/english/uk_pron/f/for/form_/form__gb_1.mp3
             -/media/english/uk_pron_ogg/f/for/form_/form__gb_1.ogg
             -/media/english/us_pron/f/for/form_/form__us_1.mp3
             -/media/english/us_pron_ogg/f/for/form_/form__us_1.ogg
             @forty
-            -number
             -/media/english/uk_pron/f/for/forty/forty__gb_2.mp3
             -/media/english/uk_pron_ogg/f/for/forty/forty__gb_2.ogg
             -/media/english/us_pron/f/for/forty/forty__us_1.mp3
             -/media/english/us_pron_ogg/f/for/forty/forty__us_1.ogg
             @four
-            -number
             -/media/english/uk_pron/f/fou/four_/four__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fou/four_/four__gb_2.ogg
             -/media/english/us_pron/f/fou/four_/four__us_1.mp3
             -/media/english/us_pron_ogg/f/fou/four_/four__us_1.ogg
             @fourteen
-            -number
             -/media/english/uk_pron/f/fou/fourt/fourteen__gb_3.mp3
             -/media/english/uk_pron_ogg/f/fou/fourt/fourteen__gb_3.ogg
             -/media/english/us_pron/f/fou/fourt/fourteen__us_1.mp3
             -/media/english/us_pron_ogg/f/fou/fourt/fourteen__us_1.ogg
             @fourth
-            -ordinal number
             -/media/english/uk_pron/f/fou/fourt/fourth__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fou/fourt/fourth__gb_1.ogg
             -/media/english/us_pron/f/fou/fourt/fourth__us_1.mp3
             -/media/english/us_pron_ogg/f/fou/fourt/fourth__us_1.ogg
             @free
-            -adjective
             -/media/english/uk_pron/f/fre/free_/free__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fre/free_/free__gb_1.ogg
             -/media/english/us_pron/f/fre/free_/free__us_1.mp3
             -/media/english/us_pron_ogg/f/fre/free_/free__us_1.ogg
             @Friday
-            -noun
             -/media/english/uk_pron/f/fri/frida/friday_1_gb_1.mp3
             -/media/english/uk_pron_ogg/f/fri/frida/friday_1_gb_1.ogg
             -/media/english/us_pron/f/fri/frida/friday__us_1_rr.mp3
             -/media/english/us_pron_ogg/f/fri/frida/friday__us_1_rr.ogg
             @friend
-            -noun
             -/media/english/uk_pron/f/fri/frien/friend__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fri/frien/friend__gb_1.ogg
             -/media/english/us_pron/f/fri/frien/friend__us_1.mp3
             -/media/english/us_pron_ogg/f/fri/frien/friend__us_1.ogg
             @friendly
-            -adjective
             -/media/english/uk_pron/f/fri/frien/friendly__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fri/frien/friendly__gb_1.ogg
             -/media/english/us_pron/f/fri/frien/friendly__us_1.mp3
             -/media/english/us_pron_ogg/f/fri/frien/friendly__us_1.ogg
             @from
-            -preposition
             -/media/english/uk_pron/f/fro/from_/from__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fro/from_/from__gb_1.ogg
             -/media/english/us_pron/f/fro/from_/from__us_1_rr.mp3
             -/media/english/us_pron_ogg/f/fro/from_/from__us_1_rr.ogg
             @front
-            -adjective
             -/media/english/uk_pron/f/fro/front/front__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fro/front/front__gb_1.ogg
             -/media/english/us_pron/f/fro/front/front__us_1.mp3
             -/media/english/us_pron_ogg/f/fro/front/front__us_1.ogg
             @fruit
-            -noun
             -/media/english/uk_pron/f/fru/fruit/fruit__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fru/fruit/fruit__gb_1.ogg
             -/media/english/us_pron/f/fru/fruit/fruit__us_1.mp3
             -/media/english/us_pron_ogg/f/fru/fruit/fruit__us_1.ogg
             @full
-            -adjective
             -/media/english/uk_pron/f/ful/full_/full__gb_2.mp3
             -/media/english/uk_pron_ogg/f/ful/full_/full__gb_2.ogg
             -/media/english/us_pron/f/ful/full_/full__us_1.mp3
             -/media/english/us_pron_ogg/f/ful/full_/full__us_1.ogg
             @fun
-            -noun
             -/media/english/uk_pron/f/fun/fun__/fun__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fun/fun__/fun__gb_2.ogg
             -/media/english/us_pron/f/fun/fun__/fun__us_1.mp3
             -/media/english/us_pron_ogg/f/fun/fun__/fun__us_1.ogg
             @funny
-            -adjective
             -/media/english/uk_pron/f/fun/funny/funny__gb_2.mp3
             -/media/english/uk_pron_ogg/f/fun/funny/funny__gb_2.ogg
             -/media/english/us_pron/f/fun/funny/funny__us_2.mp3
             -/media/english/us_pron_ogg/f/fun/funny/funny__us_2.ogg
             @future
-            -noun
             -/media/english/uk_pron/f/fut/futur/future__gb_1.mp3
             -/media/english/uk_pron_ogg/f/fut/futur/future__gb_1.ogg
             -/media/english/us_pron/f/fut/futur/future__us_2.mp3
             -/media/english/us_pron_ogg/f/fut/futur/future__us_2.ogg
             @game
-            -noun
             -/media/english/uk_pron/g/gam/game_/game__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gam/game_/game__gb_1.ogg
             -/media/english/us_pron/g/gam/game_/game__us_1.mp3
             -/media/english/us_pron_ogg/g/gam/game_/game__us_1.ogg
             @garden
-            -noun
             -/media/english/uk_pron/g/gar/garde/garden__gb_2.mp3
             -/media/english/uk_pron_ogg/g/gar/garde/garden__gb_2.ogg
             -/media/english/us_pron/g/gar/garde/garden__us_1.mp3
             -/media/english/us_pron_ogg/g/gar/garde/garden__us_1.ogg
             @geography
-            -noun
             -/media/english/uk_pron/g/geo/geogr/geography__gb_1.mp3
             -/media/english/uk_pron_ogg/g/geo/geogr/geography__gb_1.ogg
             -/media/english/us_pron/g/geo/geogr/geography__us_1.mp3
             -/media/english/us_pron_ogg/g/geo/geogr/geography__us_1.ogg
             @get
-            -verb
             -/media/english/uk_pron/g/get/get__/get__gb_1.mp3
             -/media/english/uk_pron_ogg/g/get/get__/get__gb_1.ogg
             -/media/english/us_pron/g/get/get__/get__us_1.mp3
             -/media/english/us_pron_ogg/g/get/get__/get__us_1.ogg
             @girl
-            -noun
             -/media/english/uk_pron/g/gir/girl_/girl__gb_2.mp3
             -/media/english/uk_pron_ogg/g/gir/girl_/girl__gb_2.ogg
             -/media/english/us_pron/g/gir/girl_/girl__us_1.mp3
             -/media/english/us_pron_ogg/g/gir/girl_/girl__us_1.ogg
             @girlfriend
-            -noun
             -/media/english/uk_pron/g/gir/girlf/girlfriend__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gir/girlf/girlfriend__gb_1.ogg
             -/media/english/us_pron/g/gir/girlf/girlfriend__us_1.mp3
             -/media/english/us_pron_ogg/g/gir/girlf/girlfriend__us_1.ogg
             @give
-            -verb
             -/media/english/uk_pron/g/giv/give_/give__gb_1.mp3
             -/media/english/uk_pron_ogg/g/giv/give_/give__gb_1.ogg
             -/media/english/us_pron/g/giv/give_/give__us_1.mp3
             -/media/english/us_pron_ogg/g/giv/give_/give__us_1.ogg
             @glass
-            -noun
             -/media/english/uk_pron/g/gla/glass/glass__gb_5.mp3
             -/media/english/uk_pron_ogg/g/gla/glass/glass__gb_5.ogg
             -/media/english/us_pron/g/gla/glass/glass__us_1.mp3
             -/media/english/us_pron_ogg/g/gla/glass/glass__us_1.ogg
             @go
-            -verb
             -/media/english/uk_pron/g/go_/go__g/go__gb_1.mp3
             -/media/english/uk_pron_ogg/g/go_/go__g/go__gb_1.ogg
             -/media/english/us_pron/g/go_/go__u/go__us_1.mp3
             -/media/english/us_pron_ogg/g/go_/go__u/go__us_1.ogg
             @good
-            -adjective
             -/media/english/uk_pron/g/goo/good_/good__gb_2.mp3
             -/media/english/uk_pron_ogg/g/goo/good_/good__gb_2.ogg
             -/media/english/us_pron/g/goo/good_/good__us_1.mp3
             -/media/english/us_pron_ogg/g/goo/good_/good__us_1.ogg
             @goodbye
-            -exclamation
             -/media/english/uk_pron/g/goo/goodb/goodbye__gb_1.mp3
             -/media/english/uk_pron_ogg/g/goo/goodb/goodbye__gb_1.ogg
             -/media/english/us_pron/g/goo/goodb/goodbye__us_1_rr.mp3
             -/media/english/us_pron_ogg/g/goo/goodb/goodbye__us_1_rr.ogg
             @grandfather
-            -noun
             -/media/english/uk_pron/g/gra/grand/grandfather__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gra/grand/grandfather__gb_1.ogg
             -/media/english/us_pron/g/gra/grand/grandfather__us_1.mp3
             -/media/english/us_pron_ogg/g/gra/grand/grandfather__us_1.ogg
             @grandmother
-            -noun
             -/media/english/uk_pron/g/gra/grand/grandmother__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gra/grand/grandmother__gb_1.ogg
             -/media/english/us_pron/g/gra/grand/grandmother__us_1.mp3
             -/media/english/us_pron_ogg/g/gra/grand/grandmother__us_1.ogg
             @grandparent
-            -noun
             -/media/english/uk_pron/g/gra/grand/grandparent__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gra/grand/grandparent__gb_1.ogg
             -/media/english/us_pron/g/gra/grand/grandparent__us_1.mp3
             -/media/english/us_pron_ogg/g/gra/grand/grandparent__us_1.ogg
             @great
-            -adjective
             -/media/english/uk_pron/g/gre/great/great__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gre/great/great__gb_1.ogg
             -/media/english/us_pron/g/gre/great/great__us_1.mp3
             -/media/english/us_pron_ogg/g/gre/great/great__us_1.ogg
             @green
-            -adjective
             -/media/english/uk_pron/g/gre/green/green__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gre/green/green__gb_1.ogg
             -/media/english/us_pron/g/gre/green/green__us_1.mp3
             -/media/english/us_pron_ogg/g/gre/green/green__us_1.ogg
             @grey
-            -adjective
             -/media/english/uk_pron/g/gre/grey_/grey_1_gb_1.mp3
             -/media/english/uk_pron_ogg/g/gre/grey_/grey_1_gb_1.ogg
             -/media/english/us_pron/g/gre/grey_/grey__us_1.mp3
             -/media/english/us_pron_ogg/g/gre/grey_/grey__us_1.ogg
             @group
-            -noun
             -/media/english/uk_pron/g/gro/group/group__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gro/group/group__gb_1.ogg
             -/media/english/us_pron/g/gro/group/group__us_1.mp3
             -/media/english/us_pron_ogg/g/gro/group/group__us_1.ogg
             @grow
-            -verb
             -/media/english/uk_pron/g/gro/grow_/grow__gb_2.mp3
             -/media/english/uk_pron_ogg/g/gro/grow_/grow__gb_2.ogg
             -/media/english/us_pron/g/gro/grow_/grow__us_1.mp3
             -/media/english/us_pron_ogg/g/gro/grow_/grow__us_1.ogg
             @guess
-            -noun
             -/media/english/uk_pron/g/gue/guess/guess__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gue/guess/guess__gb_1.ogg
             -/media/english/us_pron/g/gue/guess/guess__us_1.mp3
             -/media/english/us_pron_ogg/g/gue/guess/guess__us_1.ogg
             @guitar
-            -noun
             -/media/english/uk_pron/g/gui/guita/guitar__gb_2.mp3
             -/media/english/uk_pron_ogg/g/gui/guita/guitar__gb_2.ogg
             -/media/english/us_pron/g/gui/guita/guitar__us_2.mp3
             -/media/english/us_pron_ogg/g/gui/guita/guitar__us_2.ogg
             @gym
-            -noun
             -/media/english/uk_pron/g/gym/gym__/gym__gb_1.mp3
             -/media/english/uk_pron_ogg/g/gym/gym__/gym__gb_1.ogg
             -/media/english/us_pron/g/gym/gym__/gym__us_1.mp3
             -/media/english/us_pron_ogg/g/gym/gym__/gym__us_1.ogg
             @hair
-            -noun
             -/media/english/uk_pron/h/hai/hair_/hair__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hai/hair_/hair__gb_1.ogg
             -/media/english/us_pron/h/hai/hair_/hair__us_1.mp3
             -/media/english/us_pron_ogg/h/hai/hair_/hair__us_1.ogg
             @half
-            -determiner
             -/media/english/uk_pron/h/hal/half_/half__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hal/half_/half__gb_1.ogg
             -/media/english/us_pron/h/hal/half_/half__us_1.mp3
             -/media/english/us_pron_ogg/h/hal/half_/half__us_1.ogg
             @hand
-            -noun
             -/media/english/uk_pron/h/han/hand_/hand__gb_2.mp3
             -/media/english/uk_pron_ogg/h/han/hand_/hand__gb_2.ogg
             -/media/english/us_pron/h/han/hand_/hand__us_1.mp3
             -/media/english/us_pron_ogg/h/han/hand_/hand__us_1.ogg
             @happen
-            -verb
             -/media/english/uk_pron/h/hap/happe/happen__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hap/happe/happen__gb_2.ogg
             -/media/english/us_pron/h/hap/happe/happen__us_1.mp3
             -/media/english/us_pron_ogg/h/hap/happe/happen__us_1.ogg
             @happy
-            -adjective
             -/media/english/uk_pron/h/hap/happy/happy__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hap/happy/happy__gb_1.ogg
             -/media/english/us_pron/h/hap/happy/happy__us_2.mp3
             -/media/english/us_pron_ogg/h/hap/happy/happy__us_2.ogg
             @hard
-            -adjective
             -/media/english/uk_pron/h/har/hard_/hard__gb_1.mp3
             -/media/english/uk_pron_ogg/h/har/hard_/hard__gb_1.ogg
             -/media/english/us_pron/h/har/hard_/hard__us_1.mp3
             -/media/english/us_pron_ogg/h/har/hard_/hard__us_1.ogg
             @hat
-            -noun
             -/media/english/uk_pron/h/hat/hat__/hat__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hat/hat__/hat__gb_2.ogg
             -/media/english/us_pron/h/hat/hat__/hat__us_1.mp3
             -/media/english/us_pron_ogg/h/hat/hat__/hat__us_1.ogg
             @hate
-            -verb
             -/media/english/uk_pron/h/hat/hate_/hate__gb_3.mp3
             -/media/english/uk_pron_ogg/h/hat/hate_/hate__gb_3.ogg
             -/media/english/us_pron/h/hat/hate_/hate__us_1.mp3
             -/media/english/us_pron_ogg/h/hat/hate_/hate__us_1.ogg
             @have
-            -verb
             -/media/english/uk_pron/h/hav/have_/have__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hav/have_/have__gb_1.ogg
             -/media/english/us_pron/h/hav/have_/have__us_1_rr.mp3
             -/media/english/us_pron_ogg/h/hav/have_/have__us_1_rr.ogg
             @have to
-            -modal verb
             -/media/english/uk_pron/h/hav/have_/have_to_1_gb_1.mp3
             -/media/english/uk_pron_ogg/h/hav/have_/have_to_1_gb_1.ogg
             -/media/english/us_pron/h/hav/have_/have_to_1_us_1.mp3
             -/media/english/us_pron_ogg/h/hav/have_/have_to_1_us_1.ogg
             @he
-            -pronoun
             -/media/english/uk_pron/h/he_/he__g/he__gb_1.mp3
             -/media/english/uk_pron_ogg/h/he_/he__g/he__gb_1.ogg
             -/media/english/us_pron/h/he_/he__u/he__us_1.mp3
             -/media/english/us_pron_ogg/h/he_/he__u/he__us_1.ogg
             @head
-            -noun
             -/media/english/uk_pron/h/hea/head_/head__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hea/head_/head__gb_2.ogg
             -/media/english/us_pron/h/hea/head_/head__us_1.mp3
             -/media/english/us_pron_ogg/h/hea/head_/head__us_1.ogg
             @health
-            -noun
             -/media/english/uk_pron/h/hea/healt/health__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hea/healt/health__gb_2.ogg
             -/media/english/us_pron/h/hea/healt/health__us_1.mp3
             -/media/english/us_pron_ogg/h/hea/healt/health__us_1.ogg
             @healthy
-            -adjective
             -/media/english/uk_pron/h/hea/healt/healthy__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hea/healt/healthy__gb_2.ogg
             -/media/english/us_pron/h/hea/healt/healthy__us_1.mp3
             -/media/english/us_pron_ogg/h/hea/healt/healthy__us_1.ogg
             @hear
-            -verb
             -/media/english/uk_pron/h/hea/hear_/hear__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hea/hear_/hear__gb_1.ogg
             -/media/english/us_pron/h/hea/hear_/hear__us_1.mp3
             -/media/english/us_pron_ogg/h/hea/hear_/hear__us_1.ogg
             @hello
-            -exclamation
             -/media/english/uk_pron/h/hel/hello/hello__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hel/hello/hello__gb_1.ogg
             -/media/english/us_pron/h/hel/hello/hello__us_1_rr.mp3
             -/media/english/us_pron_ogg/h/hel/hello/hello__us_1_rr.ogg
             @help
-            -noun
             -/media/english/uk_pron/h/hel/help_/help__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hel/help_/help__gb_1.ogg
             -/media/english/us_pron/h/hel/help_/help__us_1.mp3
             -/media/english/us_pron_ogg/h/hel/help_/help__us_1.ogg
             @her
-            -determiner
             -/media/english/uk_pron/h/her/her__/her__gb_1.mp3
             -/media/english/uk_pron_ogg/h/her/her__/her__gb_1.ogg
             -/media/english/us_pron/h/her/her__/her__us_3_rr.mp3
             -/media/english/us_pron_ogg/h/her/her__/her__us_3_rr.ogg
             @here
-            -adverb
             -/media/english/uk_pron/h/her/here_/here__gb_1.mp3
             -/media/english/uk_pron_ogg/h/her/here_/here__gb_1.ogg
             -/media/english/us_pron/h/her/here_/here__us_1.mp3
             -/media/english/us_pron_ogg/h/her/here_/here__us_1.ogg
             @hey
-            -exclamation
             -/media/english/uk_pron/h/hey/hey__/hey__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hey/hey__/hey__gb_1.ogg
             -/media/english/us_pron/h/hey/hey__/hey__us_1.mp3
             -/media/english/us_pron_ogg/h/hey/hey__/hey__us_1.ogg
             @hi
-            -exclamation
             -/media/english/uk_pron/h/hi_/hi__g/hi__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hi_/hi__g/hi__gb_1.ogg
             -/media/english/us_pron/h/hi_/hi__u/hi__us_1.mp3
             -/media/english/us_pron_ogg/h/hi_/hi__u/hi__us_1.ogg
             @high
-            -adjective
             -/media/english/uk_pron/h/hig/high_/high__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hig/high_/high__gb_1.ogg
             -/media/english/us_pron/h/hig/high_/high__us_1.mp3
             -/media/english/us_pron_ogg/h/hig/high_/high__us_1.ogg
             @him
-            -pronoun
             -/media/english/uk_pron/h/him/him__/him__gb_1.mp3
             -/media/english/uk_pron_ogg/h/him/him__/him__gb_1.ogg
             -/media/english/us_pron/h/him/him__/him__us_1_rr.mp3
             -/media/english/us_pron_ogg/h/him/him__/him__us_1_rr.ogg
             @his
-            -determiner
             -/media/english/uk_pron/h/his/his__/his__gb_1.mp3
             -/media/english/uk_pron_ogg/h/his/his__/his__gb_1.ogg
             -/media/english/us_pron/h/his/his__/his__us_3_rr.mp3
             -/media/english/us_pron_ogg/h/his/his__/his__us_3_rr.ogg
             @history
-            -noun
             -/media/english/uk_pron/h/his/histo/history__gb_3.mp3
             -/media/english/uk_pron_ogg/h/his/histo/history__gb_3.ogg
             -/media/english/us_pron/h/his/histo/history__us_2_rr.mp3
             -/media/english/us_pron_ogg/h/his/histo/history__us_2_rr.ogg
             @hobby
-            -noun
             -/media/english/uk_pron/h/hob/hobby/hobby__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hob/hobby/hobby__gb_1.ogg
             -/media/english/us_pron/h/hob/hobby/hobby__us_1.mp3
             -/media/english/us_pron_ogg/h/hob/hobby/hobby__us_1.ogg
             @holiday
-            -noun
             -/media/english/uk_pron/h/hol/holid/holiday__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hol/holid/holiday__gb_1.ogg
             -/media/english/us_pron/h/hol/holid/holiday__us_1.mp3
             -/media/english/us_pron_ogg/h/hol/holid/holiday__us_1.ogg
             @home
-            -adverb
             -/media/english/uk_pron/h/hom/home_/home__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hom/home_/home__gb_1.ogg
             -/media/english/us_pron/h/hom/home_/home__us_1.mp3
             -/media/english/us_pron_ogg/h/hom/home_/home__us_1.ogg
             @homework
-            -noun
             -/media/english/uk_pron/h/hom/homew/homework__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hom/homew/homework__gb_1.ogg
             -/media/english/us_pron/h/hom/homew/homework__us_1.mp3
             -/media/english/us_pron_ogg/h/hom/homew/homework__us_1.ogg
             @hope
-            -verb
             -/media/english/uk_pron/h/hop/hope_/hope__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hop/hope_/hope__gb_1.ogg
             -/media/english/us_pron/h/hop/hope_/hope__us_1.mp3
             -/media/english/us_pron_ogg/h/hop/hope_/hope__us_1.ogg
             @horse
-            -noun
             -/media/english/uk_pron/h/hor/horse/horse__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hor/horse/horse__gb_1.ogg
             -/media/english/us_pron/h/hor/horse/horse__us_1.mp3
             -/media/english/us_pron_ogg/h/hor/horse/horse__us_1.ogg
             @hospital
-            -noun
             -/media/english/uk_pron/h/hos/hospi/hospital__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hos/hospi/hospital__gb_2.ogg
             -/media/english/us_pron/h/hos/hospi/hospital__us_2.mp3
             -/media/english/us_pron_ogg/h/hos/hospi/hospital__us_2.ogg
             @hot
-            -adjective
             -/media/english/uk_pron/h/hot/hot__/hot__gb_4.mp3
             -/media/english/uk_pron_ogg/h/hot/hot__/hot__gb_4.ogg
             -/media/english/us_pron/h/hot/hot__/hot__us_1.mp3
             -/media/english/us_pron_ogg/h/hot/hot__/hot__us_1.ogg
             @hotel
-            -noun
             -/media/english/uk_pron/h/hot/hotel/hotel__gb_4.mp3
             -/media/english/uk_pron_ogg/h/hot/hotel/hotel__gb_4.ogg
             -/media/english/us_pron/h/hot/hotel/hotel__us_2.mp3
             -/media/english/us_pron_ogg/h/hot/hotel/hotel__us_2.ogg
             @hour
-            -noun
             -/media/english/uk_pron/h/hou/hour_/hour__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hou/hour_/hour__gb_1.ogg
             -/media/english/us_pron/h/hou/hour_/hour__us_2.mp3
             -/media/english/us_pron_ogg/h/hou/hour_/hour__us_2.ogg
             @house
-            -noun
             -/media/english/uk_pron/h/hou/house/house__gb_3.mp3
             -/media/english/uk_pron_ogg/h/hou/house/house__gb_3.ogg
             -/media/english/us_pron/h/hou/house/house__us_1.mp3
             -/media/english/us_pron_ogg/h/hou/house/house__us_1.ogg
             @how
-            -adverb
             -/media/english/uk_pron/h/how/how__/how__gb_1.mp3
             -/media/english/uk_pron_ogg/h/how/how__/how__gb_1.ogg
             -/media/english/us_pron/h/how/how__/how__us_1.mp3
             -/media/english/us_pron_ogg/h/how/how__/how__us_1.ogg
             @however
-            -adverb
             -/media/english/uk_pron/h/how/howev/however__gb_2.mp3
             -/media/english/uk_pron_ogg/h/how/howev/however__gb_2.ogg
             -/media/english/us_pron/h/how/howev/however__us_2.mp3
             -/media/english/us_pron_ogg/h/how/howev/however__us_2.ogg
             @hundred
-            -number
             -/media/english/uk_pron/h/hun/hundr/hundred__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hun/hundr/hundred__gb_1.ogg
             -/media/english/us_pron/h/hun/hundr/hundred__us_2.mp3
             -/media/english/us_pron_ogg/h/hun/hundr/hundred__us_2.ogg
             @hungry
-            -adjective
             -/media/english/uk_pron/h/hun/hungr/hungry__gb_2.mp3
             -/media/english/uk_pron_ogg/h/hun/hungr/hungry__gb_2.ogg
             -/media/english/us_pron/h/hun/hungr/hungry__us_2.mp3
             -/media/english/us_pron_ogg/h/hun/hungr/hungry__us_2.ogg
             @husband
-            -noun
             -/media/english/uk_pron/h/hus/husba/husband__gb_1.mp3
             -/media/english/uk_pron_ogg/h/hus/husba/husband__gb_1.ogg
             -/media/english/us_pron/h/hus/husba/husband__us_4.mp3
             -/media/english/us_pron_ogg/h/hus/husba/husband__us_4.ogg
             @I
-            -pronoun
             -/media/english/uk_pron/i/i_1/i_1_g/i_1_gb_1_abbr.mp3
             -/media/english/uk_pron_ogg/i/i_1/i_1_g/i_1_gb_1_abbr.ogg
             -/media/english/us_pron/i/i__/i__us/i__us_1.mp3
             -/media/english/us_pron_ogg/i/i__/i__us/i__us_1.ogg
             @ice
-            -noun
             -/media/english/uk_pron/i/ice/ice__/ice__gb_1.mp3
             -/media/english/uk_pron_ogg/i/ice/ice__/ice__gb_1.ogg
             -/media/english/us_pron/i/ice/ice__/ice__us_1.mp3
             -/media/english/us_pron_ogg/i/ice/ice__/ice__us_1.ogg
             @ice cream
-            -noun
             -/media/english/uk_pron/i/ice/ice_c/ice_cream_1_gb_3.mp3
             -/media/english/uk_pron_ogg/i/ice/ice_c/ice_cream_1_gb_3.ogg
             -/media/english/us_pron/i/ice/ice_c/ice_cream_1_us_2.mp3
             -/media/english/us_pron_ogg/i/ice/ice_c/ice_cream_1_us_2.ogg
             @idea
-            -noun
             -/media/english/uk_pron/i/ide/idea_/idea__gb_1.mp3
             -/media/english/uk_pron_ogg/i/ide/idea_/idea__gb_1.ogg
             -/media/english/us_pron/i/ide/idea_/idea__us_2.mp3
             -/media/english/us_pron_ogg/i/ide/idea_/idea__us_2.ogg
             @if
-            -conjunction
             -/media/english/uk_pron/i/if_/if__g/if__gb_1.mp3
             -/media/english/uk_pron_ogg/i/if_/if__g/if__gb_1.ogg
             -/media/english/us_pron/i/if_/if__u/if__us_1.mp3
             -/media/english/us_pron_ogg/i/if_/if__u/if__us_1.ogg
             @imagine
-            -verb
             -/media/english/uk_pron/i/ima/imagi/imagine__gb_1.mp3
             -/media/english/uk_pron_ogg/i/ima/imagi/imagine__gb_1.ogg
             -/media/english/us_pron/i/ima/imagi/imagine__us_1.mp3
             -/media/english/us_pron_ogg/i/ima/imagi/imagine__us_1.ogg
             @important
-            -adjective
             -/media/english/uk_pron/i/imp/impor/important__gb_2.mp3
             -/media/english/uk_pron_ogg/i/imp/impor/important__gb_2.ogg
             -/media/english/us_pron/i/imp/impor/important__us_1.mp3
             -/media/english/us_pron_ogg/i/imp/impor/important__us_1.ogg
             @improve
-            -verb
             -/media/english/uk_pron/i/imp/impro/improve__gb_3.mp3
             -/media/english/uk_pron_ogg/i/imp/impro/improve__gb_3.ogg
             -/media/english/us_pron/i/imp/impro/improve__us_1.mp3
             -/media/english/us_pron_ogg/i/imp/impro/improve__us_1.ogg
             @in
-            -adverb
             -/media/english/uk_pron/i/in_/in__g/in__gb_1.mp3
             -/media/english/uk_pron_ogg/i/in_/in__g/in__gb_1.ogg
             -/media/english/us_pron/i/in_/in__u/in__us_1.mp3
             -/media/english/us_pron_ogg/i/in_/in__u/in__us_1.ogg
             @include
-            -verb
             -/media/english/uk_pron/i/inc/inclu/include__gb_3.mp3
             -/media/english/uk_pron_ogg/i/inc/inclu/include__gb_3.ogg
             -/media/english/us_pron/i/inc/inclu/include__us_4.mp3
             -/media/english/us_pron_ogg/i/inc/inclu/include__us_4.ogg
             @information
-            -noun
             -/media/english/uk_pron/i/inf/infor/information__gb_2.mp3
             -/media/english/uk_pron_ogg/i/inf/infor/information__gb_2.ogg
             -/media/english/us_pron/i/inf/infor/information__us_1.mp3
             -/media/english/us_pron_ogg/i/inf/infor/information__us_1.ogg
             @interest
-            -noun
             -/media/english/uk_pron/i/int/inter/interest__gb_1.mp3
             -/media/english/uk_pron_ogg/i/int/inter/interest__gb_1.ogg
             -/media/english/us_pron/i/int/inter/interest__us_1_rr.mp3
             -/media/english/us_pron_ogg/i/int/inter/interest__us_1_rr.ogg
             @interested
-            -adjective
             -/media/english/uk_pron/i/int/inter/interested__gb_1.mp3
             -/media/english/uk_pron_ogg/i/int/inter/interested__gb_1.ogg
             -/media/english/us_pron/i/int/inter/interested__us_1_rr.mp3
             -/media/english/us_pron_ogg/i/int/inter/interested__us_1_rr.ogg
             @interesting
-            -adjective
             -/media/english/uk_pron/i/int/inter/interesting__gb_6.mp3
             -/media/english/uk_pron_ogg/i/int/inter/interesting__gb_6.ogg
             -/media/english/us_pron/i/int/inter/interesting__us_1_rr.mp3
             -/media/english/us_pron_ogg/i/int/inter/interesting__us_1_rr.ogg
             @internet
-            -noun
             -/media/english/uk_pron/i/int/inter/internet__gb_2.mp3
             -/media/english/uk_pron_ogg/i/int/inter/internet__gb_2.ogg
             -/media/english/us_pron/i/int/inter/internet__us_1.mp3
             -/media/english/us_pron_ogg/i/int/inter/internet__us_1.ogg
             @interview
-            -noun
             -/media/english/uk_pron/i/int/inter/interview__gb_1.mp3
             -/media/english/uk_pron_ogg/i/int/inter/interview__gb_1.ogg
             -/media/english/us_pron/i/int/inter/interview__us_2.mp3
             -/media/english/us_pron_ogg/i/int/inter/interview__us_2.ogg
             @into
-            -preposition
             -/media/english/uk_pron/i/int/into_/into__gb_1.mp3
             -/media/english/uk_pron_ogg/i/int/into_/into__gb_1.ogg
             -/media/english/us_pron/i/int/into_/into__us_1_rr.mp3
             -/media/english/us_pron_ogg/i/int/into_/into__us_1_rr.ogg
             @introduce
-            -verb
             -/media/english/uk_pron/i/int/intro/introduce__gb_2.mp3
             -/media/english/uk_pron_ogg/i/int/intro/introduce__gb_2.ogg
             -/media/english/us_pron/i/int/intro/introduce__us_2.mp3
             -/media/english/us_pron_ogg/i/int/intro/introduce__us_2.ogg
             @island
-            -noun
             -/media/english/uk_pron/i/isl/islan/island__gb_2.mp3
             -/media/english/uk_pron_ogg/i/isl/islan/island__gb_2.ogg
             -/media/english/us_pron/i/isl/islan/island__us_1.mp3
             -/media/english/us_pron_ogg/i/isl/islan/island__us_1.ogg
             @it
-            -pronoun
             -/media/english/uk_pron/i/it_/it__g/it__gb_2.mp3
             -/media/english/uk_pron_ogg/i/it_/it__g/it__gb_2.ogg
             -/media/english/us_pron/i/it_/it__u/it__us_2.mp3
             -/media/english/us_pron_ogg/i/it_/it__u/it__us_2.ogg
             @its
-            -determiner
             -/media/english/uk_pron/i/its/its__/its__gb_1.mp3
             -/media/english/uk_pron_ogg/i/its/its__/its__gb_1.ogg
             -/media/english/us_pron/i/its/its__/its__us_1.mp3
             -/media/english/us_pron_ogg/i/its/its__/its__us_1.ogg
             @jacket
-            -noun
             -/media/english/uk_pron/j/jac/jacke/jacket__gb_2.mp3
             -/media/english/uk_pron_ogg/j/jac/jacke/jacket__gb_2.ogg
             -/media/english/us_pron/j/jac/jacke/jacket__us_1.mp3
             -/media/english/us_pron_ogg/j/jac/jacke/jacket__us_1.ogg
             @January
-            -noun
             -/media/english/uk_pron/j/jan/janua/january__gb_1.mp3
             -/media/english/uk_pron_ogg/j/jan/janua/january__gb_1.ogg
             -/media/english/us_pron/j/jan/janua/january__us_2.mp3
             -/media/english/us_pron_ogg/j/jan/janua/january__us_2.ogg
             @jeans
-            -noun
             -/media/english/uk_pron/j/jea/jeans/jeans__gb_2.mp3
             -/media/english/uk_pron_ogg/j/jea/jeans/jeans__gb_2.ogg
             -/media/english/us_pron/j/jea/jeans/jeans__us_1.mp3
             -/media/english/us_pron_ogg/j/jea/jeans/jeans__us_1.ogg
             @job
-            -noun
             -/media/english/uk_pron/j/job/job__/job__gb_4.mp3
             -/media/english/uk_pron_ogg/j/job/job__/job__gb_4.ogg
             -/media/english/us_pron/j/job/job__/job__us_2.mp3
             -/media/english/us_pron_ogg/j/job/job__/job__us_2.ogg
             @join
-            -verb
             -/media/english/uk_pron/j/joi/join_/join__gb_1.mp3
             -/media/english/uk_pron_ogg/j/joi/join_/join__gb_1.ogg
             -/media/english/us_pron/j/joi/join_/join__us_1.mp3
             -/media/english/us_pron_ogg/j/joi/join_/join__us_1.ogg
             @journey
-            -noun
             -/media/english/uk_pron/j/jou/journ/journey__gb_2.mp3
             -/media/english/uk_pron_ogg/j/jou/journ/journey__gb_2.ogg
             -/media/english/us_pron/j/jou/journ/journey__us_1.mp3
             -/media/english/us_pron_ogg/j/jou/journ/journey__us_1.ogg
             @juice
-            -noun
             -/media/english/uk_pron/j/jui/juice/juice__gb_2.mp3
             -/media/english/uk_pron_ogg/j/jui/juice/juice__gb_2.ogg
             -/media/english/us_pron/j/jui/juice/juice__us_1.mp3
             -/media/english/us_pron_ogg/j/jui/juice/juice__us_1.ogg
             @July
-            -noun
             -/media/english/uk_pron/j/jul/july_/july__gb_1.mp3
             -/media/english/uk_pron_ogg/j/jul/july_/july__gb_1.ogg
             -/media/english/us_pron/j/jul/july_/july__us_1.mp3
             -/media/english/us_pron_ogg/j/jul/july_/july__us_1.ogg
             @June
-            -noun
             -/media/english/uk_pron/j/jun/june_/june__gb_1.mp3
             -/media/english/uk_pron_ogg/j/jun/june_/june__gb_1.ogg
             -/media/english/us_pron/j/jun/june_/june__us_1.mp3
             -/media/english/us_pron_ogg/j/jun/june_/june__us_1.ogg
             @just
-            -adverb
             -/media/english/uk_pron/j/jus/just_/just__gb_1.mp3
             -/media/english/uk_pron_ogg/j/jus/just_/just__gb_1.ogg
             -/media/english/us_pron/j/jus/just_/just__us_1.mp3
             -/media/english/us_pron_ogg/j/jus/just_/just__us_1.ogg
             @keep
-            -verb
             -/media/english/uk_pron/k/kee/keep_/keep__gb_1.mp3
             -/media/english/uk_pron_ogg/k/kee/keep_/keep__gb_1.ogg
             -/media/english/us_pron/k/kee/keep_/keep__us_1.mp3
             -/media/english/us_pron_ogg/k/kee/keep_/keep__us_1.ogg
             @key
-            -adjective
             -/media/english/uk_pron/k/key/key__/key__gb_3.mp3
             -/media/english/uk_pron_ogg/k/key/key__/key__gb_3.ogg
             -/media/english/us_pron/k/key/key__/key__us_1.mp3
             -/media/english/us_pron_ogg/k/key/key__/key__us_1.ogg
             @kilometre
-            -noun
             -/media/english/uk_pron/k/kil/kilom/kilometre__gb_2.mp3
             -/media/english/uk_pron_ogg/k/kil/kilom/kilometre__gb_2.ogg
             -/media/english/us_pron/k/kil/kilom/kilometre__us_3_rr.mp3
             -/media/english/us_pron_ogg/k/kil/kilom/kilometre__us_3_rr.ogg
             @kind
-            -noun
             -/media/english/uk_pron/k/kin/kind_/kind__gb_2.mp3
             -/media/english/uk_pron_ogg/k/kin/kind_/kind__gb_2.ogg
             -/media/english/us_pron/k/kin/kind_/kind__us_1.mp3
             -/media/english/us_pron_ogg/k/kin/kind_/kind__us_1.ogg
             @kitchen
-            -noun
             -/media/english/uk_pron/k/kit/kitch/kitchen__gb_2.mp3
             -/media/english/uk_pron_ogg/k/kit/kitch/kitchen__gb_2.ogg
             -/media/english/us_pron/k/kit/kitch/kitchen__us_2.mp3
             -/media/english/us_pron_ogg/k/kit/kitch/kitchen__us_2.ogg
             @know
-            -verb
             -/media/english/uk_pron/k/kno/know_/know__gb_2.mp3
             -/media/english/uk_pron_ogg/k/kno/know_/know__gb_2.ogg
             -/media/english/us_pron/k/kno/know_/know__us_1.mp3
             -/media/english/us_pron_ogg/k/kno/know_/know__us_1.ogg
             @land
-            -noun
             -/media/english/uk_pron/l/lan/land_/land__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lan/land_/land__gb_1.ogg
             -/media/english/us_pron/l/lan/land_/land__us_1.mp3
             -/media/english/us_pron_ogg/l/lan/land_/land__us_1.ogg
             @language
-            -noun
             -/media/english/uk_pron/l/lan/langu/language__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lan/langu/language__gb_1.ogg
             -/media/english/us_pron/l/lan/langu/language__us_1.mp3
             -/media/english/us_pron_ogg/l/lan/langu/language__us_1.ogg
             @large
-            -adjective
             -/media/english/uk_pron/l/lar/large/large__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lar/large/large__gb_1.ogg
             -/media/english/us_pron/l/lar/large/large__us_1.mp3
             -/media/english/us_pron_ogg/l/lar/large/large__us_1.ogg
             @last
-            -determiner
             -/media/english/uk_pron/l/las/last_/last__gb_6.mp3
             -/media/english/uk_pron_ogg/l/las/last_/last__gb_6.ogg
             -/media/english/us_pron/l/las/last_/last__us_1.mp3
             -/media/english/us_pron_ogg/l/las/last_/last__us_1.ogg
             @late
-            -adjective
             -/media/english/uk_pron/l/lat/late_/late__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lat/late_/late__gb_1.ogg
             -/media/english/us_pron/l/lat/late_/late__us_1.mp3
             -/media/english/us_pron_ogg/l/lat/late_/late__us_1.ogg
             @later
-            -adverb
             -/media/english/uk_pron/l/lat/later/later__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lat/later/later__gb_1.ogg
             -/media/english/us_pron/l/lat/later/later__us_1.mp3
             -/media/english/us_pron_ogg/l/lat/later/later__us_1.ogg
             @laugh
-            -noun
             -/media/english/uk_pron/l/lau/laugh/laugh__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lau/laugh/laugh__gb_1.ogg
             -/media/english/us_pron/l/lau/laugh/laugh__us_1.mp3
             -/media/english/us_pron_ogg/l/lau/laugh/laugh__us_1.ogg
             @learn
-            -verb
             -/media/english/uk_pron/l/lea/learn/learn__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lea/learn/learn__gb_1.ogg
             -/media/english/us_pron/l/lea/learn/learn__us_1.mp3
             -/media/english/us_pron_ogg/l/lea/learn/learn__us_1.ogg
             @leave
-            -verb
             -/media/english/uk_pron/l/lea/leave/leave__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lea/leave/leave__gb_1.ogg
             -/media/english/us_pron/l/lea/leave/leave__us_1.mp3
             -/media/english/us_pron_ogg/l/lea/leave/leave__us_1.ogg
             @left
-            -adjective
             -/media/english/uk_pron/l/lef/left_/left__gb_4.mp3
             -/media/english/uk_pron_ogg/l/lef/left_/left__gb_4.ogg
             -/media/english/us_pron/l/lef/left_/left__us_2.mp3
             -/media/english/us_pron_ogg/l/lef/left_/left__us_2.ogg
             @leg
-            -noun
             -/media/english/uk_pron/l/leg/leg__/leg__gb_6.mp3
             -/media/english/uk_pron_ogg/l/leg/leg__/leg__gb_6.ogg
             -/media/english/us_pron/l/leg/leg__/leg__us_1.mp3
             -/media/english/us_pron_ogg/l/leg/leg__/leg__us_1.ogg
             @lesson
-            -noun
             -/media/english/uk_pron/l/les/lesso/lesson__gb_1.mp3
             -/media/english/uk_pron_ogg/l/les/lesso/lesson__gb_1.ogg
             -/media/english/us_pron/l/les/lesso/lesson__us_4.mp3
             -/media/english/us_pron_ogg/l/les/lesso/lesson__us_4.ogg
             @let
-            -verb
             -/media/english/uk_pron/l/let/let__/let__gb_1.mp3
             -/media/english/uk_pron_ogg/l/let/let__/let__gb_1.ogg
             -/media/english/us_pron/l/let/let__/let__us_1.mp3
             -/media/english/us_pron_ogg/l/let/let__/let__us_1.ogg
             @letter
-            -noun
             -/media/english/uk_pron/l/let/lette/letter__gb_2.mp3
             -/media/english/uk_pron_ogg/l/let/lette/letter__gb_2.ogg
             -/media/english/us_pron/l/let/lette/letter__us_3.mp3
             -/media/english/us_pron_ogg/l/let/lette/letter__us_3.ogg
             @library
-            -noun
             -/media/english/uk_pron/l/lib/libra/library__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lib/libra/library__gb_1.ogg
             -/media/english/us_pron/l/lib/libra/library__us_1.mp3
             -/media/english/us_pron_ogg/l/lib/libra/library__us_1.ogg
             @lie
-            -verb
             -/media/english/uk_pron/l/lie/lie__/lie__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lie/lie__/lie__gb_1.ogg
             -/media/english/us_pron/l/lie/lie__/lie__us_1.mp3
             -/media/english/us_pron_ogg/l/lie/lie__/lie__us_1.ogg
             @life
-            -noun
             -/media/english/uk_pron/l/lif/life_/life__gb_3.mp3
             -/media/english/uk_pron_ogg/l/lif/life_/life__gb_3.ogg
             -/media/english/us_pron/l/lif/life_/life__us_1.mp3
             -/media/english/us_pron_ogg/l/lif/life_/life__us_1.ogg
             @light
-            -adjective
             -/media/english/uk_pron/l/lig/light/light__gb_2.mp3
             -/media/english/uk_pron_ogg/l/lig/light/light__gb_2.ogg
             -/media/english/us_pron/l/lig/light/light__us_1.mp3
             -/media/english/us_pron_ogg/l/lig/light/light__us_1.ogg
             @like
-            -preposition
             -/media/english/uk_pron/l/lik/like_/like__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lik/like_/like__gb_1.ogg
             -/media/english/us_pron/l/lik/like_/like__us_1.mp3
             -/media/english/us_pron_ogg/l/lik/like_/like__us_1.ogg
             @line
-            -noun
             -/media/english/uk_pron/l/lin/line_/line__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lin/line_/line__gb_1.ogg
             -/media/english/us_pron/l/lin/line_/line__us_1.mp3
             -/media/english/us_pron_ogg/l/lin/line_/line__us_1.ogg
             @lion
-            -noun
             -/media/english/uk_pron/l/lio/lion_/lion__gb_2.mp3
             -/media/english/uk_pron_ogg/l/lio/lion_/lion__gb_2.ogg
             -/media/english/us_pron/l/lio/lion_/lion__us_2.mp3
             -/media/english/us_pron_ogg/l/lio/lion_/lion__us_2.ogg
             @list
-            -noun
             -/media/english/uk_pron/l/lis/list_/list__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lis/list_/list__gb_1.ogg
             -/media/english/us_pron/l/lis/list_/list__us_1.mp3
             -/media/english/us_pron_ogg/l/lis/list_/list__us_1.ogg
             @listen
-            -verb
             -/media/english/uk_pron/l/lis/liste/listen__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lis/liste/listen__gb_1.ogg
             -/media/english/us_pron/l/lis/liste/listen__us_1.mp3
             -/media/english/us_pron_ogg/l/lis/liste/listen__us_1.ogg
             @little
-            -adjective
             -/media/english/uk_pron/l/lit/littl/little__gb_2.mp3
             -/media/english/uk_pron_ogg/l/lit/littl/little__gb_2.ogg
             -/media/english/us_pron/l/lit/littl/little__us_4.mp3
             -/media/english/us_pron_ogg/l/lit/littl/little__us_4.ogg
             @live
-            -verb
             -/media/english/uk_pron/l/liv/live_/live__gb_1.mp3
             -/media/english/uk_pron_ogg/l/liv/live_/live__gb_1.ogg
             -/media/english/us_pron/l/liv/live_/live__us_1.mp3
             -/media/english/us_pron_ogg/l/liv/live_/live__us_1.ogg
             @local
-            -adjective
             -/media/english/uk_pron/l/loc/local/local__gb_3.mp3
             -/media/english/uk_pron_ogg/l/loc/local/local__gb_3.ogg
             -/media/english/us_pron/l/loc/local/local__us_2.mp3
             -/media/english/us_pron_ogg/l/loc/local/local__us_2.ogg
             @long
-            -adjective
             -/media/english/uk_pron/l/lon/long_/long__gb_2.mp3
             -/media/english/uk_pron_ogg/l/lon/long_/long__gb_2.ogg
             -/media/english/us_pron/l/lon/long_/long__us_8.mp3
             -/media/english/us_pron_ogg/l/lon/long_/long__us_8.ogg
             @look
-            -verb
             -/media/english/uk_pron/l/loo/look_/look__gb_1.mp3
             -/media/english/uk_pron_ogg/l/loo/look_/look__gb_1.ogg
             -/media/english/us_pron/l/loo/look_/look__us_1.mp3
             -/media/english/us_pron_ogg/l/loo/look_/look__us_1.ogg
             @lose
-            -verb
             -/media/english/uk_pron/l/los/lose_/lose__gb_1.mp3
             -/media/english/uk_pron_ogg/l/los/lose_/lose__gb_1.ogg
             -/media/english/us_pron/l/los/lose_/lose__us_1.mp3
             -/media/english/us_pron_ogg/l/los/lose_/lose__us_1.ogg
             @lot
-            -adverb
             -/media/english/uk_pron/l/lot/lot__/lot__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lot/lot__/lot__gb_1.ogg
             -/media/english/us_pron/l/lot/lot__/lot__us_1.mp3
             -/media/english/us_pron_ogg/l/lot/lot__/lot__us_1.ogg
             @love
-            -noun
             -/media/english/uk_pron/l/lov/love_/love__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lov/love_/love__gb_1.ogg
             -/media/english/us_pron/l/lov/love_/love__us_1.mp3
             -/media/english/us_pron_ogg/l/lov/love_/love__us_1.ogg
             @lunch
-            -noun
             -/media/english/uk_pron/l/lun/lunch/lunch__gb_1.mp3
             -/media/english/uk_pron_ogg/l/lun/lunch/lunch__gb_1.ogg
             -/media/english/us_pron/l/lun/lunch/lunch__us_1.mp3
             -/media/english/us_pron_ogg/l/lun/lunch/lunch__us_1.ogg
             @machine
-            -noun
             -/media/english/uk_pron/m/mac/machi/machine__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mac/machi/machine__gb_1.ogg
             -/media/english/us_pron/m/mac/machi/machine__us_1.mp3
             -/media/english/us_pron_ogg/m/mac/machi/machine__us_1.ogg
             @magazine
-            -noun
             -/media/english/uk_pron/m/mag/magaz/magazine__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mag/magaz/magazine__gb_1.ogg
             -/media/english/us_pron/m/mag/magaz/magazine__us_1_rr.mp3
             -/media/english/us_pron_ogg/m/mag/magaz/magazine__us_1_rr.ogg
             @main
-            -adjective
             -/media/english/uk_pron/m/mai/main_/main__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mai/main_/main__gb_1.ogg
             -/media/english/us_pron/m/mai/main_/main__us_1.mp3
             -/media/english/us_pron_ogg/m/mai/main_/main__us_1.ogg
             @make
-            -verb
             -/media/english/uk_pron/m/mak/make_/make__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mak/make_/make__gb_1.ogg
             -/media/english/us_pron/m/mak/make_/make__us_1.mp3
             -/media/english/us_pron_ogg/m/mak/make_/make__us_1.ogg
             @man
-            -noun
             -/media/english/uk_pron/m/man/man__/man__gb_2.mp3
             -/media/english/uk_pron_ogg/m/man/man__/man__gb_2.ogg
             -/media/english/us_pron/m/man/man__/man__us_1.mp3
             -/media/english/us_pron_ogg/m/man/man__/man__us_1.ogg
             @many
-            -determiner
             -/media/english/uk_pron/m/man/many_/many__gb_1.mp3
             -/media/english/uk_pron_ogg/m/man/many_/many__gb_1.ogg
             -/media/english/us_pron/m/man/many_/many__us_2.mp3
             -/media/english/us_pron_ogg/m/man/many_/many__us_2.ogg
             @map
-            -noun
             -/media/english/uk_pron/m/map/map__/map__gb_1.mp3
             -/media/english/uk_pron_ogg/m/map/map__/map__gb_1.ogg
             -/media/english/us_pron/m/map/map__/map__us_1.mp3
             -/media/english/us_pron_ogg/m/map/map__/map__us_1.ogg
             @March
-            -noun
             -/media/english/uk_pron/m/mar/march/march__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mar/march/march__gb_2.ogg
             -/media/english/us_pron/m/mar/march/march__us_2.mp3
             -/media/english/us_pron_ogg/m/mar/march/march__us_2.ogg
             @market
-            -noun
             -/media/english/uk_pron/m/mar/marke/market__gb_3.mp3
             -/media/english/uk_pron_ogg/m/mar/marke/market__gb_3.ogg
             -/media/english/us_pron/m/mar/marke/market__us_1.mp3
             -/media/english/us_pron_ogg/m/mar/marke/market__us_1.ogg
             @married
-            -adjective
             -/media/english/uk_pron/m/mar/marri/married__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mar/marri/married__gb_1.ogg
             -/media/english/us_pron/m/mar/marri/married__us_4.mp3
             -/media/english/us_pron_ogg/m/mar/marri/married__us_4.ogg
             @match
-            -noun
             -/media/english/uk_pron/m/mat/match/match__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mat/match/match__gb_1.ogg
             -/media/english/us_pron/m/mat/match/match__us_1.mp3
             -/media/english/us_pron_ogg/m/mat/match/match__us_1.ogg
             @May
-            -noun
             -/media/english/uk_pron/m/may/may_1/may_1_gb_1.mp3
             -/media/english/uk_pron_ogg/m/may/may_1/may_1_gb_1.ogg
             -/media/english/us_pron/m/may/may__/may__us_2.mp3
             -/media/english/us_pron_ogg/m/may/may__/may__us_2.ogg
             @maybe
-            -adverb
             -/media/english/uk_pron/m/may/maybe/maybe__gb_1.mp3
             -/media/english/uk_pron_ogg/m/may/maybe/maybe__gb_1.ogg
             -/media/english/us_pron/m/may/maybe/maybe__us_2.mp3
             -/media/english/us_pron_ogg/m/may/maybe/maybe__us_2.ogg
             @me
-            -pronoun
             -/media/english/uk_pron/m/me_/me__g/me__gb_3.mp3
             -/media/english/uk_pron_ogg/m/me_/me__g/me__gb_3.ogg
             -/media/english/us_pron/m/me_/me__u/me__us_2.mp3
             -/media/english/us_pron_ogg/m/me_/me__u/me__us_2.ogg
             @meal
-            -noun
             -/media/english/uk_pron/m/mea/meal_/meal__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mea/meal_/meal__gb_1.ogg
             -/media/english/us_pron/m/mea/meal_/meal__us_1.mp3
             -/media/english/us_pron_ogg/m/mea/meal_/meal__us_1.ogg
             @mean
-            -verb
             -/media/english/uk_pron/m/mea/mean_/mean__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mea/mean_/mean__gb_2.ogg
             -/media/english/us_pron/m/mea/mean_/mean__us_1.mp3
             -/media/english/us_pron_ogg/m/mea/mean_/mean__us_1.ogg
             @meaning
-            -noun
             -/media/english/uk_pron/m/mea/meani/meaning__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mea/meani/meaning__gb_1.ogg
             -/media/english/us_pron/m/mea/meani/meaning__us_3.mp3
             -/media/english/us_pron_ogg/m/mea/meani/meaning__us_3.ogg
             @meat
-            -noun
             -/media/english/uk_pron/m/mea/meat_/meat__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mea/meat_/meat__gb_1.ogg
             -/media/english/us_pron/m/mea/meat_/meat__us_1.mp3
             -/media/english/us_pron_ogg/m/mea/meat_/meat__us_1.ogg
             @meet
-            -verb
             -/media/english/uk_pron/m/mee/meet_/meet__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mee/meet_/meet__gb_1.ogg
             -/media/english/us_pron/m/mee/meet_/meet__us_1.mp3
             -/media/english/us_pron_ogg/m/mee/meet_/meet__us_1.ogg
             @meeting
-            -noun
             -/media/english/uk_pron/m/mee/meeti/meeting__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mee/meeti/meeting__gb_1.ogg
             -/media/english/us_pron/m/mee/meeti/meeting__us_1.mp3
             -/media/english/us_pron_ogg/m/mee/meeti/meeting__us_1.ogg
             @member
-            -noun
             -/media/english/uk_pron/m/mem/membe/member__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mem/membe/member__gb_1.ogg
             -/media/english/us_pron/m/mem/membe/member__us_1.mp3
             -/media/english/us_pron_ogg/m/mem/membe/member__us_1.ogg
             @menu
-            -noun
             -/media/english/uk_pron/m/men/menu_/menu__gb_1.mp3
             -/media/english/uk_pron_ogg/m/men/menu_/menu__gb_1.ogg
             -/media/english/us_pron/m/men/menu_/menu__us_1.mp3
             -/media/english/us_pron_ogg/m/men/menu_/menu__us_1.ogg
             @message
-            -noun
             -/media/english/uk_pron/m/mes/messa/message__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mes/messa/message__gb_1.ogg
             -/media/english/us_pron/m/mes/messa/message__us_1.mp3
             -/media/english/us_pron_ogg/m/mes/messa/message__us_1.ogg
             @metre
-            -noun
             -/media/english/uk_pron/m/met/metre/metre__gb_1.mp3
             -/media/english/uk_pron_ogg/m/met/metre/metre__gb_1.ogg
             -/media/english/us_pron/m/met/metre/metre__us_1.mp3
             -/media/english/us_pron_ogg/m/met/metre/metre__us_1.ogg
             @midnight
-            -noun
             -/media/english/uk_pron/m/mid/midni/midnight__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mid/midni/midnight__gb_2.ogg
             -/media/english/us_pron/m/mid/midni/midnight__us_1.mp3
             -/media/english/us_pron_ogg/m/mid/midni/midnight__us_1.ogg
             @mile
-            -noun
             -/media/english/uk_pron/m/mil/mile_/mile__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mil/mile_/mile__gb_1.ogg
             -/media/english/us_pron/m/mil/mile_/mile__us_1.mp3
             -/media/english/us_pron_ogg/m/mil/mile_/mile__us_1.ogg
             @milk
-            -noun
             -/media/english/uk_pron/m/mil/milk_/milk__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mil/milk_/milk__gb_1.ogg
             -/media/english/us_pron/m/mil/milk_/milk__us_1.mp3
             -/media/english/us_pron_ogg/m/mil/milk_/milk__us_1.ogg
             @million
-            -number
             -/media/english/uk_pron/m/mil/milli/million__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mil/milli/million__gb_1.ogg
             -/media/english/us_pron/m/mil/milli/million__us_2.mp3
             -/media/english/us_pron_ogg/m/mil/milli/million__us_2.ogg
             @minute
-            -noun
             -/media/english/uk_pron/m/min/minut/minute__gb_1.mp3
             -/media/english/uk_pron_ogg/m/min/minut/minute__gb_1.ogg
             -/media/english/us_pron/m/min/minut/minute__us_1.mp3
             -/media/english/us_pron_ogg/m/min/minut/minute__us_1.ogg
             @miss
-            -verb
             -/media/english/uk_pron/m/mis/miss_/miss__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mis/miss_/miss__gb_1.ogg
             -/media/english/us_pron/m/mis/miss_/miss__us_1.mp3
             -/media/english/us_pron_ogg/m/mis/miss_/miss__us_1.ogg
             @mistake
-            -noun
             -/media/english/uk_pron/m/mis/mista/mistake__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mis/mista/mistake__gb_2.ogg
             -/media/english/us_pron/m/mis/mista/mistake__us_2.mp3
             -/media/english/us_pron_ogg/m/mis/mista/mistake__us_2.ogg
             @model
-            -noun
             -/media/english/uk_pron/m/mod/model/model__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mod/model/model__gb_2.ogg
             -/media/english/us_pron/m/mod/model/model__us_2.mp3
             -/media/english/us_pron_ogg/m/mod/model/model__us_2.ogg
             @modern
-            -adjective
             -/media/english/uk_pron/m/mod/moder/modern__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mod/moder/modern__gb_2.ogg
             -/media/english/us_pron/m/mod/moder/modern__us_2.mp3
             -/media/english/us_pron_ogg/m/mod/moder/modern__us_2.ogg
             @moment
-            -noun
             -/media/english/uk_pron/m/mom/momen/moment__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mom/momen/moment__gb_1.ogg
             -/media/english/us_pron/m/mom/momen/moment__us_1.mp3
             -/media/english/us_pron_ogg/m/mom/momen/moment__us_1.ogg
             @Monday
-            -noun
             -/media/english/uk_pron/m/mon/monda/monday__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mon/monda/monday__gb_1.ogg
             -/media/english/us_pron/m/mon/monda/monday__us_1_rr.mp3
             -/media/english/us_pron_ogg/m/mon/monda/monday__us_1_rr.ogg
             @money
-            -noun
             -/media/english/uk_pron/m/mon/money/money__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mon/money/money__gb_1.ogg
             -/media/english/us_pron/m/mon/money/money__us_1.mp3
             -/media/english/us_pron_ogg/m/mon/money/money__us_1.ogg
             @month
-            -noun
             -/media/english/uk_pron/m/mon/month/month__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mon/month/month__gb_1.ogg
             -/media/english/us_pron/m/mon/month/month__us_1.mp3
             -/media/english/us_pron_ogg/m/mon/month/month__us_1.ogg
             @more
-            -adverb
             -/media/english/uk_pron/m/mor/more_/more__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mor/more_/more__gb_1.ogg
             -/media/english/us_pron/m/mor/more_/more__us_1.mp3
             -/media/english/us_pron_ogg/m/mor/more_/more__us_1.ogg
             @morning
-            -noun
             -/media/english/uk_pron/m/mor/morni/morning__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mor/morni/morning__gb_1.ogg
             -/media/english/us_pron/m/mor/morni/morning__us_1.mp3
             -/media/english/us_pron_ogg/m/mor/morni/morning__us_1.ogg
             @most
-            -adverb
             -/media/english/uk_pron/m/mos/most_/most__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mos/most_/most__gb_1.ogg
             -/media/english/us_pron/m/mos/most_/most__us_1.mp3
             -/media/english/us_pron_ogg/m/mos/most_/most__us_1.ogg
             @mother
-            -noun
             -/media/english/uk_pron/m/mot/mothe/mother__gb_2.mp3
             -/media/english/uk_pron_ogg/m/mot/mothe/mother__gb_2.ogg
             -/media/english/us_pron/m/mot/mothe/mother__us_1.mp3
             -/media/english/us_pron_ogg/m/mot/mothe/mother__us_1.ogg
             @mountain
-            -noun
             -/media/english/uk_pron/m/mou/mount/mountain__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mou/mount/mountain__gb_1.ogg
             -/media/english/us_pron/m/mou/mount/mountain__us_5.mp3
             -/media/english/us_pron_ogg/m/mou/mount/mountain__us_5.ogg
             @mouse
-            -noun
             -/media/english/uk_pron/m/mou/mouse/mouse__gb_3.mp3
             -/media/english/uk_pron_ogg/m/mou/mouse/mouse__gb_3.ogg
             -/media/english/us_pron/m/mou/mouse/mouse__us_1.mp3
             -/media/english/us_pron_ogg/m/mou/mouse/mouse__us_1.ogg
             @mouth
-            -noun
             -/media/english/uk_pron/m/mou/mouth/mouth__gb_3.mp3
             -/media/english/uk_pron_ogg/m/mou/mouth/mouth__gb_3.ogg
             -/media/english/us_pron/m/mou/mouth/mouth__us_1.mp3
             -/media/english/us_pron_ogg/m/mou/mouth/mouth__us_1.ogg
             @move
-            -verb
             -/media/english/uk_pron/m/mov/move_/move__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mov/move_/move__gb_1.ogg
             -/media/english/us_pron/m/mov/move_/move__us_1.mp3
             -/media/english/us_pron_ogg/m/mov/move_/move__us_1.ogg
             @movie
-            -noun
             -/media/english/uk_pron/m/mov/movie/movie__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mov/movie/movie__gb_1.ogg
             -/media/english/us_pron/m/mov/movie/movie__us_1.mp3
             -/media/english/us_pron_ogg/m/mov/movie/movie__us_1.ogg
             @much
-            -adverb
             -/media/english/uk_pron/m/muc/much_/much__gb_1.mp3
             -/media/english/uk_pron_ogg/m/muc/much_/much__gb_1.ogg
             -/media/english/us_pron/m/muc/much_/much__us_1.mp3
             -/media/english/us_pron_ogg/m/muc/much_/much__us_1.ogg
             @mum
-            -noun
             -/media/english/uk_pron/m/mum/mum_1/mum_1_gb_1.mp3
             -/media/english/uk_pron_ogg/m/mum/mum_1/mum_1_gb_1.ogg
             -/media/english/us_pron/m/mum/mum__/mum__us_1.mp3
             -/media/english/us_pron_ogg/m/mum/mum__/mum__us_1.ogg
             @museum
-            -noun
             -/media/english/uk_pron/m/mus/museu/museum__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mus/museu/museum__gb_1.ogg
             -/media/english/us_pron/m/mus/museu/museum__us_2.mp3
             -/media/english/us_pron_ogg/m/mus/museu/museum__us_2.ogg
             @music
-            -noun
             -/media/english/uk_pron/m/mus/music/music__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mus/music/music__gb_1.ogg
             -/media/english/us_pron/m/mus/music/music__us_2.mp3
             -/media/english/us_pron_ogg/m/mus/music/music__us_2.ogg
             @must
-            -modal verb
             -/media/english/uk_pron/m/mus/must_/must__gb_1.mp3
             -/media/english/uk_pron_ogg/m/mus/must_/must__gb_1.ogg
             -/media/english/us_pron/m/mus/must_/must__us_1_rr.mp3
             -/media/english/us_pron_ogg/m/mus/must_/must__us_1_rr.ogg
             @my
-            -determiner
             -/media/english/uk_pron/m/my_/my__g/my__gb_1.mp3
             -/media/english/uk_pron_ogg/m/my_/my__g/my__gb_1.ogg
             -/media/english/us_pron/m/my_/my__u/my__us_1.mp3
             -/media/english/us_pron_ogg/m/my_/my__u/my__us_1.ogg
             @name
-            -noun
             -/media/english/uk_pron/n/nam/name_/name__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nam/name_/name__gb_1.ogg
             -/media/english/us_pron/n/nam/name_/name__us_1.mp3
             -/media/english/us_pron_ogg/n/nam/name_/name__us_1.ogg
             @natural
-            -adjective
             -/media/english/uk_pron/n/nat/natur/natural__gb_6.mp3
             -/media/english/uk_pron_ogg/n/nat/natur/natural__gb_6.ogg
             -/media/english/us_pron/n/nat/natur/natural__us_1_rr.mp3
             -/media/english/us_pron_ogg/n/nat/natur/natural__us_1_rr.ogg
             @near
-            -adjective
             -/media/english/uk_pron/n/nea/near_/near__gb_2.mp3
             -/media/english/uk_pron_ogg/n/nea/near_/near__gb_2.ogg
             -/media/english/us_pron/n/nea/near_/near__us_1.mp3
             -/media/english/us_pron_ogg/n/nea/near_/near__us_1.ogg
             @need
-            -verb
             -/media/english/uk_pron/n/nee/need_/need__gb_2.mp3
             -/media/english/uk_pron_ogg/n/nee/need_/need__gb_2.ogg
             -/media/english/us_pron/n/nee/need_/need__us_1.mp3
             -/media/english/us_pron_ogg/n/nee/need_/need__us_1.ogg
             @negative
-            -adjective
             -/media/english/uk_pron/n/neg/negat/negative__gb_2.mp3
             -/media/english/uk_pron_ogg/n/neg/negat/negative__gb_2.ogg
             -/media/english/us_pron/n/neg/negat/negative__us_1.mp3
             -/media/english/us_pron_ogg/n/neg/negat/negative__us_1.ogg
             @neighbour
-            -noun
             -/media/english/uk_pron/n/nei/neigh/neighbour__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nei/neigh/neighbour__gb_1.ogg
             -/media/english/us_pron/n/nei/neigh/neighbour__us_1.mp3
             -/media/english/us_pron_ogg/n/nei/neigh/neighbour__us_1.ogg
             @never
-            -adverb
             -/media/english/uk_pron/n/nev/never/never__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nev/never/never__gb_1.ogg
             -/media/english/us_pron/n/nev/never/never__us_1.mp3
             -/media/english/us_pron_ogg/n/nev/never/never__us_1.ogg
             @new
-            -adjective
             -/media/english/uk_pron/n/new/new__/new__gb_2.mp3
             -/media/english/uk_pron_ogg/n/new/new__/new__gb_2.ogg
             -/media/english/us_pron/n/new/new__/new__us_1.mp3
             -/media/english/us_pron_ogg/n/new/new__/new__us_1.ogg
             @news
-            -noun
             -/media/english/uk_pron/n/new/news_/news__gb_2.mp3
             -/media/english/uk_pron_ogg/n/new/news_/news__gb_2.ogg
             -/media/english/us_pron/n/new/news_/news__us_1.mp3
             -/media/english/us_pron_ogg/n/new/news_/news__us_1.ogg
             @newspaper
-            -noun
             -/media/english/uk_pron/n/new/newsp/newspaper__gb_1.mp3
             -/media/english/uk_pron_ogg/n/new/newsp/newspaper__gb_1.ogg
             -/media/english/us_pron/n/new/newsp/newspaper__us_1.mp3
             -/media/english/us_pron_ogg/n/new/newsp/newspaper__us_1.ogg
             @next
-            -adjective
             -/media/english/uk_pron/n/nex/next_/next__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nex/next_/next__gb_1.ogg
             -/media/english/us_pron/n/nex/next_/next__us_1.mp3
             -/media/english/us_pron_ogg/n/nex/next_/next__us_1.ogg
             @next to
-            -preposition
             -/media/english/uk_pron/n/nex/next_/next_to_1_gb_1.mp3
             -/media/english/uk_pron_ogg/n/nex/next_/next_to_1_gb_1.ogg
             -/media/english/us_pron/n/nex/next_/next_to_1_us_1.mp3
             -/media/english/us_pron_ogg/n/nex/next_/next_to_1_us_1.ogg
             @nice
-            -adjective
             -/media/english/uk_pron/n/nic/nice_/nice__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nic/nice_/nice__gb_1.ogg
             -/media/english/us_pron/n/nic/nice_/nice__us_1.mp3
             -/media/english/us_pron_ogg/n/nic/nice_/nice__us_1.ogg
             @night
-            -noun
             -/media/english/uk_pron/n/nig/night/night__gb_2.mp3
             -/media/english/uk_pron_ogg/n/nig/night/night__gb_2.ogg
             -/media/english/us_pron/n/nig/night/night__us_1.mp3
             -/media/english/us_pron_ogg/n/nig/night/night__us_1.ogg
             @nine
-            -number
             -/media/english/uk_pron/n/nin/nine_/nine__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nin/nine_/nine__gb_1.ogg
             -/media/english/us_pron/n/nin/nine_/nine__us_1.mp3
             -/media/english/us_pron_ogg/n/nin/nine_/nine__us_1.ogg
             @nineteen
-            -number
             -/media/english/uk_pron/n/nin/ninet/nineteen__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nin/ninet/nineteen__gb_1.ogg
             -/media/english/us_pron/n/nin/ninet/nineteen__us_1.mp3
             -/media/english/us_pron_ogg/n/nin/ninet/nineteen__us_1.ogg
             @ninety
-            -number
             -/media/english/uk_pron/n/nin/ninet/ninety__gb_2.mp3
             -/media/english/uk_pron_ogg/n/nin/ninet/ninety__gb_2.ogg
             -/media/english/us_pron/n/nin/ninet/ninety__us_1.mp3
             -/media/english/us_pron_ogg/n/nin/ninet/ninety__us_1.ogg
             @no
-            -determiner
             -/media/english/uk_pron/n/no_/no__g/no__gb_1.mp3
             -/media/english/uk_pron_ogg/n/no_/no__g/no__gb_1.ogg
             -/media/english/us_pron/n/no_/no__u/no__us_1.mp3
             -/media/english/us_pron_ogg/n/no_/no__u/no__us_1.ogg
             @no one
-            -pronoun
             -/media/english/uk_pron/n/no_/no_on/no_one_1_gb_1.mp3
             -/media/english/uk_pron_ogg/n/no_/no_on/no_one_1_gb_1.ogg
             -/media/english/us_pron/n/no_/no_on/no_one_1_us_1.mp3
             -/media/english/us_pron_ogg/n/no_/no_on/no_one_1_us_1.ogg
             @nobody
-            -pronoun
             -/media/english/uk_pron/n/nob/nobod/nobody__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nob/nobod/nobody__gb_1.ogg
             -/media/english/us_pron/n/nob/nobod/nobody__us_1_rr.mp3
             -/media/english/us_pron_ogg/n/nob/nobod/nobody__us_1_rr.ogg
             @north
-            -adjective
             -/media/english/uk_pron/n/nor/north/north__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nor/north/north__gb_1.ogg
             -/media/english/us_pron/n/nor/north/north__us_1.mp3
             -/media/english/us_pron_ogg/n/nor/north/north__us_1.ogg
             @nose
-            -noun
             -/media/english/uk_pron/n/nos/nose_/nose__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nos/nose_/nose__gb_1.ogg
             -/media/english/us_pron/n/nos/nose_/nose__us_1.mp3
             -/media/english/us_pron_ogg/n/nos/nose_/nose__us_1.ogg
             @not
-            -adverb
             -/media/english/uk_pron/n/not/not__/not__gb_1.mp3
             -/media/english/uk_pron_ogg/n/not/not__/not__gb_1.ogg
             -/media/english/us_pron/n/not/not__/not__us_1.mp3
             -/media/english/us_pron_ogg/n/not/not__/not__us_1.ogg
             @note
-            -noun
             -/media/english/uk_pron/n/not/note_/note__gb_2.mp3
             -/media/english/uk_pron_ogg/n/not/note_/note__gb_2.ogg
             -/media/english/us_pron/n/not/note_/note__us_1.mp3
             -/media/english/us_pron_ogg/n/not/note_/note__us_1.ogg
             @nothing
-            -pronoun
             -/media/english/uk_pron/n/not/nothi/nothing__gb_1.mp3
             -/media/english/uk_pron_ogg/n/not/nothi/nothing__gb_1.ogg
             -/media/english/us_pron/n/not/nothi/nothing__us_1.mp3
             -/media/english/us_pron_ogg/n/not/nothi/nothing__us_1.ogg
             @November
-            -noun
             -/media/english/uk_pron/n/nov/novem/november__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nov/novem/november__gb_1.ogg
             -/media/english/us_pron/n/nov/novem/november__us_1.mp3
             -/media/english/us_pron_ogg/n/nov/novem/november__us_1.ogg
             @now
-            -adverb
             -/media/english/uk_pron/n/now/now__/now__gb_1.mp3
             -/media/english/uk_pron_ogg/n/now/now__/now__gb_1.ogg
             -/media/english/us_pron/n/now/now__/now__us_1.mp3
             -/media/english/us_pron_ogg/n/now/now__/now__us_1.ogg
             @number
-            -noun
             -/media/english/uk_pron/n/num/numbe/number__gb_1.mp3
             -/media/english/uk_pron_ogg/n/num/numbe/number__gb_1.ogg
             -/media/english/us_pron/n/num/numbe/number__us_2.mp3
             -/media/english/us_pron_ogg/n/num/numbe/number__us_2.ogg
             @nurse
-            -noun
             -/media/english/uk_pron/n/nur/nurse/nurse__gb_1.mp3
             -/media/english/uk_pron_ogg/n/nur/nurse/nurse__gb_1.ogg
             -/media/english/us_pron/n/nur/nurse/nurse__us_1.mp3
             -/media/english/us_pron_ogg/n/nur/nurse/nurse__us_1.ogg
             @o'clock
-            -adverb
             -/media/english/uk_pron/o/o_c/o_clo/o_clock_1_gb_1.mp3
             -/media/english/uk_pron_ogg/o/o_c/o_clo/o_clock_1_gb_1.ogg
             -/media/english/us_pron/o/o_c/o_clo/o_clock_1_us_1.mp3
             -/media/english/us_pron_ogg/o/o_c/o_clo/o_clock_1_us_1.ogg
             @object
-            -noun
             -/media/english/uk_pron/o/obj/objec/object__gb_1.mp3
             -/media/english/uk_pron_ogg/o/obj/objec/object__gb_1.ogg
             -/media/english/us_pron/o/obj/objec/object__us_2_rr.mp3
             -/media/english/us_pron_ogg/o/obj/objec/object__us_2_rr.ogg
             @October
-            -noun
             -/media/english/uk_pron/o/oct/octob/october_1_gb_1.mp3
             -/media/english/uk_pron_ogg/o/oct/octob/october_1_gb_1.ogg
             -/media/english/us_pron/o/oct/octob/october__us_1.mp3
             -/media/english/us_pron_ogg/o/oct/octob/october__us_1.ogg
             @of
-            -preposition
             -/media/english/uk_pron/o/of_/of__g/of__gb_1.mp3
             -/media/english/uk_pron_ogg/o/of_/of__g/of__gb_1.ogg
             -/media/english/us_pron/o/of_/of__u/of__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/of_/of__u/of__us_1_rr.ogg
             @off
-            -adverb
             -/media/english/uk_pron/o/off/off__/off__gb_1.mp3
             -/media/english/uk_pron_ogg/o/off/off__/off__gb_1.ogg
             -/media/english/us_pron/o/off/off__/off__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/off/off__/off__us_1_rr.ogg
             @office
-            -noun
             -/media/english/uk_pron/o/off/offic/office__gb_2.mp3
             -/media/english/uk_pron_ogg/o/off/offic/office__gb_2.ogg
             -/media/english/us_pron/o/off/offic/office__us_2_rr.mp3
             -/media/english/us_pron_ogg/o/off/offic/office__us_2_rr.ogg
             @often
-            -adverb
             -/media/english/uk_pron/o/oft/often/often__gb_1.mp3
             -/media/english/uk_pron_ogg/o/oft/often/often__gb_1.ogg
             -/media/english/us_pron/o/oft/often/often__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/oft/often/often__us_1_rr.ogg
             @oh
-            -exclamation
             -/media/english/uk_pron/o/owe/owe__/owe__gb_2.mp3
             -/media/english/uk_pron_ogg/o/owe/owe__/owe__gb_2.ogg
             -/media/english/us_pron/o/oh_/oh__u/oh__us_1.mp3
             -/media/english/us_pron_ogg/o/oh_/oh__u/oh__us_1.ogg
             @OK
-            -adjective
             -/media/english/uk_pron/o/ok_/ok__g/ok__gb_1.mp3
             -/media/english/uk_pron_ogg/o/ok_/ok__g/ok__gb_1.ogg
             -/media/english/us_pron/o/ok_/ok__u/ok__us_1.mp3
             -/media/english/us_pron_ogg/o/ok_/ok__u/ok__us_1.ogg
             @old
-            -adjective
             -/media/english/uk_pron/o/old/old__/old__gb_3.mp3
             -/media/english/uk_pron_ogg/o/old/old__/old__gb_3.ogg
             -/media/english/us_pron/o/old/old__/old__us_1.mp3
             -/media/english/us_pron_ogg/o/old/old__/old__us_1.ogg
             @on
-            -adverb
             -/media/english/uk_pron/o/on_/on__g/on__gb_1.mp3
             -/media/english/uk_pron_ogg/o/on_/on__g/on__gb_1.ogg
             -/media/english/us_pron/o/on_/on__u/on__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/on_/on__u/on__us_1_rr.ogg
             @once
-            -adverb
             -/media/english/uk_pron/o/onc/once_/once__gb_1.mp3
             -/media/english/uk_pron_ogg/o/onc/once_/once__gb_1.ogg
             -/media/english/us_pron/o/onc/once_/once__us_1.mp3
             -/media/english/us_pron_ogg/o/onc/once_/once__us_1.ogg
             @one
-            -determiner
             -/media/english/uk_pron/o/one/one__/one__gb_2.mp3
             -/media/english/uk_pron_ogg/o/one/one__/one__gb_2.ogg
             -/media/english/us_pron/o/one/one__/one__us_1.mp3
             -/media/english/us_pron_ogg/o/one/one__/one__us_1.ogg
             @onion
-            -noun
             -/media/english/uk_pron/o/oni/onion/onion__gb_2.mp3
             -/media/english/uk_pron_ogg/o/oni/onion/onion__gb_2.ogg
             -/media/english/us_pron/o/oni/onion/onion__us_1.mp3
             -/media/english/us_pron_ogg/o/oni/onion/onion__us_1.ogg
             @online
-            -adjective
             -/media/english/uk_pron/o/onl/onlin/online__gb_1.mp3
             -/media/english/uk_pron_ogg/o/onl/onlin/online__gb_1.ogg
             -/media/english/us_pron/o/onl/onlin/online__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/onl/onlin/online__us_1_rr.ogg
             @only
-            -adjective
             -/media/english/uk_pron/o/onl/only_/only__gb_1.mp3
             -/media/english/uk_pron_ogg/o/onl/only_/only__gb_1.ogg
             -/media/english/us_pron/o/onl/only_/only__us_2.mp3
             -/media/english/us_pron_ogg/o/onl/only_/only__us_2.ogg
             @open
-            -adjective
             -/media/english/uk_pron/o/ope/open_/open__gb_2.mp3
             -/media/english/uk_pron_ogg/o/ope/open_/open__gb_2.ogg
             -/media/english/us_pron/o/ope/open_/open__us_1.mp3
             -/media/english/us_pron_ogg/o/ope/open_/open__us_1.ogg
             @opinion
-            -noun
             -/media/english/uk_pron/o/opi/opini/opinion__gb_3.mp3
             -/media/english/uk_pron_ogg/o/opi/opini/opinion__gb_3.ogg
             -/media/english/us_pron/o/opi/opini/opinion__us_5.mp3
             -/media/english/us_pron_ogg/o/opi/opini/opinion__us_5.ogg
             @opposite
-            -adjective
             -/media/english/uk_pron/o/opp/oppos/opposite__gb_1.mp3
             -/media/english/uk_pron_ogg/o/opp/oppos/opposite__gb_1.ogg
             -/media/english/us_pron/o/opp/oppos/opposite__us_1.mp3
             -/media/english/us_pron_ogg/o/opp/oppos/opposite__us_1.ogg
             @or
-            -conjunction
             -/media/english/uk_pron/o/or_/or__g/or__gb_1.mp3
             -/media/english/uk_pron_ogg/o/or_/or__g/or__gb_1.ogg
             -/media/english/us_pron/o/or_/or__u/or__us_2_rr.mp3
             -/media/english/us_pron_ogg/o/or_/or__u/or__us_2_rr.ogg
             @orange
-            -adjective
             -/media/english/uk_pron/o/ora/orang/orange__gb_3.mp3
             -/media/english/uk_pron_ogg/o/ora/orang/orange__gb_3.ogg
             -/media/english/us_pron/o/ora/orang/orange__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/ora/orang/orange__us_1_rr.ogg
             @order
-            -noun
             -/media/english/uk_pron/o/ord/order/order__gb_1.mp3
             -/media/english/uk_pron_ogg/o/ord/order/order__gb_1.ogg
             -/media/english/us_pron/o/ord/order/order__us_2.mp3
             -/media/english/us_pron_ogg/o/ord/order/order__us_2.ogg
             @other
-            -adjective
             -/media/english/uk_pron/o/oth/other/other__gb_1.mp3
             -/media/english/uk_pron_ogg/o/oth/other/other__gb_1.ogg
             -/media/english/us_pron/o/oth/other/other__us_2.mp3
             -/media/english/us_pron_ogg/o/oth/other/other__us_2.ogg
             @our
-            -determiner
             -/media/english/uk_pron/o/our/our__/our__gb_1.mp3
             -/media/english/uk_pron_ogg/o/our/our__/our__gb_1.ogg
             -/media/english/us_pron/o/our/our__/our__us_1_rr.mp3
             -/media/english/us_pron_ogg/o/our/our__/our__us_1_rr.ogg
             @out
-            -adverb
             -/media/english/uk_pron/o/out/out__/out__gb_1.mp3
             -/media/english/uk_pron_ogg/o/out/out__/out__gb_1.ogg
             -/media/english/us_pron/o/out/out__/out__us_1.mp3
             -/media/english/us_pron_ogg/o/out/out__/out__us_1.ogg
             @outside
-            -adverb
             -/media/english/uk_pron/o/out/outsi/outside__gb_1.mp3
             -/media/english/uk_pron_ogg/o/out/outsi/outside__gb_1.ogg
             -/media/english/us_pron/o/out/outsi/outside__us_1.mp3
             -/media/english/us_pron_ogg/o/out/outsi/outside__us_1.ogg
             @over
-            -adverb
             -/media/english/uk_pron/o/ove/over_/over__gb_1.mp3
             -/media/english/uk_pron_ogg/o/ove/over_/over__gb_1.ogg
             -/media/english/us_pron/o/ove/over_/over__us_1.mp3
             -/media/english/us_pron_ogg/o/ove/over_/over__us_1.ogg
             @own
-            -adjective
             -/media/english/uk_pron/o/own/own__/own__gb_1.mp3
             -/media/english/uk_pron_ogg/o/own/own__/own__gb_1.ogg
             -/media/english/us_pron/o/own/own__/own__us_1.mp3
             -/media/english/us_pron_ogg/o/own/own__/own__us_1.ogg
             @page
-            -noun
             -/media/english/uk_pron/p/pag/page_/page__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pag/page_/page__gb_1.ogg
             -/media/english/us_pron/p/pag/page_/page__us_1.mp3
             -/media/english/us_pron_ogg/p/pag/page_/page__us_1.ogg
             @paint
-            -noun
             -/media/english/uk_pron/p/pai/paint/paint__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pai/paint/paint__gb_1.ogg
             -/media/english/us_pron/p/pai/paint/paint__us_1.mp3
             -/media/english/us_pron_ogg/p/pai/paint/paint__us_1.ogg
             @painting
-            -noun
             -/media/english/uk_pron/p/pai/paint/painting__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pai/paint/painting__gb_1.ogg
             -/media/english/us_pron/p/pai/paint/painting__us_3.mp3
             -/media/english/us_pron_ogg/p/pai/paint/painting__us_3.ogg
             @pair
-            -noun
             -/media/english/uk_pron/p/pai/pair_/pair__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pai/pair_/pair__gb_1.ogg
             -/media/english/us_pron/p/pai/pair_/pair__us_1.mp3
             -/media/english/us_pron_ogg/p/pai/pair_/pair__us_1.ogg
             @paper
-            -noun
             -/media/english/uk_pron/p/pap/paper/paper__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pap/paper/paper__gb_1.ogg
             -/media/english/us_pron/p/pap/paper/paper__us_3.mp3
             -/media/english/us_pron_ogg/p/pap/paper/paper__us_3.ogg
             @paragraph
-            -noun
             -/media/english/uk_pron/p/par/parag/paragraph__gb_3.mp3
             -/media/english/uk_pron_ogg/p/par/parag/paragraph__gb_3.ogg
             -/media/english/us_pron/p/par/parag/paragraph__us_1.mp3
             -/media/english/us_pron_ogg/p/par/parag/paragraph__us_1.ogg
             @parent
-            -noun
             -/media/english/uk_pron/p/par/paren/parent__gb_1.mp3
             -/media/english/uk_pron_ogg/p/par/paren/parent__gb_1.ogg
             -/media/english/us_pron/p/par/paren/parent__us_1.mp3
             -/media/english/us_pron_ogg/p/par/paren/parent__us_1.ogg
             @park
-            -noun
             -/media/english/uk_pron/p/par/park_/park__gb_1.mp3
             -/media/english/uk_pron_ogg/p/par/park_/park__gb_1.ogg
             -/media/english/us_pron/p/par/park_/park__us_1.mp3
             -/media/english/us_pron_ogg/p/par/park_/park__us_1.ogg
             @part
-            -noun
             -/media/english/uk_pron/p/par/part_/part__gb_1.mp3
             -/media/english/uk_pron_ogg/p/par/part_/part__gb_1.ogg
             -/media/english/us_pron/p/par/part_/part__us_1.mp3
             -/media/english/us_pron_ogg/p/par/part_/part__us_1.ogg
             @partner
-            -noun
             -/media/english/uk_pron/p/par/partn/partner__gb_2.mp3
             -/media/english/uk_pron_ogg/p/par/partn/partner__gb_2.ogg
             -/media/english/us_pron/p/par/partn/partner__us_1.mp3
             -/media/english/us_pron_ogg/p/par/partn/partner__us_1.ogg
             @party
-            -noun
             -/media/english/uk_pron/p/par/party/party__gb_2.mp3
             -/media/english/uk_pron_ogg/p/par/party/party__gb_2.ogg
             -/media/english/us_pron/p/par/party/party__us_1.mp3
             -/media/english/us_pron_ogg/p/par/party/party__us_1.ogg
             @passport
-            -noun
             -/media/english/uk_pron/p/pas/passp/passport__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pas/passp/passport__gb_1.ogg
             -/media/english/us_pron/p/pas/passp/passport__us_1.mp3
             -/media/english/us_pron_ogg/p/pas/passp/passport__us_1.ogg
             @past
-            -adjective
             -/media/english/uk_pron/p/pas/past_/past__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pas/past_/past__gb_1.ogg
             -/media/english/us_pron/p/pas/past_/past__us_1.mp3
             -/media/english/us_pron_ogg/p/pas/past_/past__us_1.ogg
             @pay
-            -verb
             -/media/english/uk_pron/p/pay/pay__/pay__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pay/pay__/pay__gb_1.ogg
             -/media/english/us_pron/p/pay/pay__/pay__us_1.mp3
             -/media/english/us_pron_ogg/p/pay/pay__/pay__us_1.ogg
             @pen
-            -noun
             -/media/english/uk_pron/p/pen/pen__/pen__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pen/pen__/pen__gb_2.ogg
             -/media/english/us_pron/p/pen/pen__/pen__us_1.mp3
             -/media/english/us_pron_ogg/p/pen/pen__/pen__us_1.ogg
             @pencil
-            -noun
             -/media/english/uk_pron/p/pen/penci/pencil__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pen/penci/pencil__gb_1.ogg
             -/media/english/us_pron/p/pen/penci/pencil__us_1.mp3
             -/media/english/us_pron_ogg/p/pen/penci/pencil__us_1.ogg
             @people
-            -noun
             -/media/english/uk_pron/p/peo/peopl/people__gb_4.mp3
             -/media/english/uk_pron_ogg/p/peo/peopl/people__gb_4.ogg
             -/media/english/us_pron/p/peo/peopl/people__us_4.mp3
             -/media/english/us_pron_ogg/p/peo/peopl/people__us_4.ogg
             @pepper
-            -noun
             -/media/english/uk_pron/p/pep/peppe/pepper__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pep/peppe/pepper__gb_2.ogg
             -/media/english/us_pron/p/pep/peppe/pepper__us_2.mp3
             -/media/english/us_pron_ogg/p/pep/peppe/pepper__us_2.ogg
             @perfect
-            -adjective
             -/media/english/uk_pron/p/per/perfe/perfect__gb_1.mp3
             -/media/english/uk_pron_ogg/p/per/perfe/perfect__gb_1.ogg
             -/media/english/us_pron/p/per/perfe/perfect__us_1.mp3
             -/media/english/us_pron_ogg/p/per/perfe/perfect__us_1.ogg
             @period
-            -noun
             -/media/english/uk_pron/p/per/perio/period__gb_2.mp3
             -/media/english/uk_pron_ogg/p/per/perio/period__gb_2.ogg
             -/media/english/us_pron/p/per/perio/period__us_2.mp3
             -/media/english/us_pron_ogg/p/per/perio/period__us_2.ogg
             @person
-            -noun
             -/media/english/uk_pron/p/per/perso/person__gb_2.mp3
             -/media/english/uk_pron_ogg/p/per/perso/person__gb_2.ogg
             -/media/english/us_pron/p/per/perso/person__us_2.mp3
             -/media/english/us_pron_ogg/p/per/perso/person__us_2.ogg
             @personal
-            -adjective
             -/media/english/uk_pron/p/per/perso/personal__gb_1.mp3
             -/media/english/uk_pron_ogg/p/per/perso/personal__gb_1.ogg
             -/media/english/us_pron/p/per/perso/personal__us_4.mp3
             -/media/english/us_pron_ogg/p/per/perso/personal__us_4.ogg
             @phone
-            -noun
             -/media/english/uk_pron/p/pho/phone/phone__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pho/phone/phone__gb_2.ogg
             -/media/english/us_pron/p/pho/phone/phone__us_1.mp3
             -/media/english/us_pron_ogg/p/pho/phone/phone__us_1.ogg
             @photo
-            -noun
             -/media/english/uk_pron/p/pho/photo/photo__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pho/photo/photo__gb_2.ogg
             -/media/english/us_pron/p/pho/photo/photo__us_1.mp3
             -/media/english/us_pron_ogg/p/pho/photo/photo__us_1.ogg
             @photograph
-            -noun
             -/media/english/uk_pron/p/pho/photo/photograph__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pho/photo/photograph__gb_1.ogg
             -/media/english/us_pron/p/pho/photo/photograph__us_2.mp3
             -/media/english/us_pron_ogg/p/pho/photo/photograph__us_2.ogg
             @phrase
-            -noun
             -/media/english/uk_pron/p/phr/phras/phrase__gb_1.mp3
             -/media/english/uk_pron_ogg/p/phr/phras/phrase__gb_1.ogg
             -/media/english/us_pron/p/phr/phras/phrase__us_1.mp3
             -/media/english/us_pron_ogg/p/phr/phras/phrase__us_1.ogg
             @piano
-            -noun
             -/media/english/uk_pron/p/pia/piano/piano__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pia/piano/piano__gb_3.ogg
             -/media/english/us_pron/p/pia/piano/piano__us_1.mp3
             -/media/english/us_pron_ogg/p/pia/piano/piano__us_1.ogg
             @picture
-            -noun
             -/media/english/uk_pron/p/pic/pictu/picture__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pic/pictu/picture__gb_1.ogg
             -/media/english/us_pron/p/pic/pictu/picture__us_2.mp3
             -/media/english/us_pron_ogg/p/pic/pictu/picture__us_2.ogg
             @piece
-            -noun
             -/media/english/uk_pron/p/pie/piece/piece__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pie/piece/piece__gb_1.ogg
             -/media/english/us_pron/p/pie/piece/piece__us_1.mp3
             -/media/english/us_pron_ogg/p/pie/piece/piece__us_1.ogg
             @pig
-            -noun
             -/media/english/uk_pron/p/pig/pig__/pig__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pig/pig__/pig__gb_1.ogg
             -/media/english/us_pron/p/pig/pig__/pig__us_1.mp3
             -/media/english/us_pron_ogg/p/pig/pig__/pig__us_1.ogg
             @pink
-            -adjective
             -/media/english/uk_pron/p/pin/pink_/pink_1_gb_1.mp3
             -/media/english/uk_pron_ogg/p/pin/pink_/pink_1_gb_1.ogg
             -/media/english/us_pron/p/pin/pink_/pink__us_1.mp3
             -/media/english/us_pron_ogg/p/pin/pink_/pink__us_1.ogg
             @place
-            -noun
             -/media/english/uk_pron/p/pla/place/place__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pla/place/place__gb_1.ogg
             -/media/english/us_pron/p/pla/place/place__us_1.mp3
             -/media/english/us_pron_ogg/p/pla/place/place__us_1.ogg
             @plan
-            -noun
             -/media/english/uk_pron/p/pla/plan_/plan__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pla/plan_/plan__gb_2.ogg
             -/media/english/us_pron/p/pla/plan_/plan__us_1.mp3
             -/media/english/us_pron_ogg/p/pla/plan_/plan__us_1.ogg
             @plane
-            -noun
             -/media/english/uk_pron/p/pla/plane/plane__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pla/plane/plane__gb_3.ogg
             -/media/english/us_pron/p/pla/plane/plane__us_1.mp3
             -/media/english/us_pron_ogg/p/pla/plane/plane__us_1.ogg
             @plant
-            -noun
             -/media/english/uk_pron/p/pla/plant/plant__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pla/plant/plant__gb_3.ogg
             -/media/english/us_pron/p/pla/plant/plant__us_1.mp3
             -/media/english/us_pron_ogg/p/pla/plant/plant__us_1.ogg
             @play
-            -noun
             -/media/english/uk_pron/p/pla/play_/play__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pla/play_/play__gb_1.ogg
             -/media/english/us_pron/p/pla/play_/play__us_1.mp3
             -/media/english/us_pron_ogg/p/pla/play_/play__us_1.ogg
             @player
-            -noun
             -/media/english/uk_pron/p/pla/playe/player__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pla/playe/player__gb_1.ogg
             -/media/english/us_pron/p/pla/playe/player__us_2.mp3
             -/media/english/us_pron_ogg/p/pla/playe/player__us_2.ogg
             @please
-            -exclamation
             -/media/english/uk_pron/p/ple/pleas/please__gb_2.mp3
             -/media/english/uk_pron_ogg/p/ple/pleas/please__gb_2.ogg
             -/media/english/us_pron/p/ple/pleas/please__us_2.mp3
             -/media/english/us_pron_ogg/p/ple/pleas/please__us_2.ogg
             @point
-            -noun
             -/media/english/uk_pron/p/poi/point/point__gb_1.mp3
             -/media/english/uk_pron_ogg/p/poi/point/point__gb_1.ogg
             -/media/english/us_pron/p/poi/point/point__us_1.mp3
             -/media/english/us_pron_ogg/p/poi/point/point__us_1.ogg
             @police
-            -noun
             -/media/english/uk_pron/p/pol/polic/police__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pol/polic/police__gb_1.ogg
             -/media/english/us_pron/p/pol/polic/police__us_1.mp3
             -/media/english/us_pron_ogg/p/pol/polic/police__us_1.ogg
             @policeman
-            -noun
             -/media/english/uk_pron/p/pol/polic/policeman__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pol/polic/policeman__gb_1.ogg
             -/media/english/us_pron/p/pol/polic/policeman__us_1.mp3
             -/media/english/us_pron_ogg/p/pol/polic/policeman__us_1.ogg
             @pool
-            -noun
             -/media/english/uk_pron/p/poo/pool_/pool__gb_3.mp3
             -/media/english/uk_pron_ogg/p/poo/pool_/pool__gb_3.ogg
             -/media/english/us_pron/p/poo/pool_/pool__us_1.mp3
             -/media/english/us_pron_ogg/p/poo/pool_/pool__us_1.ogg
             @poor
-            -adjective
             -/media/english/uk_pron/p/poo/poor_/poor__gb_1.mp3
             -/media/english/uk_pron_ogg/p/poo/poor_/poor__gb_1.ogg
             -/media/english/us_pron/p/poo/poor_/poor__us_1_rr.mp3
             -/media/english/us_pron_ogg/p/poo/poor_/poor__us_1_rr.ogg
             @popular
-            -adjective
             -/media/english/uk_pron/p/pop/popul/popular__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pop/popul/popular__gb_3.ogg
             -/media/english/us_pron/p/pop/popul/popular__us_1.mp3
             -/media/english/us_pron_ogg/p/pop/popul/popular__us_1.ogg
             @positive
-            -adjective
             -/media/english/uk_pron/p/pos/posit/positive__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pos/posit/positive__gb_3.ogg
             -/media/english/us_pron/p/pos/posit/positive__us_2.mp3
             -/media/english/us_pron_ogg/p/pos/posit/positive__us_2.ogg
             @possible
-            -adjective
             -/media/english/uk_pron/p/pos/possi/possible__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pos/possi/possible__gb_3.ogg
             -/media/english/us_pron/p/pos/possi/possible__us_1.mp3
             -/media/english/us_pron_ogg/p/pos/possi/possible__us_1.ogg
             @post
-            -noun
             -/media/english/uk_pron/p/pos/post_/post__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pos/post_/post__gb_1.ogg
             -/media/english/us_pron/p/pos/post_/post__us_1.mp3
             -/media/english/us_pron_ogg/p/pos/post_/post__us_1.ogg
             @potato
-            -noun
             -/media/english/uk_pron/p/pot/potat/potato__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pot/potat/potato__gb_2.ogg
             -/media/english/us_pron/p/pot/potat/potato__us_2_rr.mp3
             -/media/english/us_pron_ogg/p/pot/potat/potato__us_2_rr.ogg
             @pound
-            -noun
             -/media/english/uk_pron/p/pou/pound/pound__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pou/pound/pound__gb_1.ogg
             -/media/english/us_pron/p/pou/pound/pound__us_1.mp3
             -/media/english/us_pron_ogg/p/pou/pound/pound__us_1.ogg
             @practice
-            -noun
             -/media/english/uk_pron/p/pra/pract/practice__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pra/pract/practice__gb_2.ogg
             -/media/english/us_pron/p/pra/pract/practice__us_2.mp3
             -/media/english/us_pron_ogg/p/pra/pract/practice__us_2.ogg
             @practise
-            -verb
             -/media/english/uk_pron/p/pra/pract/practice__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pra/pract/practice__gb_2.ogg
             -/media/english/us_pron/p/pra/pract/practise__us_1.mp3
             -/media/english/us_pron_ogg/p/pra/pract/practise__us_1.ogg
             @prefer
-            -verb
             -/media/english/uk_pron/p/pre/prefe/prefer__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pre/prefe/prefer__gb_1.ogg
             -/media/english/us_pron/p/pre/prefe/prefer__us_3.mp3
             -/media/english/us_pron_ogg/p/pre/prefe/prefer__us_3.ogg
             @prepare
-            -verb
             -/media/english/uk_pron/p/pre/prepa/prepare__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pre/prepa/prepare__gb_1.ogg
             -/media/english/us_pron/p/pre/prepa/prepare__us_4.mp3
             -/media/english/us_pron_ogg/p/pre/prepa/prepare__us_4.ogg
             @present
-            -adjective
             -/media/english/uk_pron/p/pre/prese/present__gb_4.mp3
             -/media/english/uk_pron_ogg/p/pre/prese/present__gb_4.ogg
             -/media/english/us_pron/p/pre/prese/present__us_1.mp3
             -/media/english/us_pron_ogg/p/pre/prese/present__us_1.ogg
             @pretty
-            -adjective
             -/media/english/uk_pron/p/pre/prett/pretty__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pre/prett/pretty__gb_1.ogg
             -/media/english/us_pron/p/pre/prett/pretty__us_3.mp3
             -/media/english/us_pron_ogg/p/pre/prett/pretty__us_3.ogg
             @price
-            -noun
             -/media/english/uk_pron/p/pri/price/price__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pri/price/price__gb_1.ogg
             -/media/english/us_pron/p/pri/price/price__us_1.mp3
             -/media/english/us_pron_ogg/p/pri/price/price__us_1.ogg
             @probably
-            -adverb
             -/media/english/uk_pron/p/pro/proba/probably__gb_1.mp3
             -/media/english/uk_pron_ogg/p/pro/proba/probably__gb_1.ogg
             -/media/english/us_pron/p/pro/proba/probably__us_1.mp3
             -/media/english/us_pron_ogg/p/pro/proba/probably__us_1.ogg
             @problem
-            -noun
             -/media/english/uk_pron/p/pro/probl/problem__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pro/probl/problem__gb_2.ogg
             -/media/english/us_pron/p/pro/probl/problem__us_1.mp3
             -/media/english/us_pron_ogg/p/pro/probl/problem__us_1.ogg
             @product
-            -noun
             -/media/english/uk_pron/p/pro/produ/product__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pro/produ/product__gb_2.ogg
             -/media/english/us_pron/p/pro/produ/product__us_1.mp3
             -/media/english/us_pron_ogg/p/pro/produ/product__us_1.ogg
             @programme
-            -noun
             -/media/english/uk_pron/p/pro/progr/programme__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pro/progr/programme__gb_2.ogg
             -/media/english/us_pron/p/pro/progr/programme__us_1.mp3
             -/media/english/us_pron_ogg/p/pro/progr/programme__us_1.ogg
             @project
-            -noun
             -/media/english/uk_pron/p/pro/proje/project__gb_3.mp3
             -/media/english/uk_pron_ogg/p/pro/proje/project__gb_3.ogg
             -/media/english/us_pron/p/pro/proje/project__us_1_rr.mp3
             -/media/english/us_pron_ogg/p/pro/proje/project__us_1_rr.ogg
             @purple
-            -adjective
             -/media/english/uk_pron/p/pur/purpl/purple__gb_2.mp3
             -/media/english/uk_pron_ogg/p/pur/purpl/purple__gb_2.ogg
             -/media/english/us_pron/p/pur/purpl/purple__us_2.mp3
             -/media/english/us_pron_ogg/p/pur/purpl/purple__us_2.ogg
             @put
-            -verb
             -/media/english/uk_pron/p/put/put__/put__gb_1.mp3
             -/media/english/uk_pron_ogg/p/put/put__/put__gb_1.ogg
             -/media/english/us_pron/p/put/put__/put__us_1.mp3
             -/media/english/us_pron_ogg/p/put/put__/put__us_1.ogg
             @quarter
-            -noun
             -/media/english/uk_pron/q/qua/quart/quarter__gb_1.mp3
             -/media/english/uk_pron_ogg/q/qua/quart/quarter__gb_1.ogg
             -/media/english/us_pron/q/qua/quart/quarter__us_3.mp3
             -/media/english/us_pron_ogg/q/qua/quart/quarter__us_3.ogg
             @question
-            -noun
             -/media/english/uk_pron/q/que/quest/question__gb_2.mp3
             -/media/english/uk_pron_ogg/q/que/quest/question__gb_2.ogg
             -/media/english/us_pron/q/que/quest/question__us_4.mp3
             -/media/english/us_pron_ogg/q/que/quest/question__us_4.ogg
             @quick
-            -adjective
             -/media/english/uk_pron/q/qui/quick/quick__gb_1.mp3
             -/media/english/uk_pron_ogg/q/qui/quick/quick__gb_1.ogg
             -/media/english/us_pron/q/qui/quick/quick__us_1.mp3
             -/media/english/us_pron_ogg/q/qui/quick/quick__us_1.ogg
             @quickly
-            -adverb
             -/media/english/uk_pron/q/qui/quick/quickly__gb_1.mp3
             -/media/english/uk_pron_ogg/q/qui/quick/quickly__gb_1.ogg
             -/media/english/us_pron/q/qui/quick/quickly__us_3.mp3
             -/media/english/us_pron_ogg/q/qui/quick/quickly__us_3.ogg
             @quiet
-            -adjective
             -/media/english/uk_pron/q/qui/quiet/quiet__gb_2.mp3
             -/media/english/uk_pron_ogg/q/qui/quiet/quiet__gb_2.ogg
             -/media/english/us_pron/q/qui/quiet/quiet__us_1.mp3
             -/media/english/us_pron_ogg/q/qui/quiet/quiet__us_1.ogg
             @quite
-            -adverb
             -/media/english/uk_pron/q/qui/quite/quite__gb_1.mp3
             -/media/english/uk_pron_ogg/q/qui/quite/quite__gb_1.ogg
             -/media/english/us_pron/q/qui/quite/quite__us_1.mp3
             -/media/english/us_pron_ogg/q/qui/quite/quite__us_1.ogg
             @radio
-            -noun
             -/media/english/uk_pron/r/rad/radio/radio__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rad/radio/radio__gb_2.ogg
             -/media/english/us_pron/r/rad/radio/radio__us_2.mp3
             -/media/english/us_pron_ogg/r/rad/radio/radio__us_2.ogg
             @rain
-            -noun
             -/media/english/uk_pron/r/rai/rain_/rain__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rai/rain_/rain__gb_2.ogg
             -/media/english/us_pron/r/rai/rain_/rain__us_1.mp3
             -/media/english/us_pron_ogg/r/rai/rain_/rain__us_1.ogg
             @read
-            -verb
             -/media/english/uk_pron/r/rea/read_/read__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rea/read_/read__gb_1.ogg
             -/media/english/us_pron/r/rea/read_/read__us_1.mp3
             -/media/english/us_pron_ogg/r/rea/read_/read__us_1.ogg
             @reader
-            -noun
             -/media/english/uk_pron/r/rea/reade/reader__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rea/reade/reader__gb_1.ogg
             -/media/english/us_pron/r/rea/reade/reader__us_1.mp3
             -/media/english/us_pron_ogg/r/rea/reade/reader__us_1.ogg
             @reading
-            -noun
             -/media/english/uk_pron/r/rea/readi/reading__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rea/readi/reading__gb_1.ogg
             -/media/english/us_pron/r/rea/readi/reading__us_1.mp3
             -/media/english/us_pron_ogg/r/rea/readi/reading__us_1.ogg
             @ready
-            -adjective
             -/media/english/uk_pron/r/rea/ready/ready__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rea/ready/ready__gb_1.ogg
             -/media/english/us_pron/r/rea/ready/ready__us_1.mp3
             -/media/english/us_pron_ogg/r/rea/ready/ready__us_1.ogg
             @real
-            -adjective
             -/media/english/uk_pron/r/rea/real_/real__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rea/real_/real__gb_2.ogg
             -/media/english/us_pron/r/rea/real_/real__us_2_rr.mp3
             -/media/english/us_pron_ogg/r/rea/real_/real__us_2_rr.ogg
             @really
-            -adverb
             -/media/english/uk_pron/r/rea/reall/really__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rea/reall/really__gb_1.ogg
             -/media/english/us_pron/r/rea/reall/really__us_3_rr.mp3
             -/media/english/us_pron_ogg/r/rea/reall/really__us_3_rr.ogg
             @reason
-            -noun
             -/media/english/uk_pron/r/rea/reaso/reason__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rea/reaso/reason__gb_2.ogg
             -/media/english/us_pron/r/rea/reaso/reason__us_4.mp3
             -/media/english/us_pron_ogg/r/rea/reaso/reason__us_4.ogg
             @red
-            -adjective
             -/media/english/uk_pron/r/red/red__/red__gb_1.mp3
             -/media/english/uk_pron_ogg/r/red/red__/red__gb_1.ogg
             -/media/english/us_pron/r/red/red__/red__us_1.mp3
             -/media/english/us_pron_ogg/r/red/red__/red__us_1.ogg
             @relax
-            -verb
             -/media/english/uk_pron/r/rel/relax/relax__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rel/relax/relax__gb_1.ogg
             -/media/english/us_pron/r/rel/relax/relax__us_1.mp3
             -/media/english/us_pron_ogg/r/rel/relax/relax__us_1.ogg
             @remember
-            -verb
             -/media/english/uk_pron/r/rem/remem/remember__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rem/remem/remember__gb_1.ogg
             -/media/english/us_pron/r/rem/remem/remember__us_1.mp3
             -/media/english/us_pron_ogg/r/rem/remem/remember__us_1.ogg
             @repeat
-            -verb
             -/media/english/uk_pron/r/rep/repea/repeat__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rep/repea/repeat__gb_2.ogg
             -/media/english/us_pron/r/rep/repea/repeat__us_1.mp3
             -/media/english/us_pron_ogg/r/rep/repea/repeat__us_1.ogg
             @report
-            -noun
             -/media/english/uk_pron/r/rep/repor/report__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rep/repor/report__gb_2.ogg
             -/media/english/us_pron/r/rep/repor/report__us_1.mp3
             -/media/english/us_pron_ogg/r/rep/repor/report__us_1.ogg
             @restaurant
-            -noun
             -/media/english/uk_pron/r/res/resta/restaurant__gb_3.mp3
             -/media/english/uk_pron_ogg/r/res/resta/restaurant__gb_3.ogg
             -/media/english/us_pron/r/res/resta/restaurant__us_2_rr.mp3
             -/media/english/us_pron_ogg/r/res/resta/restaurant__us_2_rr.ogg
             @result
-            -noun
             -/media/english/uk_pron/r/res/resul/result__gb_3.mp3
             -/media/english/uk_pron_ogg/r/res/resul/result__gb_3.ogg
             -/media/english/us_pron/r/res/resul/result__us_1.mp3
             -/media/english/us_pron_ogg/r/res/resul/result__us_1.ogg
             @return
-            -noun
             -/media/english/uk_pron/r/ret/retur/return__gb_1.mp3
             -/media/english/uk_pron_ogg/r/ret/retur/return__gb_1.ogg
             -/media/english/us_pron/r/ret/retur/return__us_2.mp3
             -/media/english/us_pron_ogg/r/ret/retur/return__us_2.ogg
             @rice
-            -noun
             -/media/english/uk_pron/r/ric/rice_/rice__gb_2.mp3
             -/media/english/uk_pron_ogg/r/ric/rice_/rice__gb_2.ogg
             -/media/english/us_pron/r/ric/rice_/rice__us_1.mp3
             -/media/english/us_pron_ogg/r/ric/rice_/rice__us_1.ogg
             @rich
-            -adjective
             -/media/english/uk_pron/r/ric/rich_/rich__gb_2.mp3
             -/media/english/uk_pron_ogg/r/ric/rich_/rich__gb_2.ogg
             -/media/english/us_pron/r/ric/rich_/rich__us_1.mp3
             -/media/english/us_pron_ogg/r/ric/rich_/rich__us_1.ogg
             @ride
-            -verb
             -/media/english/uk_pron/r/rid/ride_/ride__gb_2.mp3
             -/media/english/uk_pron_ogg/r/rid/ride_/ride__gb_2.ogg
             -/media/english/us_pron/r/rid/ride_/ride__us_1.mp3
             -/media/english/us_pron_ogg/r/rid/ride_/ride__us_1.ogg
             @right
-            -adjective
             -/media/english/uk_pron/r/rig/right/right__gb_4.mp3
             -/media/english/uk_pron_ogg/r/rig/right/right__gb_4.ogg
             -/media/english/us_pron/r/rig/right/right__us_1.mp3
             -/media/english/us_pron_ogg/r/rig/right/right__us_1.ogg
             @river
-            -noun
             -/media/english/uk_pron/r/riv/river/river__gb_1.mp3
             -/media/english/uk_pron_ogg/r/riv/river/river__gb_1.ogg
             -/media/english/us_pron/r/riv/river/river__us_3.mp3
             -/media/english/us_pron_ogg/r/riv/river/river__us_3.ogg
             @road
-            -noun
             -/media/english/uk_pron/r/roa/road_/road__gb_1.mp3
             -/media/english/uk_pron_ogg/r/roa/road_/road__gb_1.ogg
             -/media/english/us_pron/r/roa/road_/road__us_1.mp3
             -/media/english/us_pron_ogg/r/roa/road_/road__us_1.ogg
             @room
-            -noun
             -/media/english/uk_pron/r/roo/room_/room__gb_3.mp3
             -/media/english/uk_pron_ogg/r/roo/room_/room__gb_3.ogg
             -/media/english/us_pron/r/roo/room_/room__us_1_rr.mp3
             -/media/english/us_pron_ogg/r/roo/room_/room__us_1_rr.ogg
             @routine
-            -noun
             -/media/english/uk_pron/r/rou/routi/routine__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rou/routi/routine__gb_1.ogg
             -/media/english/us_pron/r/rou/routi/routine__us_1.mp3
             -/media/english/us_pron_ogg/r/rou/routi/routine__us_1.ogg
             @rule
-            -noun
             -/media/english/uk_pron/r/rul/rule_/rule__gb_1.mp3
             -/media/english/uk_pron_ogg/r/rul/rule_/rule__gb_1.ogg
             -/media/english/us_pron/r/rul/rule_/rule__us_1.mp3
             -/media/english/us_pron_ogg/r/rul/rule_/rule__us_1.ogg
             @run
-            -verb
             -/media/english/uk_pron/r/run/run__/run__gb_1.mp3
             -/media/english/uk_pron_ogg/r/run/run__/run__gb_1.ogg
             -/media/english/us_pron/r/run/run__/run__us_1.mp3
             -/media/english/us_pron_ogg/r/run/run__/run__us_1.ogg
             @sad
-            -adjective
             -/media/english/uk_pron/s/sad/sad__/sad__gb_3.mp3
             -/media/english/uk_pron_ogg/s/sad/sad__/sad__gb_3.ogg
             -/media/english/us_pron/s/sad/sad__/sad__us_2.mp3
             -/media/english/us_pron_ogg/s/sad/sad__/sad__us_2.ogg
             @salad
-            -noun
             -/media/english/uk_pron/s/sal/salad/salad__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sal/salad/salad__gb_2.ogg
             -/media/english/us_pron/s/sal/salad/salad__us_2.mp3
             -/media/english/us_pron_ogg/s/sal/salad/salad__us_2.ogg
             @salt
-            -noun
             -/media/english/uk_pron/s/sal/salt_/salt__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sal/salt_/salt__gb_1.ogg
             -/media/english/us_pron/s/sal/salt_/salt__us_1.mp3
             -/media/english/us_pron_ogg/s/sal/salt_/salt__us_1.ogg
             @same
-            -adjective
             -/media/english/uk_pron/s/sam/same_/same__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sam/same_/same__gb_1.ogg
             -/media/english/us_pron/s/sam/same_/same__us_1.mp3
             -/media/english/us_pron_ogg/s/sam/same_/same__us_1.ogg
             @sandwich
-            -noun
             -/media/english/uk_pron/s/san/sandw/sandwich__gb_8.mp3
             -/media/english/uk_pron_ogg/s/san/sandw/sandwich__gb_8.ogg
             -/media/english/us_pron/s/san/sandw/sandwich__us_1_rr.mp3
             -/media/english/us_pron_ogg/s/san/sandw/sandwich__us_1_rr.ogg
             @Saturday
-            -noun
             -/media/english/uk_pron/s/sat/satur/saturday_1_gb_1.mp3
             -/media/english/uk_pron_ogg/s/sat/satur/saturday_1_gb_1.ogg
             -/media/english/us_pron/s/sat/satur/saturday__us_1_rr.mp3
             -/media/english/us_pron_ogg/s/sat/satur/saturday__us_1_rr.ogg
             @say
-            -verb
             -/media/english/uk_pron/s/say/say__/say__gb_1.mp3
             -/media/english/uk_pron_ogg/s/say/say__/say__gb_1.ogg
             -/media/english/us_pron/s/say/say__/say__us_1.mp3
             -/media/english/us_pron_ogg/s/say/say__/say__us_1.ogg
             @school
-            -noun
             -/media/english/uk_pron/s/sch/schoo/school__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sch/schoo/school__gb_1.ogg
             -/media/english/us_pron/s/sch/schoo/school__us_1.mp3
             -/media/english/us_pron_ogg/s/sch/schoo/school__us_1.ogg
             @science
-            -noun
             -/media/english/uk_pron/s/sci/scien/science__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sci/scien/science__gb_2.ogg
             -/media/english/us_pron/s/sci/scien/science__us_2.mp3
             -/media/english/us_pron_ogg/s/sci/scien/science__us_2.ogg
             @scientist
-            -noun
             -/media/english/uk_pron/s/sci/scien/scientist__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sci/scien/scientist__gb_2.ogg
             -/media/english/us_pron/s/sci/scien/scientist__us_1.mp3
             -/media/english/us_pron_ogg/s/sci/scien/scientist__us_1.ogg
             @sea
-            -noun
             -/media/english/uk_pron/s/sea/sea__/sea__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sea/sea__/sea__gb_1.ogg
             -/media/english/us_pron/s/sea/sea__/sea__us_1.mp3
             -/media/english/us_pron_ogg/s/sea/sea__/sea__us_1.ogg
             @second
-            -determiner
             -/media/english/uk_pron/s/sec/secon/second__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sec/secon/second__gb_1.ogg
             -/media/english/us_pron/s/sec/secon/second__us_3.mp3
             -/media/english/us_pron_ogg/s/sec/secon/second__us_3.ogg
             @section
-            -noun
             -/media/english/uk_pron/s/sec/secti/section__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sec/secti/section__gb_2.ogg
             -/media/english/us_pron/s/sec/secti/section__us_2.mp3
             -/media/english/us_pron_ogg/s/sec/secti/section__us_2.ogg
             @see
-            -verb
             -/media/english/uk_pron/s/see/see__/see__gb_1.mp3
             -/media/english/uk_pron_ogg/s/see/see__/see__gb_1.ogg
             -/media/english/us_pron/s/see/see__/see__us_1.mp3
             -/media/english/us_pron_ogg/s/see/see__/see__us_1.ogg
             @sell
-            -verb
             -/media/english/uk_pron/s/sel/sell_/sell__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sel/sell_/sell__gb_1.ogg
             -/media/english/us_pron/s/sel/sell_/sell__us_1.mp3
             -/media/english/us_pron_ogg/s/sel/sell_/sell__us_1.ogg
             @send
-            -verb
             -/media/english/uk_pron/s/sen/send_/send__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sen/send_/send__gb_1.ogg
             -/media/english/us_pron/s/sen/send_/send__us_1.mp3
             -/media/english/us_pron_ogg/s/sen/send_/send__us_1.ogg
             @sentence
-            -noun
             -/media/english/uk_pron/s/sen/sente/sentence__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sen/sente/sentence__gb_2.ogg
             -/media/english/us_pron/s/sen/sente/sentence__us_2.mp3
             -/media/english/us_pron_ogg/s/sen/sente/sentence__us_2.ogg
             @September
-            -noun
             -/media/english/uk_pron/s/sep/septe/september_1_gb_1.mp3
             -/media/english/uk_pron_ogg/s/sep/septe/september_1_gb_1.ogg
             -/media/english/us_pron/s/sep/septe/september__us_2.mp3
             -/media/english/us_pron_ogg/s/sep/septe/september__us_2.ogg
             @seven
-            -number
             -/media/english/uk_pron/s/sev/seven/seven__gb_3.mp3
             -/media/english/uk_pron_ogg/s/sev/seven/seven__gb_3.ogg
             -/media/english/us_pron/s/sev/seven/seven__us_1.mp3
             -/media/english/us_pron_ogg/s/sev/seven/seven__us_1.ogg
             @seventeen
-            -number
             -/media/english/uk_pron/s/sev/seven/seventeen__gb_3.mp3
             -/media/english/uk_pron_ogg/s/sev/seven/seventeen__gb_3.ogg
             -/media/english/us_pron/s/sev/seven/seventeen__us_3.mp3
             -/media/english/us_pron_ogg/s/sev/seven/seventeen__us_3.ogg
             @seventy
-            -number
             -/media/english/uk_pron/s/sev/seven/seventy__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sev/seven/seventy__gb_2.ogg
             -/media/english/us_pron/s/sev/seven/seventy__us_3.mp3
             -/media/english/us_pron_ogg/s/sev/seven/seventy__us_3.ogg
             @share
-            -verb
             -/media/english/uk_pron/s/sha/share/share__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sha/share/share__gb_1.ogg
             -/media/english/us_pron/s/sha/share/share__us_1.mp3
             -/media/english/us_pron_ogg/s/sha/share/share__us_1.ogg
             @she
-            -pronoun
             -/media/english/uk_pron/s/she/she__/she__gb_1.mp3
             -/media/english/uk_pron_ogg/s/she/she__/she__gb_1.ogg
             -/media/english/us_pron/s/she/she__/she__us_1.mp3
             -/media/english/us_pron_ogg/s/she/she__/she__us_1.ogg
             @sheep
-            -noun
             -/media/english/uk_pron/s/she/sheep/sheep__gb_2.mp3
             -/media/english/uk_pron_ogg/s/she/sheep/sheep__gb_2.ogg
             -/media/english/us_pron/s/she/sheep/sheep__us_1.mp3
             -/media/english/us_pron_ogg/s/she/sheep/sheep__us_1.ogg
             @shirt
-            -noun
             -/media/english/uk_pron/s/shi/shirt/shirt__gb_2.mp3
             -/media/english/uk_pron_ogg/s/shi/shirt/shirt__gb_2.ogg
             -/media/english/us_pron/s/shi/shirt/shirt__us_1.mp3
             -/media/english/us_pron_ogg/s/shi/shirt/shirt__us_1.ogg
             @shoe
-            -noun
             -/media/english/uk_pron/s/sho/shoe_/shoe__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sho/shoe_/shoe__gb_2.ogg
             -/media/english/us_pron/s/sho/shoe_/shoe__us_1.mp3
             -/media/english/us_pron_ogg/s/sho/shoe_/shoe__us_1.ogg
             @shop
-            -noun
             -/media/english/uk_pron/s/sho/shop_/shop__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sho/shop_/shop__gb_2.ogg
             -/media/english/us_pron/s/sho/shop_/shop__us_1.mp3
             -/media/english/us_pron_ogg/s/sho/shop_/shop__us_1.ogg
             @shopping
-            -noun
             -/media/english/uk_pron/s/sho/shopp/shopping__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sho/shopp/shopping__gb_1.ogg
             -/media/english/us_pron/s/sho/shopp/shopping__us_1.mp3
             -/media/english/us_pron_ogg/s/sho/shopp/shopping__us_1.ogg
             @short
-            -adjective
             -/media/english/uk_pron/s/sho/short/short__gb_3.mp3
             -/media/english/uk_pron_ogg/s/sho/short/short__gb_3.ogg
             -/media/english/us_pron/s/sho/short/short__us_1.mp3
             -/media/english/us_pron_ogg/s/sho/short/short__us_1.ogg
             @should
-            -modal verb
             -/media/english/uk_pron/s/sho/shoul/should__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sho/shoul/should__gb_2.ogg
             -/media/english/us_pron/s/sho/shoul/should__us_4_rr.mp3
             -/media/english/us_pron_ogg/s/sho/shoul/should__us_4_rr.ogg
             @show
-            -noun
             -/media/english/uk_pron/s/sho/show_/show__gb_5.mp3
             -/media/english/uk_pron_ogg/s/sho/show_/show__gb_5.ogg
             -/media/english/us_pron/s/sho/show_/show__us_1.mp3
             -/media/english/us_pron_ogg/s/sho/show_/show__us_1.ogg
             @shower
-            -noun
             -/media/english/uk_pron/s/sho/showe/shower__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sho/showe/shower__gb_2.ogg
             -/media/english/us_pron/s/sho/showe/shower__us_1.mp3
             -/media/english/us_pron_ogg/s/sho/showe/shower__us_1.ogg
             @sick
-            -adjective
             -/media/english/uk_pron/s/sic/sick_/sick__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sic/sick_/sick__gb_1.ogg
             -/media/english/us_pron/s/sic/sick_/sick__us_1.mp3
             -/media/english/us_pron_ogg/s/sic/sick_/sick__us_1.ogg
             @similar
-            -adjective
             -/media/english/uk_pron/s/sim/simil/similar__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sim/simil/similar__gb_1.ogg
             -/media/english/us_pron/s/sim/simil/similar__us_1.mp3
             -/media/english/us_pron_ogg/s/sim/simil/similar__us_1.ogg
             @sing
-            -verb
             -/media/english/uk_pron/s/sin/sing_/sing__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sin/sing_/sing__gb_1.ogg
             -/media/english/us_pron/s/sin/sing_/sing__us_1.mp3
             -/media/english/us_pron_ogg/s/sin/sing_/sing__us_1.ogg
             @singer
-            -noun
             -/media/english/uk_pron/s/sin/singe/singer__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sin/singe/singer__gb_2.ogg
             -/media/english/us_pron/s/sin/singe/singer__us_1.mp3
             -/media/english/us_pron_ogg/s/sin/singe/singer__us_1.ogg
             @sister
-            -noun
             -/media/english/uk_pron/s/sis/siste/sister__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sis/siste/sister__gb_2.ogg
             -/media/english/us_pron/s/sis/siste/sister__us_1.mp3
             -/media/english/us_pron_ogg/s/sis/siste/sister__us_1.ogg
             @sit
-            -verb
             -/media/english/uk_pron/s/sit/sit__/sit__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sit/sit__/sit__gb_1.ogg
             -/media/english/us_pron/s/sit/sit__/sit__us_1.mp3
             -/media/english/us_pron_ogg/s/sit/sit__/sit__us_1.ogg
             @situation
-            -noun
             -/media/english/uk_pron/s/sit/situa/situation__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sit/situa/situation__gb_1.ogg
             -/media/english/us_pron/s/sit/situa/situation__us_1.mp3
             -/media/english/us_pron_ogg/s/sit/situa/situation__us_1.ogg
             @six
-            -number
             -/media/english/uk_pron/s/six/six__/six__gb_2.mp3
             -/media/english/uk_pron_ogg/s/six/six__/six__gb_2.ogg
             -/media/english/us_pron/s/six/six__/six__us_1.mp3
             -/media/english/us_pron_ogg/s/six/six__/six__us_1.ogg
             @sixteen
-            -number
             -/media/english/uk_pron/s/six/sixte/sixteen__gb_1.mp3
             -/media/english/uk_pron_ogg/s/six/sixte/sixteen__gb_1.ogg
             -/media/english/us_pron/s/six/sixte/sixteen__us_1.mp3
             -/media/english/us_pron_ogg/s/six/sixte/sixteen__us_1.ogg
             @sixty
-            -number
             -/media/english/uk_pron/s/six/sixty/sixty__gb_2.mp3
             -/media/english/uk_pron_ogg/s/six/sixty/sixty__gb_2.ogg
             -/media/english/us_pron/s/six/sixty/sixty__us_1.mp3
             -/media/english/us_pron_ogg/s/six/sixty/sixty__us_1.ogg
             @skill
-            -noun
             -/media/english/uk_pron/s/ski/skill/skill__gb_2.mp3
             -/media/english/uk_pron_ogg/s/ski/skill/skill__gb_2.ogg
             -/media/english/us_pron/s/ski/skill/skill__us_1.mp3
             -/media/english/us_pron_ogg/s/ski/skill/skill__us_1.ogg
             @skirt
-            -noun
             -/media/english/uk_pron/s/ski/skirt/skirt__gb_2.mp3
             -/media/english/uk_pron_ogg/s/ski/skirt/skirt__gb_2.ogg
             -/media/english/us_pron/s/ski/skirt/skirt__us_1.mp3
             -/media/english/us_pron_ogg/s/ski/skirt/skirt__us_1.ogg
             @sleep
-            -verb
             -/media/english/uk_pron/s/sle/sleep/sleep__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sle/sleep/sleep__gb_1.ogg
             -/media/english/us_pron/s/sle/sleep/sleep__us_1.mp3
             -/media/english/us_pron_ogg/s/sle/sleep/sleep__us_1.ogg
             @slow
-            -adjective
             -/media/english/uk_pron/s/slo/slow_/slow__gb_2.mp3
             -/media/english/uk_pron_ogg/s/slo/slow_/slow__gb_2.ogg
             -/media/english/us_pron/s/slo/slow_/slow__us_1.mp3
             -/media/english/us_pron_ogg/s/slo/slow_/slow__us_1.ogg
             @small
-            -adjective
             -/media/english/uk_pron/s/sma/small/small__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sma/small/small__gb_2.ogg
             -/media/english/us_pron/s/sma/small/small__us_4.mp3
             -/media/english/us_pron_ogg/s/sma/small/small__us_4.ogg
             @snake
-            -noun
             -/media/english/uk_pron/s/sna/snake/snake__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sna/snake/snake__gb_2.ogg
             -/media/english/us_pron/s/sna/snake/snake__us_1.mp3
             -/media/english/us_pron_ogg/s/sna/snake/snake__us_1.ogg
             @snow
-            -noun
             -/media/english/uk_pron/s/sno/snow_/snow__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sno/snow_/snow__gb_1.ogg
             -/media/english/us_pron/s/sno/snow_/snow__us_1.mp3
             -/media/english/us_pron_ogg/s/sno/snow_/snow__us_1.ogg
             @so
-            -adverb
             -/media/english/uk_pron/s/so_/so__g/so__gb_1.mp3
             -/media/english/uk_pron_ogg/s/so_/so__g/so__gb_1.ogg
             -/media/english/us_pron/s/so_/so__u/so__us_1.mp3
             -/media/english/us_pron_ogg/s/so_/so__u/so__us_1.ogg
             @some
-            -determiner
             -/media/english/uk_pron/_/_so/_some/_some_1_gb_1.mp3
             -/media/english/uk_pron_ogg/_/_so/_some/_some_1_gb_1.ogg
             -/media/english/us_pron/s/som/some_/some__us_9_rr.mp3
             -/media/english/us_pron_ogg/s/som/some_/some__us_9_rr.ogg
             @somebody
-            -pronoun
             -/media/english/uk_pron/s/som/someb/somebody__gb_1.mp3
             -/media/english/uk_pron_ogg/s/som/someb/somebody__gb_1.ogg
             -/media/english/us_pron/s/som/someb/somebody__us_3_rr.mp3
             -/media/english/us_pron_ogg/s/som/someb/somebody__us_3_rr.ogg
             @someone
-            -pronoun
             -/media/english/uk_pron/s/som/someo/someone__gb_1.mp3
             -/media/english/uk_pron_ogg/s/som/someo/someone__gb_1.ogg
             -/media/english/us_pron/s/som/someo/someone__us_2.mp3
             -/media/english/us_pron_ogg/s/som/someo/someone__us_2.ogg
             @something
-            -pronoun
             -/media/english/uk_pron/s/som/somet/something__gb_1.mp3
             -/media/english/uk_pron_ogg/s/som/somet/something__gb_1.ogg
             -/media/english/us_pron/s/som/somet/something__us_2.mp3
             -/media/english/us_pron_ogg/s/som/somet/something__us_2.ogg
             @sometimes
-            -adverb
             -/media/english/uk_pron/s/som/somet/sometimes__gb_1.mp3
             -/media/english/uk_pron_ogg/s/som/somet/sometimes__gb_1.ogg
             -/media/english/us_pron/s/som/somet/sometimes__us_2.mp3
             -/media/english/us_pron_ogg/s/som/somet/sometimes__us_2.ogg
             @son
-            -noun
             -/media/english/uk_pron/s/son/son__/son__gb_1.mp3
             -/media/english/uk_pron_ogg/s/son/son__/son__gb_1.ogg
             -/media/english/us_pron/s/son/son__/son__us_1.mp3
             -/media/english/us_pron_ogg/s/son/son__/son__us_1.ogg
             @song
-            -noun
             -/media/english/uk_pron/s/son/song_/song__gb_1.mp3
             -/media/english/uk_pron_ogg/s/son/song_/song__gb_1.ogg
             -/media/english/us_pron/s/son/song_/song_1_us_1.mp3
             -/media/english/us_pron_ogg/s/son/song_/song_1_us_1.ogg
             @soon
-            -adverb
             -/media/english/uk_pron/s/soo/soon_/soon__gb_1.mp3
             -/media/english/uk_pron_ogg/s/soo/soon_/soon__gb_1.ogg
             -/media/english/us_pron/s/soo/soon_/soon__us_1.mp3
             -/media/english/us_pron_ogg/s/soo/soon_/soon__us_1.ogg
             @sorry
-            -adjective
             -/media/english/uk_pron/s/sor/sorry/sorry__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sor/sorry/sorry__gb_1.ogg
             -/media/english/us_pron/s/sor/sorry/sorry__us_1_rr.mp3
             -/media/english/us_pron_ogg/s/sor/sorry/sorry__us_1_rr.ogg
             @sound
-            -noun
             -/media/english/uk_pron/s/sou/sound/sound__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sou/sound/sound__gb_1.ogg
             -/media/english/us_pron/s/sou/sound/sound__us_1.mp3
             -/media/english/us_pron_ogg/s/sou/sound/sound__us_1.ogg
             @soup
-            -noun
             -/media/english/uk_pron/s/sou/soup_/soup__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sou/soup_/soup__gb_2.ogg
             -/media/english/us_pron/s/sou/soup_/soup__us_1.mp3
             -/media/english/us_pron_ogg/s/sou/soup_/soup__us_1.ogg
             @south
-            -adjective
             -/media/english/uk_pron/s/sou/south/south__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sou/south/south__gb_1.ogg
             -/media/english/us_pron/s/sou/south/south__us_1.mp3
             -/media/english/us_pron_ogg/s/sou/south/south__us_1.ogg
             @space
-            -noun
             -/media/english/uk_pron/s/spa/space/space__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spa/space/space__gb_1.ogg
             -/media/english/us_pron/s/spa/space/space__us_1.mp3
             -/media/english/us_pron_ogg/s/spa/space/space__us_1.ogg
             @speak
-            -verb
             -/media/english/uk_pron/s/spe/speak/speak__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spe/speak/speak__gb_1.ogg
             -/media/english/us_pron/s/spe/speak/speak__us_1.mp3
             -/media/english/us_pron_ogg/s/spe/speak/speak__us_1.ogg
             @special
-            -adjective
             -/media/english/uk_pron/s/spe/speci/special__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spe/speci/special__gb_1.ogg
             -/media/english/us_pron/s/spe/speci/special__us_1.mp3
             -/media/english/us_pron_ogg/s/spe/speci/special__us_1.ogg
             @spell
-            -verb
             -/media/english/uk_pron/s/spe/spell/spell__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spe/spell/spell__gb_1.ogg
             -/media/english/us_pron/s/spe/spell/spell__us_1.mp3
             -/media/english/us_pron_ogg/s/spe/spell/spell__us_1.ogg
             @spelling
-            -noun
             -/media/english/uk_pron/s/spe/spell/spelling__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spe/spell/spelling__gb_1.ogg
             -/media/english/us_pron/s/spe/spell/spelling__us_1.mp3
             -/media/english/us_pron_ogg/s/spe/spell/spelling__us_1.ogg
             @spend
-            -verb
             -/media/english/uk_pron/s/spe/spend/spend__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spe/spend/spend__gb_1.ogg
             -/media/english/us_pron/s/spe/spend/spend__us_1.mp3
             -/media/english/us_pron_ogg/s/spe/spend/spend__us_1.ogg
             @sport
-            -noun
             -/media/english/uk_pron/s/spo/sport/sport__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spo/sport/sport__gb_1.ogg
             -/media/english/us_pron/s/spo/sport/sport__us_1.mp3
             -/media/english/us_pron_ogg/s/spo/sport/sport__us_1.ogg
             @spring
-            -noun
             -/media/english/uk_pron/s/spr/sprin/spring__gb_1.mp3
             -/media/english/uk_pron_ogg/s/spr/sprin/spring__gb_1.ogg
             -/media/english/us_pron/s/spr/sprin/spring__us_1.mp3
             -/media/english/us_pron_ogg/s/spr/sprin/spring__us_1.ogg
             @stand
-            -verb
             -/media/english/uk_pron/s/sta/stand/stand__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sta/stand/stand__gb_1.ogg
             -/media/english/us_pron/s/sta/stand/stand__us_1.mp3
             -/media/english/us_pron_ogg/s/sta/stand/stand__us_1.ogg
             @star
-            -noun
             -/media/english/uk_pron/s/sta/star_/star__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sta/star_/star__gb_2.ogg
             -/media/english/us_pron/s/sta/star_/star__us_1.mp3
             -/media/english/us_pron_ogg/s/sta/star_/star__us_1.ogg
             @start
-            -verb
             -/media/english/uk_pron/s/sta/start/start__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sta/start/start__gb_1.ogg
             -/media/english/us_pron/s/sta/start/start__us_1.mp3
             -/media/english/us_pron_ogg/s/sta/start/start__us_1.ogg
             @statement
-            -noun
             -/media/english/uk_pron/s/sta/state/statement__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sta/state/statement__gb_1.ogg
             -/media/english/us_pron/s/sta/state/statement__us_1.mp3
             -/media/english/us_pron_ogg/s/sta/state/statement__us_1.ogg
             @station
-            -noun
             -/media/english/uk_pron/s/sta/stati/station__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sta/stati/station__gb_2.ogg
             -/media/english/us_pron/s/sta/stati/station__us_2.mp3
             -/media/english/us_pron_ogg/s/sta/stati/station__us_2.ogg
             @stay
-            -verb
             -/media/english/uk_pron/s/sta/stay_/stay__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sta/stay_/stay__gb_1.ogg
             -/media/english/us_pron/s/sta/stay_/stay__us_1.mp3
             -/media/english/us_pron_ogg/s/sta/stay_/stay__us_1.ogg
             @still
-            -adverb
             -/media/english/uk_pron/s/sti/still/still__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sti/still/still__gb_1.ogg
             -/media/english/us_pron/s/sti/still/still__us_1.mp3
             -/media/english/us_pron_ogg/s/sti/still/still__us_1.ogg
             @stop
-            -noun
             -/media/english/uk_pron/s/sto/stop_/stop__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sto/stop_/stop__gb_1.ogg
             -/media/english/us_pron/s/sto/stop_/stop__us_1.mp3
             -/media/english/us_pron_ogg/s/sto/stop_/stop__us_1.ogg
             @story
-            -noun
             -/media/english/uk_pron/s/sto/story/story__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sto/story/story__gb_1.ogg
             -/media/english/us_pron/s/sto/story/story__us_1.mp3
             -/media/english/us_pron_ogg/s/sto/story/story__us_1.ogg
             @street
-            -noun
             -/media/english/uk_pron/s/str/stree/street__gb_3.mp3
             -/media/english/uk_pron_ogg/s/str/stree/street__gb_3.ogg
             -/media/english/us_pron/s/str/stree/street__us_1.mp3
             -/media/english/us_pron_ogg/s/str/stree/street__us_1.ogg
             @strong
-            -adjective
             -/media/english/uk_pron/s/str/stron/strong__gb_2.mp3
             -/media/english/uk_pron_ogg/s/str/stron/strong__gb_2.ogg
             -/media/english/us_pron/s/str/stron/strong__us_1.mp3
             -/media/english/us_pron_ogg/s/str/stron/strong__us_1.ogg
             @student
-            -noun
             -/media/english/uk_pron/s/stu/stude/student__gb_3.mp3
             -/media/english/uk_pron_ogg/s/stu/stude/student__gb_3.ogg
             -/media/english/us_pron/s/stu/stude/student__us_1.mp3
             -/media/english/us_pron_ogg/s/stu/stude/student__us_1.ogg
             @study
-            -noun
             -/media/english/uk_pron/s/stu/study/study__gb_2.mp3
             -/media/english/uk_pron_ogg/s/stu/study/study__gb_2.ogg
             -/media/english/us_pron/s/stu/study/study__us_2.mp3
             -/media/english/us_pron_ogg/s/stu/study/study__us_2.ogg
             @style
-            -noun
             -/media/english/uk_pron/s/sty/style/style__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sty/style/style__gb_2.ogg
             -/media/english/us_pron/s/sty/style/style__us_1.mp3
             -/media/english/us_pron_ogg/s/sty/style/style__us_1.ogg
             @subject
-            -noun
             -/media/english/uk_pron/s/sub/subje/subject__gb_7.mp3
             -/media/english/uk_pron_ogg/s/sub/subje/subject__gb_7.ogg
             -/media/english/us_pron/s/sub/subje/subject__us_4_rr.mp3
             -/media/english/us_pron_ogg/s/sub/subje/subject__us_4_rr.ogg
             @success
-            -noun
             -/media/english/uk_pron/s/suc/succe/success__gb_1.mp3
             -/media/english/uk_pron_ogg/s/suc/succe/success__gb_1.ogg
             -/media/english/us_pron/s/suc/succe/success__us_2.mp3
             -/media/english/us_pron_ogg/s/suc/succe/success__us_2.ogg
             @sugar
-            -noun
             -/media/english/uk_pron/s/sug/sugar/sugar__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sug/sugar/sugar__gb_2.ogg
             -/media/english/us_pron/s/sug/sugar/sugar__us_2.mp3
             -/media/english/us_pron_ogg/s/sug/sugar/sugar__us_2.ogg
             @summer
-            -noun
             -/media/english/uk_pron/s/sum/summe/summer__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sum/summe/summer__gb_2.ogg
             -/media/english/us_pron/s/sum/summe/summer__us_2.mp3
             -/media/english/us_pron_ogg/s/sum/summe/summer__us_2.ogg
             @sun
-            -noun
             -/media/english/uk_pron/s/sun/sun__/sun__gb_2.mp3
             -/media/english/uk_pron_ogg/s/sun/sun__/sun__gb_2.ogg
             -/media/english/us_pron/s/sun/sun__/sun__us_1.mp3
             -/media/english/us_pron_ogg/s/sun/sun__/sun__us_1.ogg
             @Sunday
-            -noun
             -/media/english/uk_pron/s/sun/sunda/sunday_1_gb_1.mp3
             -/media/english/uk_pron_ogg/s/sun/sunda/sunday_1_gb_1.ogg
             -/media/english/us_pron/s/sun/sunda/sunday__us_1_rr.mp3
             -/media/english/us_pron_ogg/s/sun/sunda/sunday__us_1_rr.ogg
             @supermarket
-            -noun
             -/media/english/uk_pron/s/sup/super/supermarket__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sup/super/supermarket__gb_1.ogg
             -/media/english/us_pron/s/sup/super/supermarket__us_1.mp3
             -/media/english/us_pron_ogg/s/sup/super/supermarket__us_1.ogg
             @sure
-            -adjective
             -/media/english/uk_pron/s/sur/sure_/sure__gb_1.mp3
             -/media/english/uk_pron_ogg/s/sur/sure_/sure__gb_1.ogg
             -/media/english/us_pron/s/sur/sure_/sure__us_1_rr.mp3
             -/media/english/us_pron_ogg/s/sur/sure_/sure__us_1_rr.ogg
             @sweater
-            -noun
             -/media/english/uk_pron/s/swe/sweat/sweater__gb_2.mp3
             -/media/english/uk_pron_ogg/s/swe/sweat/sweater__gb_2.ogg
             -/media/english/us_pron/s/swe/sweat/sweater__us_1.mp3
             -/media/english/us_pron_ogg/s/swe/sweat/sweater__us_1.ogg
             @swim
-            -verb
             -/media/english/uk_pron/s/swi/swim_/swim__gb_2.mp3
             -/media/english/uk_pron_ogg/s/swi/swim_/swim__gb_2.ogg
             -/media/english/us_pron/s/swi/swim_/swim__us_1.mp3
             -/media/english/us_pron_ogg/s/swi/swim_/swim__us_1.ogg
             @swimming
-            -noun
             -/media/english/uk_pron/s/swi/swimm/swimming__gb_2.mp3
             -/media/english/uk_pron_ogg/s/swi/swimm/swimming__gb_2.ogg
             -/media/english/us_pron/s/swi/swimm/swimming__us_2.mp3
             -/media/english/us_pron_ogg/s/swi/swimm/swimming__us_2.ogg
             @T-shirt
-            -noun
             -/media/english/uk_pron/t/t_s/t_shi/t_shirt_1_gb_2.mp3
             -/media/english/uk_pron_ogg/t/t_s/t_shi/t_shirt_1_gb_2.ogg
             -/media/english/us_pron/t/t_s/t_shi/t_shirt_1_us_1.mp3
             -/media/english/us_pron_ogg/t/t_s/t_shi/t_shirt_1_us_1.ogg
             @table
-            -noun
             -/media/english/uk_pron/t/tab/table/table__gb_3.mp3
             -/media/english/uk_pron_ogg/t/tab/table/table__gb_3.ogg
             -/media/english/us_pron/t/tab/table/table__us_1.mp3
             -/media/english/us_pron_ogg/t/tab/table/table__us_1.ogg
             @take
-            -verb
             -/media/english/uk_pron/t/tak/take_/take__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tak/take_/take__gb_1.ogg
             -/media/english/us_pron/t/tak/take_/take__us_1.mp3
             -/media/english/us_pron_ogg/t/tak/take_/take__us_1.ogg
             @talk
-            -verb
             -/media/english/uk_pron/t/tal/talk_/talk__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tal/talk_/talk__gb_1.ogg
             -/media/english/us_pron/t/tal/talk_/talk__us_1.mp3
             -/media/english/us_pron_ogg/t/tal/talk_/talk__us_1.ogg
             @tall
-            -adjective
             -/media/english/uk_pron/t/tal/tall_/tall__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tal/tall_/tall__gb_2.ogg
             -/media/english/us_pron/t/tal/tall_/tall__us_1.mp3
             -/media/english/us_pron_ogg/t/tal/tall_/tall__us_1.ogg
             @taxi
-            -noun
             -/media/english/uk_pron/t/tax/taxi_/taxi__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tax/taxi_/taxi__gb_2.ogg
             -/media/english/us_pron/t/tax/taxi_/taxi__us_2.mp3
             -/media/english/us_pron_ogg/t/tax/taxi_/taxi__us_2.ogg
             @tea
-            -noun
             -/media/english/uk_pron/t/tea/tea__/tea__gb_3.mp3
             -/media/english/uk_pron_ogg/t/tea/tea__/tea__gb_3.ogg
             -/media/english/us_pron/t/tea/tea__/tea__us_1.mp3
             -/media/english/us_pron_ogg/t/tea/tea__/tea__us_1.ogg
             @teach
-            -verb
             -/media/english/uk_pron/t/tea/teach/teach__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tea/teach/teach__gb_2.ogg
             -/media/english/us_pron/t/tea/teach/teach__us_1.mp3
             -/media/english/us_pron_ogg/t/tea/teach/teach__us_1.ogg
             @teacher
-            -noun
             -/media/english/uk_pron/t/tea/teach/teacher__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tea/teach/teacher__gb_1.ogg
             -/media/english/us_pron/t/tea/teach/teacher__us_1.mp3
             -/media/english/us_pron_ogg/t/tea/teach/teacher__us_1.ogg
             @team
-            -noun
             -/media/english/uk_pron/t/tea/team_/team__gb_3.mp3
             -/media/english/uk_pron_ogg/t/tea/team_/team__gb_3.ogg
             -/media/english/us_pron/t/tea/team_/team__us_1.mp3
             -/media/english/us_pron_ogg/t/tea/team_/team__us_1.ogg
             @teenager
-            -noun
             -/media/english/uk_pron/t/tee/teena/teenager__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tee/teena/teenager__gb_1.ogg
             -/media/english/us_pron/t/tee/teena/teenager__us_3.mp3
             -/media/english/us_pron_ogg/t/tee/teena/teenager__us_3.ogg
             @telephone
-            -noun
             -/media/english/uk_pron/t/tel/telep/telephone__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tel/telep/telephone__gb_1.ogg
             -/media/english/us_pron/t/tel/telep/telephone__us_2.mp3
             -/media/english/us_pron_ogg/t/tel/telep/telephone__us_2.ogg
             @television
-            -noun
             -/media/english/uk_pron/t/tel/telev/television__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tel/telev/television__gb_1.ogg
             -/media/english/us_pron/t/tel/telev/television__us_1.mp3
             -/media/english/us_pron_ogg/t/tel/telev/television__us_1.ogg
             @tell
-            -verb
             -/media/english/uk_pron/t/tel/tell_/tell__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tel/tell_/tell__gb_1.ogg
             -/media/english/us_pron/t/tel/tell_/tell__us_1.mp3
             -/media/english/us_pron_ogg/t/tel/tell_/tell__us_1.ogg
             @ten
-            -number
             -/media/english/uk_pron/t/ten/ten__/ten__gb_2.mp3
             -/media/english/uk_pron_ogg/t/ten/ten__/ten__gb_2.ogg
             -/media/english/us_pron/t/ten/ten__/ten__us_1.mp3
             -/media/english/us_pron_ogg/t/ten/ten__/ten__us_1.ogg
             @tennis
-            -noun
             -/media/english/uk_pron/t/ten/tenni/tennis__gb_1.mp3
             -/media/english/uk_pron_ogg/t/ten/tenni/tennis__gb_1.ogg
             -/media/english/us_pron/t/ten/tenni/tennis__us_3.mp3
             -/media/english/us_pron_ogg/t/ten/tenni/tennis__us_3.ogg
             @terrible
-            -adjective
             -/media/english/uk_pron/t/ter/terri/terrible__gb_1.mp3
             -/media/english/uk_pron_ogg/t/ter/terri/terrible__gb_1.ogg
             -/media/english/us_pron/t/ter/terri/terrible__us_1.mp3
             -/media/english/us_pron_ogg/t/ter/terri/terrible__us_1.ogg
             @test
-            -noun
             -/media/english/uk_pron/t/tes/test_/test__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tes/test_/test__gb_1.ogg
             -/media/english/us_pron/t/tes/test_/test__us_1.mp3
             -/media/english/us_pron_ogg/t/tes/test_/test__us_1.ogg
             @text
-            -noun
             -/media/english/uk_pron/t/tex/text_/text__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tex/text_/text__gb_1.ogg
             -/media/english/us_pron/t/tex/text_/text__us_1.mp3
             -/media/english/us_pron_ogg/t/tex/text_/text__us_1.ogg
             @than
-            -conjunction
             -/media/english/uk_pron/t/tha/than_/than__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tha/than_/than__gb_1.ogg
             -/media/english/us_pron/t/tha/than_/than__us_3_rr.mp3
             -/media/english/us_pron_ogg/t/tha/than_/than__us_3_rr.ogg
             @thank
-            -verb
             -/media/english/uk_pron/t/tha/thank/thank__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tha/thank/thank__gb_1.ogg
             -/media/english/us_pron/t/tha/thank/thank__us_1.mp3
             -/media/english/us_pron_ogg/t/tha/thank/thank__us_1.ogg
             @thanks
-            -exclamation
             -/media/english/uk_pron/t/tha/thank/thanks__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tha/thank/thanks__gb_1.ogg
             -/media/english/us_pron/t/tha/thank/thanks__us_1.mp3
             -/media/english/us_pron_ogg/t/tha/thank/thanks__us_1.ogg
             @that
-            -conjunction
             -/media/english/uk_pron/t/tha/that_/that__gb_3.mp3
             -/media/english/uk_pron_ogg/t/tha/that_/that__gb_3.ogg
             -/media/english/us_pron/t/tha/that_/that__us_6_rr.mp3
             -/media/english/us_pron_ogg/t/tha/that_/that__us_6_rr.ogg
             @the
-            -definite article
             -/media/english/uk_pron/t/the/the__/the__gb_1.mp3
             -/media/english/uk_pron_ogg/t/the/the__/the__gb_1.ogg
             -/media/english/us_pron/t/the/the__/the__us_1_rr.mp3
             -/media/english/us_pron_ogg/t/the/the__/the__us_1_rr.ogg
             @theatre
-            -noun
             -/media/english/uk_pron/t/the/theat/theatre__gb_2.mp3
             -/media/english/uk_pron_ogg/t/the/theat/theatre__gb_2.ogg
             -/media/english/us_pron/t/the/theat/theatre__us_1.mp3
             -/media/english/us_pron_ogg/t/the/theat/theatre__us_1.ogg
             @their
-            -determiner
             -/media/english/uk_pron/t/the/their/their__gb_1.mp3
             -/media/english/uk_pron_ogg/t/the/their/their__gb_1.ogg
             -/media/english/us_pron/t/the/their/their__us_2_rr.mp3
             -/media/english/us_pron_ogg/t/the/their/their__us_2_rr.ogg
             @them
-            -pronoun
             -/media/english/uk_pron/t/the/them_/them__gb_1.mp3
             -/media/english/uk_pron_ogg/t/the/them_/them__gb_1.ogg
             -/media/english/us_pron/t/the/them_/them__us_3_rr.mp3
             -/media/english/us_pron_ogg/t/the/them_/them__us_3_rr.ogg
             @then
-            -adverb
             -/media/english/uk_pron/t/the/then_/then__gb_1.mp3
             -/media/english/uk_pron_ogg/t/the/then_/then__gb_1.ogg
             -/media/english/us_pron/t/the/then_/then__us_1.mp3
             -/media/english/us_pron_ogg/t/the/then_/then__us_1.ogg
             @there
-            -adverb
             -/media/english/uk_pron/t/the/there/there__gb_1.mp3
             -/media/english/uk_pron_ogg/t/the/there/there__gb_1.ogg
             -/media/english/us_pron/t/the/there/there__us_1.mp3
             -/media/english/us_pron_ogg/t/the/there/there__us_1.ogg
             @they
-            -pronoun
             -/media/english/uk_pron/t/the/they_/they__gb_1.mp3
             -/media/english/uk_pron_ogg/t/the/they_/they__gb_1.ogg
             -/media/english/us_pron/t/the/they_/they__us_1.mp3
             -/media/english/us_pron_ogg/t/the/they_/they__us_1.ogg
             @thing
-            -noun
             -/media/english/uk_pron/t/thi/thing/thing__gb_1.mp3
             -/media/english/uk_pron_ogg/t/thi/thing/thing__gb_1.ogg
             -/media/english/us_pron/t/thi/thing/thing__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/thing/thing__us_1.ogg
             @think
-            -verb
             -/media/english/uk_pron/t/thi/think/think__gb_1.mp3
             -/media/english/uk_pron_ogg/t/thi/think/think__gb_1.ogg
             -/media/english/us_pron/t/thi/think/think__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/think/think__us_1.ogg
             @third
-            -ordinal number
             -/media/english/uk_pron/t/thi/third/third__gb_1.mp3
             -/media/english/uk_pron_ogg/t/thi/third/third__gb_1.ogg
             -/media/english/us_pron/t/thi/third/third__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/third/third__us_1.ogg
             @thirsty
-            -adjective
             -/media/english/uk_pron/t/thi/thirs/thirsty__gb_2.mp3
             -/media/english/uk_pron_ogg/t/thi/thirs/thirsty__gb_2.ogg
             -/media/english/us_pron/t/thi/thirs/thirsty__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/thirs/thirsty__us_1.ogg
             @thirteen
-            -number
             -/media/english/uk_pron/t/thi/thirt/thirteen__gb_3.mp3
             -/media/english/uk_pron_ogg/t/thi/thirt/thirteen__gb_3.ogg
             -/media/english/us_pron/t/thi/thirt/thirteen__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/thirt/thirteen__us_1.ogg
             @thirty
-            -number
             -/media/english/uk_pron/t/thi/thirt/thirty__gb_2.mp3
             -/media/english/uk_pron_ogg/t/thi/thirt/thirty__gb_2.ogg
             -/media/english/us_pron/t/thi/thirt/thirty__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/thirt/thirty__us_1.ogg
             @this
-            -determiner
             -/media/english/uk_pron/t/thi/this_/this__gb_1.mp3
             -/media/english/uk_pron_ogg/t/thi/this_/this__gb_1.ogg
             -/media/english/us_pron/t/thi/this_/this__us_1.mp3
             -/media/english/us_pron_ogg/t/thi/this_/this__us_1.ogg
             @thousand
-            -number
             -/media/english/uk_pron/t/tho/thous/thousand__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tho/thous/thousand__gb_1.ogg
             -/media/english/us_pron/t/tho/thous/thousand__us_2.mp3
             -/media/english/us_pron_ogg/t/tho/thous/thousand__us_2.ogg
             @three
-            -number
             -/media/english/uk_pron/t/thr/three/three__gb_2.mp3
             -/media/english/uk_pron_ogg/t/thr/three/three__gb_2.ogg
             -/media/english/us_pron/t/thr/three/three__us_1.mp3
             -/media/english/us_pron_ogg/t/thr/three/three__us_1.ogg
             @through
-            -adverb
             -/media/english/uk_pron/t/thr/throu/through__gb_1.mp3
             -/media/english/uk_pron_ogg/t/thr/throu/through__gb_1.ogg
             -/media/english/us_pron/t/thr/throu/through__us_1.mp3
             -/media/english/us_pron_ogg/t/thr/throu/through__us_1.ogg
             @Thursday
-            -noun
             -/media/english/uk_pron/t/thu/thurs/thursday_1_gb_1.mp3
             -/media/english/uk_pron_ogg/t/thu/thurs/thursday_1_gb_1.ogg
             -/media/english/us_pron/t/thu/thurs/thursday__us_1_rr.mp3
             -/media/english/us_pron_ogg/t/thu/thurs/thursday__us_1_rr.ogg
             @ticket
-            -noun
             -/media/english/uk_pron/t/tic/ticke/ticket__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tic/ticke/ticket__gb_1.ogg
             -/media/english/us_pron/t/tic/ticke/ticket__us_1.mp3
             -/media/english/us_pron_ogg/t/tic/ticke/ticket__us_1.ogg
             @time
-            -noun
             -/media/english/uk_pron/t/tim/time_/time__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tim/time_/time__gb_1.ogg
             -/media/english/us_pron/t/tim/time_/time__us_1.mp3
             -/media/english/us_pron_ogg/t/tim/time_/time__us_1.ogg
             @tired
-            -adjective
             -/media/english/uk_pron/t/tir/tired/tired__gb_3.mp3
             -/media/english/uk_pron_ogg/t/tir/tired/tired__gb_3.ogg
             -/media/english/us_pron/t/tir/tired/tired__us_1.mp3
             -/media/english/us_pron_ogg/t/tir/tired/tired__us_1.ogg
             @title
-            -noun
             -/media/english/uk_pron/t/tit/title/title__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tit/title/title__gb_2.ogg
             -/media/english/us_pron/t/tit/title/title__us_4.mp3
             -/media/english/us_pron_ogg/t/tit/title/title__us_4.ogg
             @to
-            -infinitive marker
             -/media/english/uk_pron/t/to_/to__g/to__gb_7.mp3
             -/media/english/uk_pron_ogg/t/to_/to__g/to__gb_7.ogg
             -/media/english/us_pron/t/to_/to__u/to__us_1_rr.mp3
             -/media/english/us_pron_ogg/t/to_/to__u/to__us_1_rr.ogg
             @today
-            -adverb
             -/media/english/uk_pron/t/tod/today/today__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tod/today/today__gb_1.ogg
             -/media/english/us_pron/t/tod/today/today__us_1.mp3
             -/media/english/us_pron_ogg/t/tod/today/today__us_1.ogg
             @together
-            -adverb
             -/media/english/uk_pron/t/tog/toget/together__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tog/toget/together__gb_1.ogg
             -/media/english/us_pron/t/tog/toget/together__us_1.mp3
             -/media/english/us_pron_ogg/t/tog/toget/together__us_1.ogg
             @toilet
-            -noun
             -/media/english/uk_pron/t/toi/toile/toilet__gb_3.mp3
             -/media/english/uk_pron_ogg/t/toi/toile/toilet__gb_3.ogg
             -/media/english/us_pron/t/toi/toile/toilet__us_1.mp3
             -/media/english/us_pron_ogg/t/toi/toile/toilet__us_1.ogg
             @tomato
-            -noun
             -/media/english/uk_pron/t/tom/tomat/tomato__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tom/tomat/tomato__gb_2.ogg
             -/media/english/us_pron/t/tom/tomat/tomato__us_1.mp3
             -/media/english/us_pron_ogg/t/tom/tomat/tomato__us_1.ogg
             @tomorrow
-            -adverb
             -/media/english/uk_pron/t/tom/tomor/tomorrow__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tom/tomor/tomorrow__gb_1.ogg
             -/media/english/us_pron/t/tom/tomor/tomorrow__us_1_rr.mp3
             -/media/english/us_pron_ogg/t/tom/tomor/tomorrow__us_1_rr.ogg
             @tonight
-            -adverb
             -/media/english/uk_pron/t/ton/tonig/tonight__gb_1.mp3
             -/media/english/uk_pron_ogg/t/ton/tonig/tonight__gb_1.ogg
             -/media/english/us_pron/t/ton/tonig/tonight__us_1.mp3
             -/media/english/us_pron_ogg/t/ton/tonig/tonight__us_1.ogg
             @too
-            -adverb
             -/media/english/uk_pron/t/too/too__/too__gb_1.mp3
             -/media/english/uk_pron_ogg/t/too/too__/too__gb_1.ogg
             -/media/english/us_pron/t/too/too__/too__us_1.mp3
             -/media/english/us_pron_ogg/t/too/too__/too__us_1.ogg
             @tooth
-            -noun
             -/media/english/uk_pron/t/too/tooth/tooth__gb_2.mp3
             -/media/english/uk_pron_ogg/t/too/tooth/tooth__gb_2.ogg
             -/media/english/us_pron/t/too/tooth/tooth__us_1.mp3
             -/media/english/us_pron_ogg/t/too/tooth/tooth__us_1.ogg
             @topic
-            -noun
             -/media/english/uk_pron/t/top/topic/topic__gb_2.mp3
             -/media/english/uk_pron_ogg/t/top/topic/topic__gb_2.ogg
             -/media/english/us_pron/t/top/topic/topic__us_1.mp3
             -/media/english/us_pron_ogg/t/top/topic/topic__us_1.ogg
             @tourist
-            -noun
             -/media/english/uk_pron/t/tou/touri/tourist__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tou/touri/tourist__gb_1.ogg
             -/media/english/us_pron/t/tou/touri/tourist__us_1.mp3
             -/media/english/us_pron_ogg/t/tou/touri/tourist__us_1.ogg
             @town
-            -noun
             -/media/english/uk_pron/t/tow/town_/town__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tow/town_/town__gb_1.ogg
             -/media/english/us_pron/t/tow/town_/town__us_1.mp3
             -/media/english/us_pron_ogg/t/tow/town_/town__us_1.ogg
             @traffic
-            -noun
             -/media/english/uk_pron/t/tra/traff/traffic__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tra/traff/traffic__gb_1.ogg
             -/media/english/us_pron/t/tra/traff/traffic__us_1.mp3
             -/media/english/us_pron_ogg/t/tra/traff/traffic__us_1.ogg
             @train
-            -noun
             -/media/english/uk_pron/t/tra/train/train__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tra/train/train__gb_2.ogg
             -/media/english/us_pron/t/tra/train/train__us_1.mp3
             -/media/english/us_pron_ogg/t/tra/train/train__us_1.ogg
             @travel
-            -noun
             -/media/english/uk_pron/t/tra/trave/travel__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tra/trave/travel__gb_1.ogg
             -/media/english/us_pron/t/tra/trave/travel__us_2.mp3
             -/media/english/us_pron_ogg/t/tra/trave/travel__us_2.ogg
             @tree
-            -noun
             -/media/english/uk_pron/t/tre/tree_/tree__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tre/tree_/tree__gb_2.ogg
             -/media/english/us_pron/t/tre/tree_/tree__us_1.mp3
             -/media/english/us_pron_ogg/t/tre/tree_/tree__us_1.ogg
             @trip
-            -noun
             -/media/english/uk_pron/t/tri/trip_/trip__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tri/trip_/trip__gb_2.ogg
             -/media/english/us_pron/t/tri/trip_/trip__us_1.mp3
             -/media/english/us_pron_ogg/t/tri/trip_/trip__us_1.ogg
             @trousers
-            -noun
             -/media/english/uk_pron/t/tro/trous/trousers__gb_2.mp3
             -/media/english/uk_pron_ogg/t/tro/trous/trousers__gb_2.ogg
             -/media/english/us_pron/t/tro/trous/trousers__us_2.mp3
             -/media/english/us_pron_ogg/t/tro/trous/trousers__us_2.ogg
             @true
-            -adjective
             -/media/english/uk_pron/t/tru/true_/true__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tru/true_/true__gb_1.ogg
             -/media/english/us_pron/t/tru/true_/true__us_1.mp3
             -/media/english/us_pron_ogg/t/tru/true_/true__us_1.ogg
             @try
-            -verb
             -/media/english/uk_pron/t/try/try__/try__gb_1.mp3
             -/media/english/uk_pron_ogg/t/try/try__/try__gb_1.ogg
             -/media/english/us_pron/t/try/try__/try__us_1.mp3
             -/media/english/us_pron_ogg/t/try/try__/try__us_1.ogg
             @Tuesday
-            -noun
             -/media/english/uk_pron/t/tue/tuesd/tuesday__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tue/tuesd/tuesday__gb_1.ogg
             -/media/english/us_pron/t/tue/tuesd/tuesday__us_1_rr.mp3
             -/media/english/us_pron_ogg/t/tue/tuesd/tuesday__us_1_rr.ogg
             @turn
-            -noun
             -/media/english/uk_pron/t/tur/turn_/turn__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tur/turn_/turn__gb_1.ogg
             -/media/english/us_pron/t/tur/turn_/turn__us_1.mp3
             -/media/english/us_pron_ogg/t/tur/turn_/turn__us_1.ogg
             @TV
-            -noun
             -/media/english/uk_pron/t/tv_/tv__g/tv__gb_1.mp3
             -/media/english/uk_pron_ogg/t/tv_/tv__g/tv__gb_1.ogg
             -/media/english/us_pron/t/tv_/tv__u/tv__us_2.mp3
             -/media/english/us_pron_ogg/t/tv_/tv__u/tv__us_2.ogg
             @twelve
-            -number
             -/media/english/uk_pron/t/twe/twelv/twelve__gb_2.mp3
             -/media/english/uk_pron_ogg/t/twe/twelv/twelve__gb_2.ogg
             -/media/english/us_pron/t/twe/twelv/twelve__us_1.mp3
             -/media/english/us_pron_ogg/t/twe/twelv/twelve__us_1.ogg
             @twenty
-            -number
             -/media/english/uk_pron/t/twe/twent/twenty__gb_2.mp3
             -/media/english/uk_pron_ogg/t/twe/twent/twenty__gb_2.ogg
             -/media/english/us_pron/t/twe/twent/twenty__us_1_rr.mp3
             -/media/english/us_pron_ogg/t/twe/twent/twenty__us_1_rr.ogg
             @twice
-            -adverb
             -/media/english/uk_pron/t/twi/twice/twice__gb_1.mp3
             -/media/english/uk_pron_ogg/t/twi/twice/twice__gb_1.ogg
             -/media/english/us_pron/t/twi/twice/twice__us_1.mp3
             -/media/english/us_pron_ogg/t/twi/twice/twice__us_1.ogg
             @two
-            -number
             -/media/english/uk_pron/t/two/two__/two__gb_2.mp3
             -/media/english/uk_pron_ogg/t/two/two__/two__gb_2.ogg
             -/media/english/us_pron/t/two/two__/two__us_1.mp3
             -/media/english/us_pron_ogg/t/two/two__/two__us_1.ogg
             @type
-            -noun
             -/media/english/uk_pron/t/typ/type_/type__gb_2.mp3
             -/media/english/uk_pron_ogg/t/typ/type_/type__gb_2.ogg
             -/media/english/us_pron/t/typ/type_/type__us_1.mp3
             -/media/english/us_pron_ogg/t/typ/type_/type__us_1.ogg
             @umbrella
-            -noun
             -/media/english/uk_pron/u/umb/umbre/umbrella__gb_2.mp3
             -/media/english/uk_pron_ogg/u/umb/umbre/umbrella__gb_2.ogg
             -/media/english/us_pron/u/umb/umbre/umbrella__us_1.mp3
             -/media/english/us_pron_ogg/u/umb/umbre/umbrella__us_1.ogg
             @uncle
-            -noun
             -/media/english/uk_pron/u/unc/uncle/uncle__gb_2.mp3
             -/media/english/uk_pron_ogg/u/unc/uncle/uncle__gb_2.ogg
             -/media/english/us_pron/u/unc/uncle/uncle__us_1.mp3
             -/media/english/us_pron_ogg/u/unc/uncle/uncle__us_1.ogg
             @under
-            -adverb
             -/media/english/uk_pron/u/und/under/under__gb_1.mp3
             -/media/english/uk_pron_ogg/u/und/under/under__gb_1.ogg
             -/media/english/us_pron/u/und/under/under__us_1.mp3
             -/media/english/us_pron_ogg/u/und/under/under__us_1.ogg
             @understand
-            -verb
             -/media/english/uk_pron/u/und/under/understand__gb_1.mp3
             -/media/english/uk_pron_ogg/u/und/under/understand__gb_1.ogg
             -/media/english/us_pron/u/und/under/understand__us_2.mp3
             -/media/english/us_pron_ogg/u/und/under/understand__us_2.ogg
             @university
-            -noun
             -/media/english/uk_pron/u/uni/unive/university__gb_3.mp3
             -/media/english/uk_pron_ogg/u/uni/unive/university__gb_3.ogg
             -/media/english/us_pron/u/uni/unive/university__us_1.mp3
             -/media/english/us_pron_ogg/u/uni/unive/university__us_1.ogg
             @until
-            -conjunction
             -/media/english/uk_pron/u/unt/until/until__gb_1.mp3
             -/media/english/uk_pron_ogg/u/unt/until/until__gb_1.ogg
             -/media/english/us_pron/u/unt/until/until__us_1_rr.mp3
             -/media/english/us_pron_ogg/u/unt/until/until__us_1_rr.ogg
             @up
-            -adverb
             -/media/english/uk_pron/u/up_/up__g/up__gb_1.mp3
             -/media/english/uk_pron_ogg/u/up_/up__g/up__gb_1.ogg
             -/media/english/us_pron/u/up_/up__u/up__us_1.mp3
             -/media/english/us_pron_ogg/u/up_/up__u/up__us_1.ogg
             @upstairs
-            -adverb
             -/media/english/uk_pron/u/ups/upsta/upstairs__gb_3.mp3
             -/media/english/uk_pron_ogg/u/ups/upsta/upstairs__gb_3.ogg
             -/media/english/us_pron/u/ups/upsta/upstairs__us_4.mp3
             -/media/english/us_pron_ogg/u/ups/upsta/upstairs__us_4.ogg
             @us
-            -pronoun
             -/media/english/uk_pron/u/us_/us__g/us__gb_2.mp3
             -/media/english/uk_pron_ogg/u/us_/us__g/us__gb_2.ogg
             -/media/english/us_pron/u/us_/us__u/us__us_2_rr.mp3
             -/media/english/us_pron_ogg/u/us_/us__u/us__us_2_rr.ogg
             @use
-            -verb
             -/media/english/uk_pron/u/use/use__/use__gb_3.mp3
             -/media/english/uk_pron_ogg/u/use/use__/use__gb_3.ogg
             -/media/english/us_pron/u/use/use__/use__us_1.mp3
             -/media/english/us_pron_ogg/u/use/use__/use__us_1.ogg
             @useful
-            -adjective
             -/media/english/uk_pron/u/use/usefu/useful__gb_3.mp3
             -/media/english/uk_pron_ogg/u/use/usefu/useful__gb_3.ogg
             -/media/english/us_pron/u/use/usefu/useful__us_2.mp3
             -/media/english/us_pron_ogg/u/use/usefu/useful__us_2.ogg
             @usually
-            -adverb
             -/media/english/uk_pron/u/usu/usual/usually__gb_1.mp3
             -/media/english/uk_pron_ogg/u/usu/usual/usually__gb_1.ogg
             -/media/english/us_pron/u/usu/usual/usually__us_1_rr.mp3
             -/media/english/us_pron_ogg/u/usu/usual/usually__us_1_rr.ogg
             @vacation
-            -noun
             -/media/english/uk_pron/v/vac/vacat/vacation__gb_2.mp3
             -/media/english/uk_pron_ogg/v/vac/vacat/vacation__gb_2.ogg
             -/media/english/us_pron/v/vac/vacat/vacation__us_4.mp3
             -/media/english/us_pron_ogg/v/vac/vacat/vacation__us_4.ogg
             @vegetable
-            -noun
             -/media/english/uk_pron/v/veg/veget/vegetable__gb_1.mp3
             -/media/english/uk_pron_ogg/v/veg/veget/vegetable__gb_1.ogg
             -/media/english/us_pron/v/veg/veget/vegetable__us_1.mp3
             -/media/english/us_pron_ogg/v/veg/veget/vegetable__us_1.ogg
             @very
-            -adverb
             -/media/english/uk_pron/v/ver/very_/very__gb_1.mp3
             -/media/english/uk_pron_ogg/v/ver/very_/very__gb_1.ogg
             -/media/english/us_pron/v/ver/very_/very__us_1.mp3
             -/media/english/us_pron_ogg/v/ver/very_/very__us_1.ogg
             @video
-            -noun
             -/media/english/uk_pron/v/vid/video/video__gb_1.mp3
             -/media/english/uk_pron_ogg/v/vid/video/video__gb_1.ogg
             -/media/english/us_pron/v/vid/video/video__us_1.mp3
             -/media/english/us_pron_ogg/v/vid/video/video__us_1.ogg
             @village
-            -noun
             -/media/english/uk_pron/v/vil/villa/village__gb_1.mp3
             -/media/english/uk_pron_ogg/v/vil/villa/village__gb_1.ogg
             -/media/english/us_pron/v/vil/villa/village__us_1.mp3
             -/media/english/us_pron_ogg/v/vil/villa/village__us_1.ogg
             @visit
-            -noun
             -/media/english/uk_pron/v/vis/visit/visit__gb_1.mp3
             -/media/english/uk_pron_ogg/v/vis/visit/visit__gb_1.ogg
             -/media/english/us_pron/v/vis/visit/visit__us_1.mp3
             -/media/english/us_pron_ogg/v/vis/visit/visit__us_1.ogg
             @visitor
-            -noun
             -/media/english/uk_pron/v/vis/visit/visitor__gb_1.mp3
             -/media/english/uk_pron_ogg/v/vis/visit/visitor__gb_1.ogg
             -/media/english/us_pron/v/vis/visit/visitor__us_1.mp3
             -/media/english/us_pron_ogg/v/vis/visit/visitor__us_1.ogg
             @wait
-            -verb
             -/media/english/uk_pron/w/wai/wait_/wait__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wai/wait_/wait__gb_1.ogg
             -/media/english/us_pron/w/wai/wait_/wait__us_1.mp3
             -/media/english/us_pron_ogg/w/wai/wait_/wait__us_1.ogg
             @waiter
-            -noun
             -/media/english/uk_pron/w/wai/waite/waiter__gb_2.mp3
             -/media/english/uk_pron_ogg/w/wai/waite/waiter__gb_2.ogg
             -/media/english/us_pron/w/wai/waite/waiter__us_1.mp3
             -/media/english/us_pron_ogg/w/wai/waite/waiter__us_1.ogg
             @wake
-            -verb
             -/media/english/uk_pron/w/wak/wake_/wake__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wak/wake_/wake__gb_1.ogg
             -/media/english/us_pron/w/wak/wake_/wake__us_1.mp3
             -/media/english/us_pron_ogg/w/wak/wake_/wake__us_1.ogg
             @walk
-            -noun
             -/media/english/uk_pron/w/wal/walk_/walk__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wal/walk_/walk__gb_1.ogg
             -/media/english/us_pron/w/wal/walk_/walk__us_1.mp3
             -/media/english/us_pron_ogg/w/wal/walk_/walk__us_1.ogg
             @wall
-            -noun
             -/media/english/uk_pron/w/wal/wall_/wall__gb_2.mp3
             -/media/english/uk_pron_ogg/w/wal/wall_/wall__gb_2.ogg
             -/media/english/us_pron/w/wal/wall_/wall__us_1.mp3
             -/media/english/us_pron_ogg/w/wal/wall_/wall__us_1.ogg
             @want
-            -verb
             -/media/english/uk_pron/w/wan/want_/want__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wan/want_/want__gb_1.ogg
             -/media/english/us_pron/w/wan/want_/want__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/wan/want_/want__us_1_rr.ogg
             @warm
-            -adjective
             -/media/english/uk_pron/w/war/warm_/warm__gb_1.mp3
             -/media/english/uk_pron_ogg/w/war/warm_/warm__gb_1.ogg
             -/media/english/us_pron/w/war/warm_/warm__us_1.mp3
             -/media/english/us_pron_ogg/w/war/warm_/warm__us_1.ogg
             @wash
-            -verb
             -/media/english/uk_pron/w/was/wash_/wash__gb_1.mp3
             -/media/english/uk_pron_ogg/w/was/wash_/wash__gb_1.ogg
             -/media/english/us_pron/w/was/wash_/wash__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/was/wash_/wash__us_1_rr.ogg
             @watch
-            -noun
             -/media/english/uk_pron/w/wat/watch/watch__gb_2.mp3
             -/media/english/uk_pron_ogg/w/wat/watch/watch__gb_2.ogg
             -/media/english/us_pron/w/wat/watch/watch__us_6.mp3
             -/media/english/us_pron_ogg/w/wat/watch/watch__us_6.ogg
             @water
-            -noun
             -/media/english/uk_pron/w/wat/water/water__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wat/water/water__gb_1.ogg
             -/media/english/us_pron/w/wat/water/water__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/wat/water/water__us_1_rr.ogg
             @way
-            -noun
             -/media/english/uk_pron/w/way/way__/way__gb_1.mp3
             -/media/english/uk_pron_ogg/w/way/way__/way__gb_1.ogg
             -/media/english/us_pron/w/way/way__/way__us_1.mp3
             -/media/english/us_pron_ogg/w/way/way__/way__us_1.ogg
             @we
-            -pronoun
             -/media/english/uk_pron/w/we_/we__g/we__gb_1.mp3
             -/media/english/uk_pron_ogg/w/we_/we__g/we__gb_1.ogg
             -/media/english/us_pron/w/we_/we__u/we__us_1.mp3
             -/media/english/us_pron_ogg/w/we_/we__u/we__us_1.ogg
             @wear
-            -verb
             -/media/english/uk_pron/w/wea/wear_/wear__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wea/wear_/wear__gb_1.ogg
             -/media/english/us_pron/w/wea/wear_/wear__us_1.mp3
             -/media/english/us_pron_ogg/w/wea/wear_/wear__us_1.ogg
             @weather
-            -noun
             -/media/english/uk_pron/w/wea/weath/weather__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wea/weath/weather__gb_1.ogg
             -/media/english/us_pron/w/wea/weath/weather__us_2.mp3
             -/media/english/us_pron_ogg/w/wea/weath/weather__us_2.ogg
             @website
-            -noun
             -/media/english/uk_pron/w/web/websi/website__gb_1.mp3
             -/media/english/uk_pron_ogg/w/web/websi/website__gb_1.ogg
             -/media/english/us_pron/w/web/websi/website__us_1.mp3
             -/media/english/us_pron_ogg/w/web/websi/website__us_1.ogg
             @Wednesday
-            -noun
             -/media/english/uk_pron/w/wed/wedne/wednesday_1_gb_1.mp3
             -/media/english/uk_pron_ogg/w/wed/wedne/wednesday_1_gb_1.ogg
             -/media/english/us_pron/w/wed/wedne/wednesday__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/wed/wedne/wednesday__us_1_rr.ogg
             @week
-            -noun
             -/media/english/uk_pron/w/wee/week_/week__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wee/week_/week__gb_1.ogg
             -/media/english/us_pron/w/wee/week_/week__us_1.mp3
             -/media/english/us_pron_ogg/w/wee/week_/week__us_1.ogg
             @weekend
-            -noun
             -/media/english/uk_pron/w/wee/weeke/weekend__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wee/weeke/weekend__gb_1.ogg
             -/media/english/us_pron/w/wee/weeke/weekend__us_2.mp3
             -/media/english/us_pron_ogg/w/wee/weeke/weekend__us_2.ogg
             @welcome
-            -adjective
             -/media/english/uk_pron/w/wel/welco/welcome__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wel/welco/welcome__gb_1.ogg
             -/media/english/us_pron/w/wel/welco/welcome__us_2.mp3
             -/media/english/us_pron_ogg/w/wel/welco/welcome__us_2.ogg
             @well
-            -adjective
             -/media/english/uk_pron/w/wel/well_/well__gb_2.mp3
             -/media/english/uk_pron_ogg/w/wel/well_/well__gb_2.ogg
             -/media/english/us_pron/w/wel/well_/well__us_2.mp3
             -/media/english/us_pron_ogg/w/wel/well_/well__us_2.ogg
             @west
-            -adjective
             -/media/english/uk_pron/w/wes/west_/west__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wes/west_/west__gb_1.ogg
             -/media/english/us_pron/w/wes/west_/west__us_1.mp3
             -/media/english/us_pron_ogg/w/wes/west_/west__us_1.ogg
             @what
-            -determiner
             -/media/english/uk_pron/w/wha/what_/what__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wha/what_/what__gb_1.ogg
             -/media/english/us_pron/w/wha/what_/what__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/wha/what_/what__us_1_rr.ogg
             @when
-            -adverb
             -/media/english/uk_pron/w/whe/when_/when__gb_1.mp3
             -/media/english/uk_pron_ogg/w/whe/when_/when__gb_1.ogg
             -/media/english/us_pron/w/whe/when_/when__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/whe/when_/when__us_1_rr.ogg
             @where
-            -adverb
             -/media/english/uk_pron/w/whe/where/where__gb_1.mp3
             -/media/english/uk_pron_ogg/w/whe/where/where__gb_1.ogg
             -/media/english/us_pron/w/whe/where/where__us_1.mp3
             -/media/english/us_pron_ogg/w/whe/where/where__us_1.ogg
             @which
-            -determiner
             -/media/english/uk_pron/w/whi/which/which__gb_1.mp3
             -/media/english/uk_pron_ogg/w/whi/which/which__gb_1.ogg
             -/media/english/us_pron/w/whi/which/which__us_1.mp3
             -/media/english/us_pron_ogg/w/whi/which/which__us_1.ogg
             @white
-            -adjective
             -/media/english/uk_pron/w/whi/white/white_1_gb_1.mp3
             -/media/english/uk_pron_ogg/w/whi/white/white_1_gb_1.ogg
             -/media/english/us_pron/w/whi/white/white__us_1.mp3
             -/media/english/us_pron_ogg/w/whi/white/white__us_1.ogg
             @who
-            -pronoun
             -/media/english/uk_pron/w/who/who__/who__gb_2.mp3
             -/media/english/uk_pron_ogg/w/who/who__/who__gb_2.ogg
             -/media/english/us_pron/w/who/who__/who__us_2.mp3
             -/media/english/us_pron_ogg/w/who/who__/who__us_2.ogg
             @why
-            -adverb
             -/media/english/uk_pron/w/why/why__/why__gb_1.mp3
             -/media/english/uk_pron_ogg/w/why/why__/why__gb_1.ogg
             -/media/english/us_pron/w/why/why__/why__us_1.mp3
             -/media/english/us_pron_ogg/w/why/why__/why__us_1.ogg
             @wife
-            -noun
             -/media/english/uk_pron/w/wif/wife_/wife__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wif/wife_/wife__gb_1.ogg
             -/media/english/us_pron/w/wif/wife_/wife__us_1.mp3
             -/media/english/us_pron_ogg/w/wif/wife_/wife__us_1.ogg
             @will
-            -modal verb
             -/media/english/uk_pron/w/wil/will_/will__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wil/will_/will__gb_1.ogg
             -/media/english/us_pron/w/wil/will_/will__us_1.mp3
             -/media/english/us_pron_ogg/w/wil/will_/will__us_1.ogg
             @win
-            -verb
             -/media/english/uk_pron/w/win/win__/win__gb_1.mp3
             -/media/english/uk_pron_ogg/w/win/win__/win__gb_1.ogg
             -/media/english/us_pron/w/win/win__/win__us_1.mp3
             -/media/english/us_pron_ogg/w/win/win__/win__us_1.ogg
             @window
-            -noun
             -/media/english/uk_pron/w/win/windo/window__gb_2.mp3
             -/media/english/uk_pron_ogg/w/win/windo/window__gb_2.ogg
             -/media/english/us_pron/w/win/windo/window__us_1.mp3
             -/media/english/us_pron_ogg/w/win/windo/window__us_1.ogg
             @wine
-            -noun
             -/media/english/uk_pron/w/win/wine_/wine__gb_1.mp3
             -/media/english/uk_pron_ogg/w/win/wine_/wine__gb_1.ogg
             -/media/english/us_pron/w/win/wine_/wine__us_1.mp3
             -/media/english/us_pron_ogg/w/win/wine_/wine__us_1.ogg
             @winter
-            -noun
             -/media/english/uk_pron/w/win/winte/winter__gb_2.mp3
             -/media/english/uk_pron_ogg/w/win/winte/winter__gb_2.ogg
             -/media/english/us_pron/w/win/winte/winter__us_1.mp3
             -/media/english/us_pron_ogg/w/win/winte/winter__us_1.ogg
             @with
-            -preposition
             -/media/english/uk_pron/w/wit/with_/with__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wit/with_/with__gb_1.ogg
             -/media/english/us_pron/w/wit/with_/with__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/wit/with_/with__us_1_rr.ogg
             @without
-            -preposition
             -/media/english/uk_pron/w/wit/witho/without__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wit/witho/without__gb_1.ogg
             -/media/english/us_pron/w/wit/witho/without__us_1_rr.mp3
             -/media/english/us_pron_ogg/w/wit/witho/without__us_1_rr.ogg
             @woman
-            -noun
             -/media/english/uk_pron/w/wom/woman/woman__gb_2.mp3
             -/media/english/uk_pron_ogg/w/wom/woman/woman__gb_2.ogg
             -/media/english/us_pron/w/wom/woman/woman__us_1.mp3
             -/media/english/us_pron_ogg/w/wom/woman/woman__us_1.ogg
             @wonderful
-            -adjective
             -/media/english/uk_pron/w/won/wonde/wonderful__gb_1.mp3
             -/media/english/uk_pron_ogg/w/won/wonde/wonderful__gb_1.ogg
             -/media/english/us_pron/w/won/wonde/wonderful__us_2.mp3
             -/media/english/us_pron_ogg/w/won/wonde/wonderful__us_2.ogg
             @word
-            -noun
             -/media/english/uk_pron/w/wor/word_/word__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wor/word_/word__gb_1.ogg
             -/media/english/us_pron/w/wor/word_/word__us_1.mp3
             -/media/english/us_pron_ogg/w/wor/word_/word__us_1.ogg
             @work
-            -noun
             -/media/english/uk_pron/w/wor/work_/work__gb_2.mp3
             -/media/english/uk_pron_ogg/w/wor/work_/work__gb_2.ogg
             -/media/english/us_pron/w/wor/work_/work__us_1.mp3
             -/media/english/us_pron_ogg/w/wor/work_/work__us_1.ogg
             @worker
-            -noun
             -/media/english/uk_pron/w/wor/worke/worker__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wor/worke/worker__gb_1.ogg
             -/media/english/us_pron/w/wor/worke/worker__us_2.mp3
             -/media/english/us_pron_ogg/w/wor/worke/worker__us_2.ogg
             @world
-            -noun
             -/media/english/uk_pron/w/wor/world/world__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wor/world/world__gb_1.ogg
             -/media/english/us_pron/w/wor/world/world__us_1.mp3
             -/media/english/us_pron_ogg/w/wor/world/world__us_1.ogg
             @would
-            -modal verb
             -/media/english/uk_pron/w/wou/would/would__gb_4.mp3
             -/media/english/uk_pron_ogg/w/wou/would/would__gb_4.ogg
             -/media/english/us_pron/w/wou/would/would__us_6_rr.mp3
             -/media/english/us_pron_ogg/w/wou/would/would__us_6_rr.ogg
             @write
-            -verb
             -/media/english/uk_pron/r/rig/right/right__gb_4.mp3
             -/media/english/uk_pron_ogg/r/rig/right/right__gb_4.ogg
             -/media/english/us_pron/w/wri/write/write__us_1.mp3
             -/media/english/us_pron_ogg/w/wri/write/write__us_1.ogg
             @writer
-            -noun
             -/media/english/uk_pron/w/wri/write/writer__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wri/write/writer__gb_1.ogg
             -/media/english/us_pron/w/wri/write/writer__us_3.mp3
             -/media/english/us_pron_ogg/w/wri/write/writer__us_3.ogg
             @writing
-            -noun
             -/media/english/uk_pron/w/wri/writi/writing__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wri/writi/writing__gb_1.ogg
             -/media/english/us_pron/w/wri/writi/writing__us_4.mp3
             -/media/english/us_pron_ogg/w/wri/writi/writing__us_4.ogg
             @wrong
-            -adjective
             -/media/english/uk_pron/w/wro/wrong/wrong__gb_1.mp3
             -/media/english/uk_pron_ogg/w/wro/wrong/wrong__gb_1.ogg
             -/media/english/us_pron/w/wro/wrong/wrong__us_1.mp3
             -/media/english/us_pron_ogg/w/wro/wrong/wrong__us_1.ogg
             @yeah
-            -exclamation
             -/media/english/uk_pron/y/yea/yeah_/yeah__gb_1.mp3
             -/media/english/uk_pron_ogg/y/yea/yeah_/yeah__gb_1.ogg
             -/media/english/us_pron/y/yea/yeah_/yeah__us_1.mp3
             -/media/english/us_pron_ogg/y/yea/yeah_/yeah__us_1.ogg
             @year
-            -noun
             -/media/english/uk_pron/y/yea/year_/year__gb_1.mp3
             -/media/english/uk_pron_ogg/y/yea/year_/year__gb_1.ogg
             -/media/english/us_pron/y/yea/year_/year__us_1.mp3
             -/media/english/us_pron_ogg/y/yea/year_/year__us_1.ogg
             @yellow
-            -adjective
             -/media/english/uk_pron/y/yel/yello/yellow__gb_2.mp3
             -/media/english/uk_pron_ogg/y/yel/yello/yellow__gb_2.ogg
             -/media/english/us_pron/y/yel/yello/yellow__us_3.mp3
             -/media/english/us_pron_ogg/y/yel/yello/yellow__us_3.ogg
             @yes
-            -exclamation
             -/media/english/uk_pron/y/yes/yes__/yes__gb_2.mp3
             -/media/english/uk_pron_ogg/y/yes/yes__/yes__gb_2.ogg
             -/media/english/us_pron/y/yes/yes__/yes__us_2.mp3
             -/media/english/us_pron_ogg/y/yes/yes__/yes__us_2.ogg
             @yesterday
-            -adverb
             -/media/english/uk_pron/y/yes/yeste/yesterday__gb_1.mp3
             -/media/english/uk_pron_ogg/y/yes/yeste/yesterday__gb_1.ogg
             -/media/english/us_pron/y/yes/yeste/yesterday__us_1_rr.mp3
             -/media/english/us_pron_ogg/y/yes/yeste/yesterday__us_1_rr.ogg
             @you
-            -pronoun
             -/media/english/uk_pron/y/you/you__/you__gb_1.mp3
             -/media/english/uk_pron_ogg/y/you/you__/you__gb_1.ogg
             -/media/english/us_pron/y/you/you__/you__us_1_rr.mp3
             -/media/english/us_pron_ogg/y/you/you__/you__us_1_rr.ogg
             @young
-            -adjective
             -/media/english/uk_pron/y/you/young/young_1_gb_1.mp3
             -/media/english/uk_pron_ogg/y/you/young/young_1_gb_1.ogg
             -/media/english/us_pron/y/you/young/young__us_1.mp3
             -/media/english/us_pron_ogg/y/you/young/young__us_1.ogg
             @your
-            -determiner
             -/media/english/uk_pron/y/you/your_/your__gb_1.mp3
             -/media/english/uk_pron_ogg/y/you/your_/your__gb_1.ogg
             -/media/english/us_pron/y/you/your_/your__us_3_rr.mp3
             -/media/english/us_pron_ogg/y/you/your_/your__us_3_rr.ogg
             @yourself
-            -pronoun
             -/media/english/uk_pron/y/you/yours/yourself__gb_1.mp3
             -/media/english/uk_pron_ogg/y/you/yours/yourself__gb_1.ogg
             -/media/english/us_pron/y/you/yours/yourself__us_1.mp3
