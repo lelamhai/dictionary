@@ -10,6 +10,11 @@
     .word-system {
         text-align: right;
     }
+
+    body {
+        background-color: #0f0f0f;
+        color: #fff;
+    }
 </style>
 
 <main>
@@ -23,6 +28,9 @@
                 </div>
                 <div class="item-option-game">
                     <input type="radio" id="last" name="character" value="t" data-option="2"><label for="last">Một từ vựng kết thúc ký tự "T"</label><br>
+                </div>
+                <div class="item-option-game">
+                    <input type="radio" id="middle" name="character" value="a" data-option="2"><label for="middle">Một từ vựng dựa vào ký tự kết thúc của tự vựng trước</label><br>
                 </div>
             </div>
             <div id="start-game"><button>Bắt đầu</button></div>

@@ -10,7 +10,7 @@
 </form>
 
 <?php
-    $default = 50;
+    $default = 10;
     if(!empty($_GET["number"]) && (int)$_GET["number"] > 0)
     {
         for ($i=(int)$_GET["number"]; $i <= (int)$_GET["number"]; $i++) {
@@ -19,6 +19,7 @@
                 // $option = $i;
                 require get_template_directory() . '/data/A1.php';
                 $arrs = explode('@', $text);
+
                 // print "<pre>";
                 // print_r($arrs);
                 // print "</pre>";
@@ -38,7 +39,7 @@
                     foreach($list as $arr){
                         if(trim($arr) != "")
                         {
-                            $words = explode('-', $arr);
+                            $words = explode('*', $arr);
                             $flag =  0;
             
                             $postId = 0;

@@ -5,18 +5,18 @@ $(document).ready(function(){
     // $('.top-g li').each(function(i, obj) {
     //     // let data = $(obj).data('ox3000');
     //     let data = $(obj).data('ox5000');
-    //     if(data == 'a1')
+    //     if(data == 'c1')
     //     {   
     //         if(wordLast != $.trim($(obj).children("a").text()))
     //         {
     //             total ++;
     //             string = string + 
     //             "@"+ $(obj).children("a").text()+"\n"+ 
-    //             "-"+ $(obj).children("div").children(".belong-to").text()+"\n"+
-    //             "-"+ $(obj).children("div").children(".pron-uk").data("src-mp3")+"\n"+
-    //             "-"+ $(obj).children("div").children(".pron-uk").data("src-ogg")+"\n"+
-    //             "-"+ $(obj).children("div").children(".pron-us").data("src-mp3")+"\n"+
-    //             "-"+ $(obj).children("div").children(".pron-us").data("src-ogg")+"\n"
+    //             "*"+ $(obj).children("div").children(".belong-to").text()+"\n"+
+    //             "*"+ $(obj).children("div").children(".pron-uk").data("src-mp3")+"\n"+
+    //             "*"+ $(obj).children("div").children(".pron-uk").data("src-ogg")+"\n"+
+    //             "*"+ $(obj).children("div").children(".pron-us").data("src-mp3")+"\n"+
+    //             "*"+ $(obj).children("div").children(".pron-us").data("src-ogg")+"\n"
     //             ;
     //             wordLast = $.trim($(obj).children("a").text());
     //         }
