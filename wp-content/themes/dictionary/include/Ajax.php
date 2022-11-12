@@ -1,16 +1,87 @@
 <?php
-    $args = array(  
-        'post_type' => 'dictionary',
-        'post_status' => 'publish',
-        'posts_per_page' => -1, 
-        'order' => 'ASC', 
-        'option' => true,
-        'custom_search' => 'c',
-
-    );
-    $loop = new WP_Query( $args ); 
-        
-    while ( $loop->have_posts() ) : $loop->the_post(); 
-        echo the_title(); echo "<br>";
-    endwhile;
-    wp_reset_postdata(); 
+    add_filter( 'posts_where', 'custom_search_start_with', 10, 2 );
+    function custom_search_start_with( $where, $query ) {
+        global $wpdb;
+    
+        $condition = esc_sql( $query->get( 'condition' ) );
+        $option = esc_sql( $query->get( 'option' ) );
+        $custom_search = esc_sql( $query->get( 'custom_search' ) );
+        $character =  esc_sql( $query->get( 'character' ) );
+    
+        $category = "'$character%'";
+        if($option == 2)
+        {
+            $category = "'%$character'";
+        }
+    
+        if($condition == 0)
+        {
+            $where .= " AND $wpdb->posts.post_title = '$custom_search' AND $wpdb->posts.post_title LIKE $category";
+        } else {
+            if($option == 1)
+            {
+                $where .= " AND $wpdb->posts.post_title LIKE '$custom_search%'";
+            } else {
+                $where .= " AND $wpdb->posts.post_title LIKE '%$custom_search'";
+            }
+        }
+        return $where;
+    }
+    
+    add_action('wp_ajax_find_word', 'find_word_function');
+    add_action('wp_ajax_nopriv_find_word', 'find_word_function');
+    function find_word_function() {
+        if(!empty($_GET["word"]) )
+        {
+            $json = array();
+    
+            $listId = json_decode($_GET["listId"]);
+            $args = array(  
+                'post_type' => 'dictionary',
+                'post_status' => 'publish',
+                'post__not_in' => $listId,
+                'condition' => 0,
+                'option' => $_GET["option"],
+                'custom_search' => $_GET["word"],
+                'character' => $_GET["character"],
+                'posts_per_page' => 1
+            );
+            $query = new WP_Query( $args ); 
+            $oldPosts = $query->posts;
+    
+            if(count($oldPosts) > 0) {
+                array_push($listId, $oldPosts[0]->ID);
+                $args = array(  
+                    'post_type' => 'dictionary',
+                    'post_status' => 'publish',
+                    'post__not_in' => $listId,
+                    'orderby' => 'rand',
+                    'condition' => 1,
+                    'option' => $_GET["option"],
+                    'custom_search' => $_GET["character"],
+                    'posts_per_page' => 1
+                );
+                $query = new WP_Query( $args );
+                $NewPosts = $query->posts;
+                if(count($NewPosts) > 0)
+                {
+                    array_push($listId, $NewPosts[0]->ID);
+                    $json["result"] = true;
+                    $json["newWord"] = $NewPosts[0]->post_title;
+                    $json["listId"] = json_encode($listId);
+                } else {
+                    $json["result"] = false;
+                    $json["newWord"] = null;
+                    $json["listId"] = json_encode($listId);
+                }
+            } else {
+                $json["result"] = false;
+                $json["newWord"] = null;
+                $json["listId"] = json_encode($listId);
+            }
+            wp_send_json_success($json);
+            
+        }
+        wp_die(); 
+    }
+?>

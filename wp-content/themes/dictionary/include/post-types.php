@@ -54,6 +54,8 @@ function add_metabox() {
 
 // Show layout
 function dictionary_metabox_callback( $post ) {
+    $level = get_post_meta( $post->ID, 'level', true );
+
 	$ukMP3 = get_post_meta( $post->ID, 'uk_mp3', true );
 	$ukOGG = get_post_meta( $post->ID, 'uk_ogg', true );
 	$ukIPA = get_post_meta( $post->ID, 'uk_ipa', true );
@@ -65,41 +67,202 @@ function dictionary_metabox_callback( $post ) {
 	wp_nonce_field( 'dictionarynonce', '_softkeymktnonce' );
     
 
-    $metabox    =   '<div class="wrap-dictionary">
-                        <div class="group-pronunciation">';
-    $metabox    .=          '<div class="pronunciation-label">Pronunciation UK</div>'; 
-    $metabox    .=          '<div class="pronunciation-input">
-                                <div class="pronunciation-field">
-                                    <div class="field-label">MP3</div>
-                                    <input value="'.esc_attr($ukMP3).'" name="uk_mp3">
+    $metabox    =   '<div class="dictionary">
+                        <div class="col">
+                            <div class="wrap-pronunciation">
+                                <div class="group-pronunciation">
+                                    <div class="pronunciation-label">Pronunciation UK</div> 
+                                    <div class="pronunciation-input">
+                                        <div class="pronunciation-field">
+                                            <div class="field-label">MP3</div>
+                                            <input value="'.esc_attr($ukMP3).'" name="uk_mp3">
+                                        </div>
+                                        <div class="pronunciation-field">
+                                            <div class="field-label">OGG</div>
+                                            <input value="'.esc_attr($ukOGG).'" name="uk_ogg">
+                                        </div>
+                                        <div class="pronunciation-field">
+                                            <div class="field-label">IPA</div>
+                                            <input value="'.esc_attr($ukIPA).'" name="uk_ipa">
+                                        </div>
+                                    </div>       
                                 </div>
-                                <div class="pronunciation-field">
-                                    <div class="field-label">OGG</div>
-                                    <input value="'.esc_attr($ukOGG).'" name="uk_ogg">
+                                <div class="group-pronunciation">
+                                    <div class="pronunciation-label">Pronunciation US</div>
+                                    <div class="pronunciation-input">
+                                        <div class="pronunciation-field">
+                                            <div class="field-label">MP3</div>
+                                            <input value="'.esc_attr($usMP3).'" name="us_mp3">
+                                        </div>
+                                        <div class="pronunciation-field">
+                                            <div class="field-label">OGG</div>
+                                            <input value="'.esc_attr($usOGG).'" name="us_ogg">
+                                        </div>
+                                        <div class="pronunciation-field">
+                                            <div class="field-label">IPA</div>
+                                            <input value="'.esc_attr($usIPA).'" name="us_ipa">
+                                        </div>
+                                    </div>       
                                 </div>
-                                <div class="pronunciation-field">
-                                    <div class="field-label">IPA</div>
-                                    <input value="'.esc_attr($ukIPA).'" name="uk_ipa">
-                                </div>
-                            </div>';       
-    $metabox    .=      '</div>
-                        <div class="group-pronunciation">';
-    $metabox    .=          '<div class="pronunciation-label">Pronunciation US</div>';
-    $metabox    .=          '<div class="pronunciation-input">
-                                <div class="pronunciation-field">
-                                    <div class="field-label">MP3</div>
-                                    <input value="'.esc_attr($usMP3).'" name="us_mp3">
-                                </div>
-                                <div class="pronunciation-field">
-                                    <div class="field-label">OGG</div>
-                                    <input value="'.esc_attr($usOGG).'" name="us_ogg">
-                                </div>
-                                <div class="pronunciation-field">
-                                    <div class="field-label">IPA</div>
-                                    <input value="'.esc_attr($usIPA).'" name="us_ipa">
-                                </div>
-                            </div>';       
-    $metabox    .=      '</div>
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="wrap-level">
+                                <div class="level-label">Level</div>
+                                <div class="level-content">';
+                                    switch(trim($level))
+                                    {
+                                        case 'a1':
+        $metabox .=                     '<div class="item-level">
+                                            <input type="radio" id="a1" name="level" value="a1" checked>
+                                            <label for="a1">A1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="a2" name="level" value="a2">
+                                            <label for="a2">A2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b1" name="level" value="b1">
+                                            <label for="b1">B1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b2" name="level" value="b2">
+                                            <label for="b2">B2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="c1" name="level" value="c1">
+                                            <label for="c1">C1</label>
+                                        </div>
+                                        ';
+                                        break;
+
+                                        case 'a2':
+        $metabox .=                     '<div class="item-level">
+                                            <input type="radio" id="a1" name="level" value="a1">
+                                            <label for="a1">A1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="a2" name="level" value="a2" checked>
+                                            <label for="a2">A2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b1" name="level" value="b1">
+                                            <label for="b1">B1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b2" name="level" value="b2">
+                                            <label for="b2">B2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="c1" name="level" value="c1">
+                                            <label for="c1">C1</label>
+                                        </div>
+                                        ';
+                                        break;
+
+                                        case 'b1':
+        $metabox .=                     '
+                                        <div class="item-level">
+                                            <input type="radio" id="a1" name="level" value="a1">
+                                            <label for="a1">A1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="a2" name="level" value="a2">
+                                            <label for="a2">A2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b1" name="level" value="b1" checked>
+                                            <label for="b1">B1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b2" name="level" value="b2">
+                                            <label for="b2">B2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="c1" name="level" value="c1">
+                                            <label for="c1">C1</label>
+                                        </div>
+                                        ';
+                                        break;
+
+                                        case 'b2':
+        $metabox .=                     '
+                                        <div class="item-level">
+                                            <input type="radio" id="a1" name="level" value="a1">
+                                            <label for="a1">A1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="a2" name="level" value="a2">
+                                            <label for="a2">A2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b1" name="level" value="b1">
+                                            <label for="b1">B1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b2" name="level" value="b2" checked>
+                                            <label for="b2">B2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="c1" name="level" value="c1">
+                                            <label for="c1">C1</label>
+                                        </div>
+                                        ';
+
+                                        case 'c1':
+        $metabox .=                     '
+                                        <div class="item-level">
+                                            <input type="radio" id="a1" name="level" value="a1">
+                                            <label for="a1">A1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="a2" name="level" value="a2">
+                                            <label for="a2">A2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b1" name="level" value="b1">
+                                            <label for="b1">B1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b2" name="level" value="b2">
+                                            <label for="b2">B2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="c1" name="level" value="c1" checked>
+                                            <label for="c1">C1</label>
+                                        </div>';
+
+                                        default:
+        $metabox .=                     '
+                                        <div class="item-level">
+                                            <input type="radio" id="a1" name="level" value="a1">
+                                            <label for="a1">A1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="a2" name="level" value="a2">
+                                            <label for="a2">A2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b1" name="level" value="b1">
+                                            <label for="b1">B1</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="b2" name="level" value="b2">
+                                            <label for="b2">B2</label>
+                                        </div>
+                                        <div class="item-level">
+                                            <input type="radio" id="c1" name="level" value="c1">
+                                            <label for="c1">C1</label>
+                                        </div>';
+                                    }
+       
+        $metabox .=            '</div>
+                            </div>
+                        </div>
+
+
+
                     </div>';
 	echo $metabox;
 }
@@ -124,6 +287,12 @@ function softkeymkt_save_meta( $post_id, $post ) {
 	// Do not save the data if autosave
 	if ( defined('DOING_AUTOSAVE') && DOING_AUTOSAVE ) {
 		return $post_id;
+	}
+
+    if( isset( $_POST[ 'level' ] ) ) {
+		update_post_meta( $post_id, 'level', sanitize_text_field( $_POST[ 'level' ] ) );
+	} else {
+		delete_post_meta( $post_id, 'level' );
 	}
 
 	if( isset( $_POST[ 'uk_mp3' ] ) ) {

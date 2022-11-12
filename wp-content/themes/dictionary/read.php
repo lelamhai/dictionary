@@ -4,87 +4,103 @@
     */
     get_header();
 ?>
+<form method="get">
+    <input type="number" name="number"><br>
+    <button>Submit</button>
+</form>
+
 <?php
-    $default = 10;
-
-    for ($i=1; $i <= 1; $i++) {
-            $listSound = array();
-            $pathRoot = "https://www.oxfordlearnersdictionaries.com";
-            // $option = $i;
-            require get_template_directory() . '/data.php';
-            $arrs = explode('@', $text);
-            // print "<pre>";
-            // print_r($arrs);
-            // print "</pre>";
-    
-    
-            $end = $i * $default;
-            $begin = $end - $default;
-    
-            $list = array_slice($arrs, $begin, $end);
-            // print "<pre>";
-            // print_r($list);
-            // print "</pre>";
-    
-            if(count($list) > 0)
-            {
-                foreach($list as $arr){
-                    if(trim($arr) != "")
-                    {
-                        $words = explode('-', $arr);
-                        $flag =  0;
+    $default = 50;
+    if(!empty($_GET["number"]) && (int)$_GET["number"] > 0)
+    {
+        for ($i=(int)$_GET["number"]; $i <= (int)$_GET["number"]; $i++) {
+                $listSound = array();
+                $pathRoot = "https://www.oxfordlearnersdictionaries.com";
+                // $option = $i;
+                require get_template_directory() . '/data/A1.php';
+                $arrs = explode('@', $text);
+                // print "<pre>";
+                // print_r($arrs);
+                // print "</pre>";
         
-                        $postId = 0;
-                        foreach($words as $word){
-                            if($flag == 0){
-                                echo "Word: ".$word; echo "<br>";
-                                $new_post = array(
-                                    'post_type'     => 'dictionary',
-                                    'post_title'    => $word,
-                                    'post_status'   => 'publish',
-                                );
-                            
-                                $postId = wp_insert_post($new_post);
-                            } else {
-                                $content = explode('/', $word);
+        
+                $end = $default;
+                $begin = ((int)$_GET["number"] * $default) - $default;
+        
+                $list = array_slice($arrs, $begin, $end);
+                print "<pre>";
+                print_r($list);
+                print "</pre>";
 
-                                $url = $pathRoot. $word;
-                                echo "Name file: ".basename($url); echo "<br>";
-                                array_push($listSound, trim($url));
 
-                                switch($flag)
-                                {
-                                    case 1;
-                                        update_field('pronunciation_uk', array('mp3'=>basename($url)), $postId);
-                                        break;
-
-                                    case 2;
-                                        update_field('pronunciation_uk', array('ogg'=>basename($url)), $postId);
-                                        break;
-
-                                    case 3;
-                                        update_field('pronunciation_us', array('mp3'=>basename($url)), $postId);
-                                        break;
-                                    case 4;
-                                        update_field('pronunciation_us', array('ogg'=>basename($url)), $postId);
-                                        break;
-                                }
+                if(count($list) > 0)
+                {
+                    foreach($list as $arr){
+                        if(trim($arr) != "")
+                        {
+                            $words = explode('-', $arr);
+                            $flag =  0;
+            
+                            $postId = 0;
+                            foreach($words as $word){
+                                if($flag == 0){
+                                    echo "Word: ".$word; echo "<br>";
+                                    $new_post = array(
+                                        'post_type'     => 'dictionary',
+                                        'post_title'    => $word,
+                                        'post_status'   => 'publish',
+                                    );
                                 
+                                    $postId = wp_insert_post($new_post);
+                                } else {
+                                    switch($flag)
+                                    {
+                                        case 1;
+                                            echo "level: " . $word; echo "<br>";
+                                            update_post_meta( $postId, 'level', trim($word));
+                                            break;
 
-    
+                                        case 2;
+                                            $url = $pathRoot. $word;
+                                            echo "Name file: ".basename($url); echo "<br>";
+                                            array_push($listSound, trim($url));
+                                            update_post_meta($postId, "uk_mp3", basename($url));
+                                            break;
+
+                                        case 3;
+                                            $url = $pathRoot. $word;
+                                            echo "Name file: ".basename($url); echo "<br>";
+                                            array_push($listSound, trim($url));
+                                            update_post_meta($postId, "uk_ogg", basename($url));
+                                            break;
+
+                                        case 4;
+                                            $url = $pathRoot. $word;
+                                            echo "Name file: ".basename($url); echo "<br>";
+                                            array_push($listSound, trim($url));
+                                            update_post_meta($postId, "us_mp3", basename($url));
+                                            break;
+
+                                        case 5;
+                                            $url = $pathRoot. $word;
+                                            echo "Name file: ".basename($url); echo "<br>";
+                                            array_push($listSound, trim($url));
+                                            update_post_meta($postId, "us_ogg", basename($url));
+                                            break;
+                                    }
+                                }
+                                $flag ++;
                             }
-                            $flag ++;
+                            echo "<br><br><br>";
                         }
-        
-                        echo "<br><br><br>";
                     }
+        
+                    multiple_download($listSound);
+                    // sleep(60); 
+                } else {
+                    echo "Not data";
                 }
-    
-                multiple_download($listSound);
-                sleep(60); // this should halt for 3 seconds for every loop
-            } else {
-                echo "Not data";
-            }
+        }
     }
 ?>
 

@@ -13,15 +13,6 @@
 </style>
 
 <main>
-    <?php
-        // update_field('ipa', array('uk'=>'haitho'), 161);
-        // update_field('sound', array('pron-uk'=> array('mp3' => 'lelamhai')), 161);
-
-        var_dump(get_post_meta( 232, 'pronunciation_uk_mp3', true ));
-    ?>
-
-    
-
     <section class="advertisement"></section>
     <section class="center">
         <div class="rule-game">
