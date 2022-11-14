@@ -41,9 +41,27 @@ $(document).ready(function(){
         let option = $('input[name="character"]:checked').data("option");
         $("#character").val(char);
         $("#option").val(option);
+
+        var label = $("label[for='"+char+"']").text();
+        $('.rule-game').css("display", "none");
+        $('.result-option').text(label);
+        $('.form').css("display", "block");
     });
-    
+
     $("#submit" ).click(function() {
+        sendWordServer();
+    });
+});
+
+$(document).keypress(function(event){
+    var keycode = (event.keyCode ? event.keyCode : event.which);
+    if(keycode == '13'){
+        sendWordServer(); 
+    }
+});
+
+function sendWordServer()
+{
         var wordUser = $("#word").val();
         var character = $("#character").val();
         var listId = $("#listId").val();
@@ -80,7 +98,9 @@ $(document).ready(function(){
                     let wordSystem = obj.data.newWord;
                     let htmlSystem = '<div class="word-system">'+wordSystem+'</div>';
                     $("#ajax-list-words").append(htmlSystem);
-    
+
+                    $("#word").val("");
+                    $("#word").focus();
                 } else {
                     console.log(response);
                 }
@@ -89,5 +109,4 @@ $(document).ready(function(){
     
             }
         });
-    });
-});
+}
