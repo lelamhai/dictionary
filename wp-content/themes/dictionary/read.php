@@ -17,7 +17,7 @@
                 $listSound = array();
                 $pathRoot = "https://www.oxfordlearnersdictionaries.com";
                 // $option = $i;
-                require get_template_directory() . '/data/A1.php';
+                require get_template_directory() . '/data/C1.php';
                 $arrs = explode('@', $text);
 
                 // print "<pre>";

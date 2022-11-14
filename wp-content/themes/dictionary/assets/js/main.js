@@ -5,7 +5,7 @@ $(document).ready(function(){
     // $('.top-g li').each(function(i, obj) {
     //     // let data = $(obj).data('ox3000');
     //     let data = $(obj).data('ox5000');
-    //     if(data == 'c1')
+    //     if(data == 'b2')
     //     {   
     //         if(wordLast != $.trim($(obj).children("a").text()))
     //         {

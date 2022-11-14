@@ -209,6 +209,7 @@ function dictionary_metabox_callback( $post ) {
                                             <label for="c1">C1</label>
                                         </div>
                                         ';
+                                        break;
 
                                         case 'c1':
         $metabox .=                     '
@@ -232,7 +233,7 @@ function dictionary_metabox_callback( $post ) {
                                             <input type="radio" id="c1" name="level" value="c1" checked>
                                             <label for="c1">C1</label>
                                         </div>';
-
+                                        break;
                                         default:
         $metabox .=                     '
                                         <div class="item-level">
