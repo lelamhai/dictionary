@@ -48,29 +48,12 @@ $(document).ready(function(){
         $('.result-option').text(label);
         $('.form').css("display", "block");
         $('.wrap-top').css("display", "flex");
-        
-        if(condition == 1)
-        {
-            $('#first-char').text(letter);
-            $('#last-char').css("display", "none");
-        } else {
-            $('#last-char').text(letter);
-            $('#first-char').css("display", "none");
-        }
 
-        // startDownCount(10);
+        startDownCount(10);
     });
 
     $("#submit" ).click(function() {
         sendWordServer();
-        if(option == 1)
-        {
-            $('#first-char').text(letter);
-            $('#last-char').css("display", "none");
-        } else {
-            $('#last-char').text(letter);
-            $('#first-char').css("display", "none");
-        }
     });
 
     $(document).keypress(function(event){
@@ -102,12 +85,25 @@ function stopCountDown()
 }
 
 function sendWordServer() {
-    var wordUser = $("#word").val();
+    var wordUser = $.trim($("#word").val());
     var letterSystem = $("#letterSystem").val();
     var conditionSystem = $("#conditionSystem").val();
     var listId = $("#listId").val();
+    var index = 0;
 
-    if ($.trim(wordUser).length == 0) {
+    if (wordUser.length == 0) {
+        return false;
+    }
+
+    if(conditionSystem == 2)
+    {
+        index = (wordUser.length) - 1;
+    }
+
+    if(wordUser.charAt(index) != letterSystem)
+    {
+        fail++;
+        $('#fail').text(fail);
         return false;
     }
 
@@ -125,7 +121,6 @@ function sendWordServer() {
         },
         beforeSend: function () {},
         success: function (response) {
-            console.log(response);
             var obj = jQuery.parseJSON(response);
             if (obj.data.result) {
                 stopCountDown();
@@ -141,7 +136,6 @@ function sendWordServer() {
                 $("#word").focus();
                 startDownCount(10);
             } else {
-                console.log(response);
                 fail++;
                 $('#fail').text(fail);
             }

@@ -29,8 +29,22 @@
         if(!empty($_GET["word"]) )
         {
             $json = array();
-    
             $listId = json_decode($_GET["listId"]);
+            $index = 0;
+
+            if($_GET["condition"] == 2)
+            {
+                $index = strlen($_GET["word"])-1;
+            }
+
+            if(substr($_GET["word"], $index, 1) != $_GET["letter"])
+            {
+                $json["result"] = false;
+                $json["newWord"] = null;
+                $json["listId"] = json_encode($listId);
+                $json["message"] = "Hệ thống đang tìm lỗi!";
+            }
+
             $currentPosts = find_word($listId, $_GET["word"], $_GET["letter"], $_GET["condition"], 1);
 
             if(count($currentPosts) > 0) {
@@ -44,16 +58,20 @@
                     $json["result"] = true;
                     $json["newWord"] = $NewPosts[0]->post_title;
                     $json["listId"] = json_encode($listId);
+                    $json["message"] = "Đã tìm thấy từ vựng";
                 } else {
                     $json["result"] = false;
                     $json["newWord"] = null;
                     $json["listId"] = json_encode($listId);
+                    $json["message"] = "Không tìm thấy từ vựng";
                 }
             } else {
                 $json["result"] = false;
                 $json["newWord"] = null;
                 $json["listId"] = json_encode($listId);
+                $json["message"] = "Không tìm thấy từ vựng";
             }
+
             wp_send_json_success($json);
         }
         wp_die(); 

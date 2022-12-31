@@ -98,9 +98,7 @@
                         <input type="hidden" id="letterSystem" value="<?php echo $listChar[$first];?>">
                         <input type="hidden" id="conditionSystem" value="1">
                         <div>
-                            <div id="first-char">first</div>
                             <input type="text" id="word">
-                            <div id="last-char">last</div>
                         </div>
                         <div>
                             <button id="submit">Submit</button>

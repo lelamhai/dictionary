@@ -5,7 +5,7 @@ require get_template_directory() . '/include/post-types.php';
 add_action('wp_enqueue_scripts', 'regsiter_styles');
 function regsiter_styles()
 {
-    $version = "80";
+    $version = "93";
     
     wp_enqueue_style('dictionary-bootstrap', get_template_directory_uri() ."/assets/bootstrap/bootstrap.min.css", array(), $version);
 
