@@ -1,30 +1,25 @@
 <?php
-    add_filter( 'posts_where', 'custom_search_start_with', 10, 2 );
-    function custom_search_start_with( $where, $query ) {
+    add_filter( 'posts_where', 'custom_search', 10, 2 );
+    function custom_search( $where, $query ) {
         global $wpdb;
     
         $condition = esc_sql( $query->get( 'condition' ) );
         $option = esc_sql( $query->get( 'option' ) );
-        $custom_search = esc_sql( $query->get( 'custom_search' ) );
-        $character =  esc_sql( $query->get( 'character' ) );
-    
-        $category = "'$character%'";
-        if($option == 2)
+        $word = esc_sql( $query->get( 'word' ) );
+        $letter =  esc_sql( $query->get( 'letter' ) );
+        
+        if($option == 1)
         {
-            $category = "'%$character'";
-        }
-    
-        if($condition == 0)
-        {
-            $where .= " AND $wpdb->posts.post_title = '$custom_search' AND $wpdb->posts.post_title LIKE $category";
+            $where .= " AND $wpdb->posts.post_title = '$word'";
         } else {
-            if($option == 1)
+            if($condition == 1)
             {
-                $where .= " AND $wpdb->posts.post_title LIKE '$custom_search%'";
+                $where .= " AND $wpdb->posts.post_title LIKE '$letter%'";
             } else {
-                $where .= " AND $wpdb->posts.post_title LIKE '%$custom_search'";
+                $where .= " AND $wpdb->posts.post_title LIKE '%$letter'";
             }
         }
+
         return $where;
     }
     
@@ -36,33 +31,13 @@
             $json = array();
     
             $listId = json_decode($_GET["listId"]);
-            $args = array(  
-                'post_type' => 'dictionary',
-                'post_status' => 'publish',
-                'post__not_in' => $listId,
-                'condition' => 0,
-                'option' => $_GET["option"],
-                'custom_search' => $_GET["word"],
-                'character' => $_GET["character"],
-                'posts_per_page' => 1
-            );
-            $query = new WP_Query( $args ); 
-            $oldPosts = $query->posts;
-    
-            if(count($oldPosts) > 0) {
-                array_push($listId, $oldPosts[0]->ID);
-                $args = array(  
-                    'post_type' => 'dictionary',
-                    'post_status' => 'publish',
-                    'post__not_in' => $listId,
-                    'orderby' => 'rand',
-                    'condition' => 1,
-                    'option' => $_GET["option"],
-                    'custom_search' => $_GET["character"],
-                    'posts_per_page' => 1
-                );
-                $query = new WP_Query( $args );
-                $NewPosts = $query->posts;
+            $currentPosts = find_word($listId, $_GET["word"], $_GET["letter"], $_GET["condition"], 1);
+
+            if(count($currentPosts) > 0) {
+                array_push($listId, $currentPosts[0]->ID);
+
+                $NewPosts = find_word($listId, $_GET["word"], $_GET["letter"], $_GET["condition"], 2);
+                
                 if(count($NewPosts) > 0)
                 {
                     array_push($listId, $NewPosts[0]->ID);
@@ -80,8 +55,25 @@
                 $json["listId"] = json_encode($listId);
             }
             wp_send_json_success($json);
-            
         }
         wp_die(); 
+    }
+
+    function find_word($listId, $word, $letter=null, $condition=null, $option)
+    {
+        $args = array(  
+            'post_type' => 'dictionary',
+            'post_status' => 'publish',
+            'post__not_in' => $listId,
+            'option' => $option,
+            'condition' => $condition,
+            'word' => $word,
+            'letter' => $letter,
+            'posts_per_page' => 1
+        );
+        $query = new WP_Query( $args ); 
+        $currentPosts = $query->posts;
+
+        return $currentPosts;
     }
 ?>

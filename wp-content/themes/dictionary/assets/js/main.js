@@ -1,5 +1,5 @@
 let interval;
-let char;
+let letter;
 let option;
 let fail = 0;
 
@@ -37,38 +37,38 @@ $(document).ready(function(){
 
     
     $("#start-game" ).click(function() {
-        char = $('input[name="character"]:checked').val();
-        option = $('input[name="character"]:checked').data("option");
-        $("#character").val(char);
-        $("#option").val(option);
+        letter = $('input[name="letter"]:checked').val();
+        condition = $('input[name="letter"]:checked').data("condition");
 
-        var label = $("label[for='"+char+"']").text();
+        $("#letterSystem").val(letter);
+        $("#conditionSystem").val(condition);
+
+        var label = $("label[for='"+letter+"']").text();
         $('.rule-game').css("display", "none");
         $('.result-option').text(label);
         $('.form').css("display", "block");
         $('.wrap-top').css("display", "flex");
         
-        if(option == 1)
+        if(condition == 1)
         {
-            $('#first-char').text(char);
+            $('#first-char').text(letter);
             $('#last-char').css("display", "none");
         } else {
-            $('#last-char').text(char);
+            $('#last-char').text(letter);
             $('#first-char').css("display", "none");
         }
 
-        startDownCount(10);
+        // startDownCount(10);
     });
-
 
     $("#submit" ).click(function() {
         sendWordServer();
         if(option == 1)
         {
-            $('#first-char').text(char);
+            $('#first-char').text(letter);
             $('#last-char').css("display", "none");
         } else {
-            $('#last-char').text(char);
+            $('#last-char').text(letter);
             $('#first-char').css("display", "none");
         }
     });
@@ -79,9 +79,6 @@ $(document).ready(function(){
             sendWordServer(); 
         }
     });
-
-
-    
 });
 
 function startDownCount(counter) {
@@ -94,7 +91,6 @@ function startDownCount(counter) {
             return;
         }else{
             $('#time').text(counter);
-            console.log("Timer --> " + counter);
         }
     }, 1000);
 }
@@ -107,9 +103,9 @@ function stopCountDown()
 
 function sendWordServer() {
     var wordUser = $("#word").val();
-    var character = $("#character").val();
+    var letterSystem = $("#letterSystem").val();
+    var conditionSystem = $("#conditionSystem").val();
     var listId = $("#listId").val();
-    var option = $("#option").val();
 
     if ($.trim(wordUser).length == 0) {
         return false;
@@ -123,31 +119,32 @@ function sendWordServer() {
         data: {
         action: "find_word",
         word: wordUser,
-        character: character,
+        letter: letterSystem,
+        condition: conditionSystem,
         listId: listId,
-        option: option,
         },
         beforeSend: function () {},
         success: function (response) {
-        var obj = jQuery.parseJSON(response);
-        if (obj.data.result) {
-            stopCountDown();
-            $("#listId").val(obj.data.listId);
-            let htmlUser = '<div class="word-user">' + wordUser + "</div>";
-            $("#ajax-list-words").append(htmlUser);
-
-            let wordSystem = obj.data.newWord;
-            let htmlSystem = '<div class="word-system">' + wordSystem + "</div>";
-            $("#ajax-list-words").append(htmlSystem);
-
-            $("#word").val("");
-            $("#word").focus();
-            startDownCount(10);
-        } else {
             console.log(response);
-            fail++;
-            $('#fail').text(fail);
-        }
+            var obj = jQuery.parseJSON(response);
+            if (obj.data.result) {
+                stopCountDown();
+                $("#listId").val(obj.data.listId);
+                let htmlUser = '<div class="word-user">' + wordUser + "</div>";
+                $("#ajax-list-words").append(htmlUser);
+
+                let wordSystem = obj.data.newWord;
+                let htmlSystem = '<div class="word-system">' + wordSystem + "</div>";
+                $("#ajax-list-words").append(htmlSystem);
+
+                $("#word").val("");
+                $("#word").focus();
+                startDownCount(10);
+            } else {
+                console.log(response);
+                fail++;
+                $('#fail').text(fail);
+            }
         },
         error: function (jqXHR, textStatus, errorThrown) {},
     });

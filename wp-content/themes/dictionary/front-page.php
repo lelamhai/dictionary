@@ -60,7 +60,6 @@
   </div>
 </div>
 
-
 <main>
     <div class="main">
         <div class="row">
@@ -80,13 +79,13 @@
                         <div class="option-game">Chọn luật chơi</div> 
                         <div class="group-option-game">
                             <div class="item-option-game">
-                                <input type="radio" id="<?php echo $listChar[$first];?>" name="character" value="<?php echo $listChar[$first];?>" data-option="1" checked><label for="<?php echo $listChar[$first];?>">Một từ vựng bắt đầu ký tự "<?php echo $listChar[$first];?>"</label><br>
+                                <input type="radio" id="<?php echo $listChar[$first];?>" name="letter" value="<?php echo $listChar[$first];?>" data-condition="1" checked><label for="<?php echo $listChar[$first];?>">Một từ vựng bắt đầu ký tự "<?php echo $listChar[$first];?>"</label><br>
                             </div>
                             <div class="item-option-game">
-                                <input type="radio" id="<?php echo $listChar[$last];?>" name="character" value="<?php echo $listChar[$last];?>" data-option="2"><label for="<?php echo $listChar[$last];?>">Một từ vựng kết thúc ký tự "<?php echo $listChar[$last];?>"</label><br>
+                                <input type="radio" id="<?php echo $listChar[$last];?>" name="letter" value="<?php echo $listChar[$last];?>" data-condition="2"><label for="<?php echo $listChar[$last];?>">Một từ vựng kết thúc ký tự "<?php echo $listChar[$last];?>"</label><br>
                             </div>
                             <!-- <div class="item-option-game">
-                                <input type="radio" id="middle" name="character" value="a" data-option="2"><label for="middle">Một từ vựng dựa vào ký tự kết thúc của từ vựng trước</label><br>
+                                <input type="radio" id="middle" name="character" value="a" data-condition="2"><label for="middle">Một từ vựng dựa vào ký tự kết thúc của từ vựng trước</label><br>
                             </div> -->
                         </div>
                         <div id="start-game"><button>Bắt đầu</button></div>
@@ -96,8 +95,8 @@
 
                     <div class="form">
                         <input type="hidden" id="listId" value="[]">
-                        <input type="hidden" id="character" value="<?php echo $listChar[$first];?>">
-                        <input type="hidden" id="option" value="1">
+                        <input type="hidden" id="letterSystem" value="<?php echo $listChar[$first];?>">
+                        <input type="hidden" id="conditionSystem" value="1">
                         <div>
                             <div id="first-char">first</div>
                             <input type="text" id="word">
